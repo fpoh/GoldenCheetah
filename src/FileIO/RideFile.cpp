@@ -794,6 +794,192 @@ static QByteArray gUncompress(const QByteArray &data)
     return result;
 }
 
+RideFile *RideFileFactory::openWithoutContextRideFile(QFile &file,
+                                           QStringList &errors, QList<RideFile*> *rideList) const
+{
+
+    // since some file names contain "." as separator, not only for suffixes
+    // find the file-type suffix and the compression type in a 2 step approach
+    //QStringList allNameParts = QFileInfo(file).fileName().split(".");
+    std::string str= "gpx";
+    QString suffix = QString::fromStdString(str);
+
+
+
+    // the result we will return
+    RideFile *result;
+
+
+
+
+    // do we have a reader for this type of file?
+    RideFileReader *reader = readFuncs_.value(suffix);
+    if (!reader) return NULL;
+
+    result = reader->openRideFile(file, errors, rideList);
+    // if we uncompressed a ride, we need to save to a temporary ride for import
+    /*if (true) { //TODO
+
+        // create a temporary ride
+        QString tmp("/home/fuzz/tmp");  //= context->athlete->home->temp().absolutePath() + "/" + QFileInfo(file.fileName()).baseName() + "." + suffix;
+
+        QFile ufile(tmp); // look at uncompressed version mot the source
+        ufile.open(QFile::ReadWrite);
+        ufile.write(data);
+        ufile.close();
+
+        // open and read the  uncompressed file
+        result = reader->openRideFile(ufile, errors, rideList);
+
+        // now zap the temporary file
+        ufile.remove();
+
+    } else {
+
+        // open and read the file
+        result = reader->openRideFile(file, errors, rideList);
+    }*/
+
+    // if it was successful, lets post process the file
+    /*if (result) {
+
+        result->context = context;
+
+        if (result->intervals().empty()) result->fillInIntervals();
+        // override the file ride time with that set from the filename
+        // but only if it matches the GC format
+        QFileInfo fileInfo(file.fileName());
+
+        // Regular expression to match either date format, including a mix of dashes and underscores
+        // yyyy-MM-dd-hh-mm-ss.extension
+        // or yyyy_MM_dd_hh_mm_ss.extension
+        // year is the only one matching for 4 digits, the rest can either be 1 or 2 digits.
+        QRegExp rx ("^((\\d{4})[-_](\\d{1,2})[-_](\\d{1,2})[-_](\\d{1,2})[-_](\\d{1,2})[-_](\\d{1,2}))\\.(.+)$");
+        if (rx.exactMatch(fileInfo.fileName())) {
+            QDate date(rx.cap(2).toInt(), rx.cap(3).toInt(),rx.cap(4).toInt());
+            QTime time(rx.cap(5).toInt(), rx.cap(6).toInt(),rx.cap(7).toInt());
+            QDateTime datetime(date, time);
+            result->setStartTime(datetime);
+        }
+
+        // legacy support for .notes file
+        QString notesFileName = fileInfo.canonicalPath() + '/' + fileInfo.baseName() + ".notes";
+        QFile notesFile(notesFileName);
+
+        // read it in if it exists and "Notes" is not already set
+        if (result->getTag("Notes", "") == "" && notesFile.exists() &&
+            notesFile.open(QFile::ReadOnly | QFile::Text)) {
+            QTextStream in(&notesFile);
+            result->setTag("Notes", in.readAll());
+            notesFile.close();
+        }
+
+        // set other "special" fields
+        result->setTag("Filename", QFileInfo(file.fileName()).fileName());
+        result->setTag("Device", result->deviceType());
+        result->setTag("File Format", result->fileFormat());
+        if (context) result->setTag("Athlete", context->athlete->cyclist);
+        result->setTag("Year", result->startTime().toString("yyyy"));
+        result->setTag("Month", result->startTime().toString("MMMM"));
+        result->setTag("Weekday", result->startTime().toString("ddd"));
+
+        // reset timestamps and distances to always start from zero
+        double timeOffset=0.00f, kmOffset=0.00f;
+        if (result->dataPoints().count()) {
+            timeOffset=result->dataPoints()[0]->secs;
+            kmOffset=result->dataPoints()[0]->km;
+        }
+
+        // drag back samples
+        if (timeOffset || kmOffset) {
+            foreach (RideFilePoint *p, result->dataPoints()) {
+                p->km = p->km - kmOffset;
+                p->secs = p->secs - timeOffset;
+            }
+        }
+
+        // drag back intervals
+        foreach(RideFileInterval *i, result->intervals()) {
+            i->start -= timeOffset;
+            i->stop -= timeOffset;
+        }
+
+        // calculate derived data series -- after data fixers applied above
+        // Update presens and filter HRV
+        XDataSeries *series = result->xdata("HRV");
+
+        if (series && series->datapoints.count() > 0) {
+            double rrMax = appsettings->value(NULL, GC_RR_MAX, "2000.0").toDouble();
+            double rrMin = appsettings->value(NULL, GC_RR_MIN, "270.0").toDouble();
+            double rrFilt = appsettings->value(NULL, GC_RR_FILT, "0.2").toDouble();
+            int rrWindow = appsettings->value(NULL, GC_RR_WINDOW, "20").toInt();
+
+            FilterHrv(series, rrMin, rrMax, rrFilt, rrWindow);
+        }
+
+        // calculate derived data series -- after data fixers applied above
+        if (context) result->recalculateDerivedSeries();
+
+        // what data is present - after processor in case 'derived' or adjusted
+        result->updateDataTag();
+
+        //foreach(RideFile::seriestype x, result->arePresent()) qDebug()<<"present="<<x;
+
+        // sample code for using XDATA, left here temporarily till we have an
+        // example of using it in a ride file reader
+#if 0
+
+        // ADD XDATA TO RIDEFILE
+
+        // For testing xdata, this code just adds an xdata series
+        // XDataSeries *xdata = new XDataSeries();
+        // xdata->name = "SPEED";
+        // xdata->valuename << "SPEED";
+        // for(int i=0; i<100; i++) {
+        // XDataPoint *p = new XDataPoint();
+        // p->km = i;
+        // p->secs = i;
+        // p->number[0] = i;
+        // xdata->datapoints.append(p);
+        // }
+        // result->addXData("SPEED", xdata);
+
+        // DEBUG OUTPUT TO SHOW XDATA LOADED FROM RIDEFILE
+        // for testing, print out what we loaded
+        if (result->xdata_.count()) {
+
+            // output the xdata series
+            qDebug()<<"XDATA";
+
+            QMapIterator<QString,XDataSeries*> xdata(result->xdata());
+            xdata.toFront();
+            while(xdata.hasNext()) {
+
+                // iterate
+                xdata.next();
+
+                XDataSeries *series = xdata.value();
+
+                // does it have values names?
+                if (series->valuename.isEmpty()) {
+                    qDebug()<<"empty xdata"<<series->name;
+                    continue;
+                } else {
+                    qDebug()<<"xdata" <<series->name<<series->valuename<<series->datapoints.count();
+                }
+
+                // samples
+                if (series->datapoints.count()) {
+                    foreach(XDataPoint *p, series->datapoints)
+                        qDebug()<<"sample:"<<p->secs<<p->km<<p->number[0]<<p->number[1];
+                }
+            }
+        }
+#endif
+    }
+*/
+    return result;
+}
 RideFile *RideFileFactory::openRideFile(Context *context, QFile &file,
                                            QStringList &errors, QList<RideFile*> *rideList) const
 {
@@ -1012,6 +1198,8 @@ RideFile *RideFileFactory::openRideFile(Context *context, QFile &file,
 
     return result;
 }
+
+
 
 void
 RideFile::addXData(QString name, XDataSeries *series)

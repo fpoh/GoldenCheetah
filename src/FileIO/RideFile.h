@@ -639,6 +639,7 @@ class RideFileFactory {
         int registerReader(const QString &suffix, const QString &description,
                            RideFileReader *reader);
         RideFile *openRideFile(Context *context, QFile &file, QStringList &errors, QList<RideFile*>* = 0) const;
+        RideFile *openWithoutContextRideFile(QFile &file, QStringList &errors, QList<RideFile*>* = 0) const;
         bool writeRideFile(Context *context, const RideFile *ride, QFile &file, QString format) const;
         QStringList suffixes() const;
         QStringList writeSuffixes() const;

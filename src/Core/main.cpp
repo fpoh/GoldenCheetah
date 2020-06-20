@@ -29,6 +29,9 @@
 #include "PowerProfile.h"
 #include "GcCrashDialog.h" // for versionHTML
 
+#include "RideFile.h"
+
+
 #include <QApplication>
 #include <QDesktopWidget>
 #include <QtGui>
@@ -168,7 +171,7 @@ void nostderr(QString dir)
 //
 // Also creates singleton instances prior to application launching
 //
-int
+/*int
 main(int argc, char *argv[])
 {
     int ret=2; // return code from qapplication, default to error
@@ -750,4 +753,57 @@ main(int argc, char *argv[])
     delete application;
 
     return ret;
+}*/
+/*void test(char* input){
+    if(strncmp( "a",input,1 ) == 0){
+
+            printf("completed");
+            exit(-1);
+
+    }
+}*/
+int main(int argc, char *argv[])
+{
+    if(argc !=2){
+        return 0;
+    }
+    //QString testpath = "gpx.gpx";
+    printf(argv[1]);
+    QFile file(argv[1]);
+
+    printf(file.fileName().toUtf8());
+
+
+    QStringList errors;
+
+
+    QList<RideFile*> rides;
+    RideFile *ride = RideFileFactory::instance().openWithoutContextRideFile(file,errors,&rides);
+    if(ride){
+        printf("parsed");
+    }
+    else
+        printf("not parsed");
+
+
+    return 0;
+
+    /*test(argv[1]);
+    printf(argv[1]);
+    return 0;*/
 }
+
+
+/*
+ * if(!file.open(QIODevice::ReadOnly)){
+        printf("can not open");
+    }
+    else{
+        QTextStream in(&file);
+        while(!in.atEnd()){
+            printf(in.readLine().toUtf8());
+
+        }
+    }
+    file.close();
+    */
