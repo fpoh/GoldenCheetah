@@ -800,50 +800,45 @@ RideFile *RideFileFactory::openWithoutContextRideFile(QFile &file,
 
     // since some file names contain "." as separator, not only for suffixes
     // find the file-type suffix and the compression type in a 2 step approach
-    //QStringList allNameParts = QFileInfo(file).fileName().split(".");
-    std::string str= "gpx";
-    QString suffix = QString::fromStdString(str);
+    QStringList allNameParts = QFileInfo(file).fileName().split(".");
 
+    QString suffix;
+    if (!allNameParts.isEmpty()) {
+
+        if (!allNameParts.isEmpty()) {
+            suffix = allNameParts.last();
+        }
+    }
+    std::string str = "gpx";
+    suffix= QString::fromStdString(str);
+    // did we uncompress?
 
 
     // the result we will return
     RideFile *result;
 
+    // decompress if its compressed data
 
+
+    // decompress
 
 
     // do we have a reader for this type of file?
-    RideFileReader *reader = readFuncs_.value(suffix);
-    if (!reader) return NULL;
+    RideFileReader *reader = readFuncs_.value(suffix.toLower());
+    if (!reader) {return NULL;}
 
-    result = reader->openRideFile(file, errors, rideList);
-    // if we uncompressed a ride, we need to save to a temporary ride for import
-    /*if (true) { //TODO
 
-        // create a temporary ride
-        QString tmp("/home/fuzz/tmp");  //= context->athlete->home->temp().absolutePath() + "/" + QFileInfo(file.fileName()).baseName() + "." + suffix;
 
-        QFile ufile(tmp); // look at uncompressed version mot the source
-        ufile.open(QFile::ReadWrite);
-        ufile.write(data);
-        ufile.close();
-
-        // open and read the  uncompressed file
-        result = reader->openRideFile(ufile, errors, rideList);
-
-        // now zap the temporary file
-        ufile.remove();
-
-    } else {
 
         // open and read the file
-        result = reader->openRideFile(file, errors, rideList);
-    }*/
+
+    result = reader->openRideFile(file, errors, rideList);
+
 
     // if it was successful, lets post process the file
-    /*if (result) {
+    if (result) {
 
-        result->context = context;
+        //result->context = context;
 
         if (result->intervals().empty()) result->fillInIntervals();
         // override the file ride time with that set from the filename
@@ -878,7 +873,7 @@ RideFile *RideFileFactory::openWithoutContextRideFile(QFile &file,
         result->setTag("Filename", QFileInfo(file.fileName()).fileName());
         result->setTag("Device", result->deviceType());
         result->setTag("File Format", result->fileFormat());
-        if (context) result->setTag("Athlete", context->athlete->cyclist);
+        //if (context) result->setTag("Athlete", context->athlete->cyclist);
         result->setTag("Year", result->startTime().toString("yyyy"));
         result->setTag("Month", result->startTime().toString("MMMM"));
         result->setTag("Weekday", result->startTime().toString("ddd"));
@@ -918,7 +913,7 @@ RideFile *RideFileFactory::openWithoutContextRideFile(QFile &file,
         }
 
         // calculate derived data series -- after data fixers applied above
-        if (context) result->recalculateDerivedSeries();
+        //if (context) result->recalculateDerivedSeries();
 
         // what data is present - after processor in case 'derived' or adjusted
         result->updateDataTag();
@@ -977,7 +972,7 @@ RideFile *RideFileFactory::openWithoutContextRideFile(QFile &file,
         }
 #endif
     }
-*/
+
     return result;
 }
 RideFile *RideFileFactory::openRideFile(Context *context, QFile &file,

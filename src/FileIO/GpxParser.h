@@ -21,13 +21,13 @@
 
 #ifndef _GpxParser_h
 #define _GpxParser_h
-#include "GoldenCheetah.h"
+//#include "GoldenCheetah.h"
 
 #include "RideFile.h"
 #include <QString>
 #include <QDateTime>
 #include <QXmlDefaultHandler>
-#include "Settings.h"
+//#include "Settings.h"
 
 class GpxParser : public QXmlDefaultHandler
 {

@@ -762,35 +762,24 @@ main(int argc, char *argv[])
 
     }
 }*/
+
 int main(int argc, char *argv[])
 {
+
     if(argc !=2){
         return 0;
     }
-    //QString testpath = "gpx.gpx";
-    printf(argv[1]);
+
     QFile file(argv[1]);
-
-    printf(file.fileName().toUtf8());
-
 
     QStringList errors;
 
 
     QList<RideFile*> rides;
     RideFile *ride = RideFileFactory::instance().openWithoutContextRideFile(file,errors,&rides);
-    if(ride){
-        printf("parsed");
-    }
-    else
-        printf("not parsed");
-
 
     return 0;
 
-    /*test(argv[1]);
-    printf(argv[1]);
-    return 0;*/
 }
 
 
