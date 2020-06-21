@@ -797,18 +797,7 @@ static QByteArray gUncompress(const QByteArray &data)
 RideFile *RideFileFactory::openWithoutContextRideFile(QFile &file,
                                            QStringList &errors, QList<RideFile*> *rideList) const
 {
-
-    // since some file names contain "." as separator, not only for suffixes
-    // find the file-type suffix and the compression type in a 2 step approach
-    QStringList allNameParts = QFileInfo(file).fileName().split(".");
-
     QString suffix;
-    if (!allNameParts.isEmpty()) {
-
-        if (!allNameParts.isEmpty()) {
-            suffix = allNameParts.last();
-        }
-    }
     std::string str = "gpx";
     suffix= QString::fromStdString(str);
     // did we uncompress?
@@ -816,11 +805,6 @@ RideFile *RideFileFactory::openWithoutContextRideFile(QFile &file,
 
     // the result we will return
     RideFile *result;
-
-    // decompress if its compressed data
-
-
-    // decompress
 
 
     // do we have a reader for this type of file?

@@ -212,7 +212,7 @@
         <time>2012-12-03T09:15:56Z</time>
       </trkpt>
       <trkpt lat="50.716641526669264" lon="6.44595880061388">
-        <ele>164.03999999999999</ele>
+       <ele>164.03999999999999</ele>
         <time>2012-12-03T09:15:57Z</time>
       </trkpt>
       <trkpt lat="50.716626942157745" lon="6.445914627984166">
@@ -2273,7 +2273,7 @@
       </trkpt>
       <trkpt lat="50.703284796327353" lon="6.453291038051248">
         <ele>357.75</ele>
-        <time>2012-12-03T10:25:26Z</time>
+        <time>2012-12-03T1€ 25:26Z</time>
       </trkpt>
       <trkpt lat="50.703284963965416" lon="6.453290116041899">
         <ele>357.26999999999998</ele>
@@ -3735,7 +3735,7 @@
         <ele>356.79000000000002</ele>
         <time>2012-12-03T11:15:05Z</time>
       </trkpt>
-      < <time>201trkpt lat="50.702913897112012" lon="6.465342789888382">
+      <trkpt lat="50.702913897112012" lon="6.465342789888382">
         <ele>356.31</ele>
         <time>2012-12-03T11:15:11Z</time>
       </trkpt>
@@ -4121,7 +4121,7 @@
       </trkpt>
       <trkpt lat="50.707545485347509" lon="6.458762241527438">
         <ele>381.30000000000001</ele>
-        <time>2012-12-03T11:28:55Z</time>
+        <time>2012-12-3T11:28:55Z</time>
       </trkpt>
       <trkpt lat="50.707569792866707" lon="6.458640703931451">
         <ele>381.30000000000001</ele>
@@ -5625,7 +5625,8 @@
       </trkpt>
       <trkpt lat="50.71571541018784" lon="6.458278438076377">
         <ele>279.88</ele>
-        <time>2012-12-03T12:24:31Z</
+        <time>2012-12-03T12:24:31Z</time>
+      </trkpt>
       <trkpt lat="50.715757319703698" lon="6.458225296810269">
         <ele>279.88</ele>
         <time>2012-12-03T12:24:36Z</time>
@@ -7780,7 +7781,7 @@
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
-        </gpxx:Categories>
+        </gpxx:Catvgories>
       </gpxx:WaypointExtension>
     </extensions>
   </wpt>
