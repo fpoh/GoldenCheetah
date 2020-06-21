@@ -4,7 +4,6 @@ build/*
 *.mode1v3
 Info.plist
 *.xcodeproj
-gcconfig.pri
 
 # QtCreator
 src.pro.user
@@ -41,9 +40,6 @@ antlog.bin
 *_lex.cpp
 *_yacc.cpp
 *_yacc.h
-
-# ignore qmake-generated Makefile
-Makefile
 
 # ignore executables
 GoldenCheetah
