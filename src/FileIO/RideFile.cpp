@@ -798,7 +798,7 @@ RideFile *RideFileFactory::openWithoutContextRideFile(QFile &file,
                                            QStringList &errors, QList<RideFile*> *rideList) const
 {
     QString suffix;
-    std::string str = "fitlog";
+    std::string str = "gpx";
     suffix= QString::fromStdString(str);
     // did we uncompress?
 
