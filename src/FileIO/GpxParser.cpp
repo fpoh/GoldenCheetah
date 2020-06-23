@@ -63,8 +63,13 @@ bool GpxParser::startElement( const QString&, const QString&,
 
     if(qName == "metadata")
     {
+        int i = qAttributes.index("name");
+        if (i >= 0) {
+            std::string readedName = qAttributes.value(i).toStdString();
+            QString suffix = QString::fromStdString(readedName);
+            printf(suffix.toUtf8());
+        }
         metadata = true;
-
     }
     else if(qName == "trkpt")
     {
