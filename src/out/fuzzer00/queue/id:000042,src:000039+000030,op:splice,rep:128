@@ -2,7 +2,7 @@
 <FitnessWorkbook xmlns="http://www.zonefivesoftware.com/xmlschemas/FitnessLogbook/v1">
 	<AthleteLog>
 		<Activity Id="1391fa17-4f93-4c4d-a922-14198e85b3ad" StartTime="2004-01-03T02:16:26+01:00">
-			<Duration TotalSeconds="19465" />
+			<Duratvon TotalSeconds="19465" />
 			<Distance TotalMeters="0" />
 			<HeartRate AverageBPM="61" MaximumBPM="105" />
 			<Name>04010301</Name>
@@ -18,7 +18,7 @@
 				<pt tm="40" dist="0" hr="80" />
 				<pt tm="45" dist="0" hr="77" />
 				<pt tm="50" dist="0" hr="77" />
-				<pt tm="55" dist="0" hr="79" />
+				<pt tm="55" dist="0"0hr="79" />
 				<pt tm="60" dist="0" hr="80" />
 				<pt tm="65" dist="0" hr="82" />
 				<pt tm="70" dist="0" hr="86" />
@@ -47,7 +47,7 @@
 				<pt tm="185" dist="0" hr="79" />
 				<pt tm="190" dist="0" hr="80" />
 				<pt tm="195" dist="0" hr="75" />
-				<pt tm="200" dist="0" hr="73" />
+				<pt tm="200" ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿdist="0" hr="73" />
 				<pt tm="205" dist="0" hr="70" />
 				<pt tm="210" dist="0" hr="68" />
 				<pt tm="215" dist="0" hr="67" />
@@ -64,7 +64,8 @@
 				<pt tm="270" dist="0" hr="65" />
 				<pt tm="275" dist="0" hr="68" />
 				<pt tm="280" dist="0" hr="74" />
-				<pt tm="285" dist="0" hr="69" />
+				<pt tm="285" dist="0
+		r="69" />
 				<pt tm="290" dist="0" hr="68" />
 				<pt tm="295" dist="0" hr="66" />
 				<pt tm="300" dist="0" hr="64" />
@@ -79,7 +80,7 @@
 				<pt tm="345" dist="0" hr="67" />
 				<pt tm="350" dist="0" hr="66" />
 				<pt tm="355" dist="0" hr="65" />
-				<pt tm="360" dist="0" hr="64" />
+				<pt tm="360" dist="0" hr="64" .>
 				<pt tm="365" dist="0" hr="65" />
 				<pt tm="370" dist="0" hr="66" />
 				<pt tm="375" dist="0" hr="66" />
@@ -95,7 +96,7 @@
 				<pt tm="425" dist="0" hr="65" />
 				<pt tm="430" dist="0" hr="64" />
 				<pt tm="435" dist="0" hr="66" />
-			<pt tm="440" dist="0" hr="66" />
+				<pt tm="440" dist="0" hr="66" />
 				<pt tm="445" dist="0" hr="66" />
 				<pt tm="450" dist="0" hr="66" />
 				<pt tm="455" dist="0" hr="65" />
@@ -105,8 +106,7 @@
 				<pt tm="475" dist="0" hr="71" />
 				<pt tm="480" dist="0" hr="68" />
 				<pt tm="485" dist="0" hr="68" />
-				<pt tm="490" dist="0" hr="69" />
-				<pt tm="495" dist="0" hr="71" />
+				<pt tm="490" dist=	<pt tm="495" dist="0" hr="71" />
 				<pt tm="500" dist="0" hr="72" />
 				<pt tm="505" dist="0" hr="70" />
 				<pt tm="510" dist="0" hr="70" />
@@ -117,7 +117,7 @@
 				<pt tm="535" dist="0" hr="68" />
 				<pt tm="540" dist="0" hr="68" />
 				<pt tm="545" dist="0" hr="67" />
-				<pt tm="550" dist="0" hr="65" />
+				<pt tm="550" dist="0" h2="65" />
 				<pt tm="555" dist="0" hr="65" />
 				<pt tm="560" dist="0" hr="64" />
 				<pt tm="565" dist="0" hr="64" />
@@ -156,17 +156,17 @@
 				<pt tm="730" dist="0" hr="78" />
 				<pt tm="735" dist="0" hr="75" />
 				<pt tm="740" dist="0" hr="77" />
-				<pt tm="745" dist="0" hr="82" />
-				<pt tm="750" dist="0" hr="82" />
-				<pt tm="755" dist="0" hr="82" />
-				<pt tm="760" dist="0" hr="76" />
+				<pt tm="745" dist="
+				<pt tm="10130" dist="0" hr="57" />
+				<pt tm="10135" dm="755" dist="0" hr="82" />
+				<pt tm="760" dist=" tm="0" hr="76" />
 				<pt tm="765" dist="0" hr="69" />
 				<pt tm="770" dist="0" hr="67" />
 				<pt tm="775" dist="0" hr="68" />
 				<pt tm="780" dist="0" hr="66" />
 				<pt tm="785" dist="0" hr="66" />
 				<pt tm="790" dist="0" hr="64" />
-				<pt tm="795" dist="0" hr="66" />
+				<pt tm="795" dist="0" hr=66" />
 				<pt tm="800" dist="0" hr="65" />
 				<pt tm="805" dist="0" hr="64" />
 				<pt tm="810" dist="0" hr="63" />
@@ -177,7 +177,7 @@
 				<pt tm="835" dist="0" hr="62" />
 				<pt tm="840" dist="0" hr="62" />
 				<pt tm="845" dist="0" hr="63" />
-				<pt tm="850" dist="0" hr="63" />
+				<pt tm="850" dist="0" hr="63	" />
 				<pt tm="855" dist="0" hr="63" />
 				<pt tm="860" dist="0" hr="63" />
 				<pt tm="865" dist="0" hr="62" />
@@ -195,7 +195,7 @@
 				<pt tm="925" dist="0" hr="63" />
 				<pt tm="930" dist="0" hr="63" />
 				<pt tm="935" dist="0" hr="65" />
-				<pt tm="940" dist="0" hr="64" />
+				<pt tm="940" dist="0" hr="64" /S
 				<pt tm="945" dist="0" hr="64" />
 				<pt tm="950" dist="0" hr="64" />
 				<pt tm="955" dist="0" hr="64" />
@@ -216,7 +216,8 @@
 				<pt tm="1030" dist="0" hr="63" />
 				<pt tm="1035" dist="0" hr="64" />
 				<pt tm="1040" dist="0" hr="66" />
-				<pt tm="1045" dist="0" hr="66" />
+				<pt tm="10r="58" />
+		45" dist="0" hr="66" />
 				<pt tm="1050" dist="0" hr="67" />
 				<pt tm="1055" dist="0" hr="68" />
 				<pt tm="1060" dist="0" hr="67" />
@@ -226,7 +227,7 @@
 				<pt tm="1080" dist="0" hr="71" />
 				<pt tm="1085" dist="0" hr="72" />
 				<pt tm="1090" dist="0" hr="71" />
-				<pt tm="1095" dist="0" hr="71" />
+		ù<pt tm="1095" dist="0" hr="71" />
 				<pt tm="1100" dist="0" hr="70" />
 				<pt tm="1105" dist="0" hr="71" />
 				<pt tm="1110" dist="0" hr="69" />
@@ -238,7 +239,7 @@
 				<pt tm="1140" dist="0" hr="67" />
 				<pt tm="1145" dist="0" hr="67" />
 				<pt tm="1150" dist="0" hr="67" />
-				<pt tm="1155" dist="0" hr="67" />
+				<pt tm=   5" dist="0" hr="67" />
 				<pt tm="1160" dist="0" hr="66" />
 				<pt tm="1165" dist="0" hr="68" />
 				<pt tm="1170" dist="0" hr="67" />
@@ -290,11 +291,11 @@
 				<pt tm="1400" dist="0" hr="61" />
 				<pt tm="1405" dist="0" hr="62" />
 				<pt tm="1410" dist="0" hr="65" />
-				<pt tm="1415" dist="0" hr="63" />
+				<pt tm€"1415" dist="0" hr="63" />
 				<pt tm="1420" dist="0" hr="62" />
 				<pt tm="1425" dist="0" hr="61" />
 				<pt tm="1430" dist="0" hr="60" />
-				<pt tm="1435" dist="0" hr="60" />
+				<pt tm="1435" dist="0" hr="60"/>
 				<pt tm="1440" dist="0" hr="59" />
 				<pt tm="1445" dist="0" hr="58" />
 				<pt tm="1450" dist="0" hr="57" />
@@ -316,762 +317,39 @@
 				<pt tm="1530" dist="0" hr="60" />
 				<pt tm="1535" dist="0" hr="60" />
 				<pt tm="1540" dist="0" hr="59" />
-				<pt tm="1545" dist="0" hr="59" />
-				<pt tm="1550" dist="0" hr="58" />
+				<pt tm="1545" dist="0" hr="59" />@				<pt tm="1550" dist="0" hr="58: />
 				<pt tm="1555" dist="0" hr="57" />
 				<pt tm="1560" dist="0" hr="58" />
 				<pt tm="1565" dist="0" hr="57" />
-				<pt tm="1570" dist="0" hr="58" />
-				<pt tm="1575" dist="0" hr="59" />
-				<pt tm="1580" dist="0" hr="60" />
-				<pt tm="1585" dist="0" hr="60" />
-				<pt tm="1590" dist="0" hr="60" />
-				<pt tm="1595" dist="0" hr="61" />
-				<pt tm="1600" dist="0" hr="60" />
-				<pt tm="1605" dist="0" hr="60" />
-				<pt tm="1610" dist="0" hr="59" />
-				<pt tm="1615" dist="0" hr="57" />
-				<pt tm="1620" dist="0" hr="54" />
-				<pt tm="1625" dist="0" hr="61" />
-				<pt tm="1630" dist="0" hr="58" />
-				<pt tm="1635" dist="0" hr="57" />
-				<pt tm="1640" dist="0" hr="58" />
-				<pt tm="1645" dist="0" hr="57" />
-				<pt tm="1650" dist="0" hr="57" />
-				<pt tm="1655" dist="0" hr="57" />
-				<pt tm="1660" dist="0" hr="58" />
-				<pt tm="1665" dist="0" hr="65" />
-				<pt tm="1670" dist="0" hr="62" />
-				<pt tm="1675" dist="0" hr="58" />
-				<pt tm="1680" dist="0" hr="57" />
-				<pt tm="1685" dist="0" hr="58" />
-				<pt tm="1690" dist="0" hr="58" />
-				<pt tm="1695" dist="0" hr="59" />
-				<pt tm="1700" dist="0" hr="59" />
-				<pt tm="1705" dist="0" hr="58" />
-				<pt tm="1710" dist="0" hr="59" />
-				<pt tm="1715" dist="0" hr="57" />
-				<pt tm="1720" dist="0" hr="57" />
-				<pt tm="1725" dist="0" hr="56" />
-				<pt tm="1730" dist="0" hr="56" />
-				<pt tm="1735" dist="0" hr="57" />
-				<pt tm="1740" dist="0" hr="58" />
-				<pt tm="1745" dist="0" hr="58" />
-				<pt tm="1750" dist="0" hr="60" />
-				<pt tm="1755" dist="0" hr="60" />
-				<pt tm="1760" dist="0" hr="60" />
-				<pt tm="1765" dist="0" hr="60" />
-				<pt tm="1770" dist="0" hr="60" />
-				<pt tm="1775" dist="0" hr="59" />
-				<pt tm="1780" dist="0" hr="61" />
-				<pt tm="1785" dist="0" hr="59" />
-				<pt tm="1790" dist="0" hr="59" />
-				<pt tm="1795" dist="0" hr="58" />
-				<pt tm="1800" dist="0" hr="58" />
-				<pt tm="1805" dist="0" hr="56" />
-				<pt tm="1810" dist="0" hr="57" />
-				<pt tm="1815" dist="0" hr="58" />
-				<pt tm="1820" dist="0" hr="59" />
-				<pt tm="1825" dist="0" hr="58" />
-				<pt tm="1830" dist="0" hr="58" />
-				<pt tm="1835" dist="0" hr="57" />
-				<pt tm="1840" dist="0" hr="57" />
-				<pt tm="1845" dist="0" hr="58" />
-				<pt tm="1850" dist="0" hr="58" />
-				<pt tm="1855" dist="0" hr="66" />
-				<pt tm="1860" dist="0" hr="62" />
-				<pt tm="1865" dist="0" hr="59" />
-				<pt tm="1870" dist="0" hr="60" />
-				<pt tm="1875" dist="0" hr="60" />
-				<pt tm="1880" dist="0" hr="54" />
-				<pt tm="1885" dist="0" hr="54" />
-				<pt tm="1890" dist="0" hr="51" />
-				<pt tm="1895" dist="0" hr="53" />
-				<pt tm="1900" dist="0" hr="54" />
-				<pt tm="1905" dist="0" hr="54" />
-				<pt tm="1910" dist="0" hr="55" />
-				<pt tm="1915" dist="0" hr="59" />
-				<pt tm="1920" dist="0" hr="58" />
-				<pt tm="1925" dist="0" hr="57" />
-				<pt tm="1930" dist="0" hr="57" />
-				<pt tm="1935" dist="0" hr="56" />
-				<pt tm="1940" dist="0" hr="55" />
-				<pt tm="1945" dist="0" hr="54" />
-				<pt tm="1950" dist="0" hr="54" />
-				<pt tm="1955" dist="0" hr="55" />
-				<pt tm="1960" dist="0" hr="55" />
-				<pt tm="1965" dist="0" hr="56" />
-				<pt tm="1970" dist="0" hr="55" />
-				<pt tm="1975" dist="0" hr="62" />
-				<pt tm="1980" dist="0" hr="66" />
-				<pt tm="1985" dist="0" hr="61" />
-				<pt tm="1990" dist="0" hr="61" />
-				<pt tm="1995" dist="0" hr="61" />
-				<pt tm="2000" dist="0" hr="60" />
-				<pt tm="2005" dist="0" hr="59" />
-				<pt tm="2010" dist="0" hr="58" />
-				<pt tm="2015" dist="0" hr="59" />
-				<pt tm="2020" dist="0" hr="57" />
-				<pt tm="2025" dist="0" hr="56" />
-				<pt tm="2030" dist="0" hr="55" />
-				<pt tm="2035" dist="0" hr="59" />
-				<pt tm="2040" dist="0" hr="62" />
-				<pt tm="2045" dist="0" hr="69" />
-				<pt tm="2050" dist="0" hr="65" />
-				<pt tm="2055" dist="0" hr="59" />
-				<pt tm="2060" dist="0" hr="58" />
-				<pt tm="2065" dist="0" hr="55" />
-				<pt tm="2070" dist="0" hr="54" />
-				<pt tm="2075" dist="0" hr="53" />
-				<pt tm="2080" dist="0" hr="53" />
-				<pt tm="2085" dist="0" hr="53" />
-				<pt tm="2090" dist="0" hr="52" />
-				<pt tm="2095" dist="0" hr="53" />
-				<pt tm="2100" dist="0" hr="54" />
-				<pt tm="2105" dist="0" hr="53" />
-				<pt tm="2110" dist="0" hr="54" />
-				<pt tm="2115" dist="0" hr="54" />
-				<pt tm="2120" dist="0" hr="57" />
-				<pt tm="2125" dist="0" hr="58" />
-				<pt tm="2130" dist="0" hr="58" />
-				<pt tm="2135" dist="0" hr="56" />
-				<pt tm="2140" dist="0" hr="56" />
-				<pt tm="2145" dist="0" hr="55" />
-				<pt tm="2150" dist="0" hr="55" />
-				<pt tm="2155" dist="0" hr="56" />
-				<pt tm="2160" dist="0" hr="56" />
-				<pt tm="2165" dist="0" hr="55" />
-				<pt tm="2170" dist="0" hr="56" />
-				<pt tm="2175" dist="0" hr="60" />
-				<pt tm="2180" dist="0" hr="63" />
-				<pt tm="2185" dist="0" hr="59" />
-				<pt tm="2190" dist="0" hr="57" />
-				<pt tm="2195" dist="0" hr="55" />
-				<pt tm="2200" dist="0" hr="54" />
-				<pt tm="2205" dist="0" hr="54" />
-				<pt tm="2210" dist="0" hr="54" />
-				<pt tm="2215" dist="0" hr="56" />
-				<pt tm="2220" dist="0" hr="55" />
-				<pt tm="2225" dist="0" hr="57" />
-				<pt tm="2230" dist="0" hr="62" />
-				<pt tm="2235" dist="0" hr="61" />
-				<pt tm="2240" dist="0" hr="59" />
-				<pt tm="2245" dist="0" hr="57" />
-				<pt tm="2250" dist="0" hr="55" />
-				<pt tm="2255" dist="0" hr="55" />
-				<pt tm="2260" dist="0" hr="56" />
-				<pt tm="2265" dist="0" hr="55" />
-				<pt tm="2270" dist="0" hr="55" />
-				<pt tm="2275" dist="0" hr="55" />
-				<pt tm="2280" dist="0" hr="54" />
-				<pt tm="2285" dist="0" hr="54" />
-				<pt tm="2290" dist="0" hr="54" />
-				<pt tm="2295" dist="0" hr="52" />
-				<pt tm="2300" dist="0" hr="55" />
-				<pt tm="2305" dist="0" hr="58" />
-				<pt tm="2310" dist="0" hr="58" />
-				<pt tm="2315" dist="0" hr="57" />
-				<pt tm="2320" dist="0" hr="56" />
-				<pt tm="2325" dist="0" hr="55" />
-				<pt tm="2330" dist="0" hr="55" />
-				<pt tm="2335" dist="0" hr="55" />
-				<pt tm="2340" dist="0" hr="55" />
-				<pt tm="2345" dist="0" hr="56" />
-				<pt tm="2350" dist="0" hr="56" />
-				<pt tm="2355" dist="0" hr="66" />
-				<pt tm="2360" dist="0" hr="65" />
-				<pt tm="2365" dist="0" hr="59" />
-				<pt tm="2370" dist="0" hr="56" />
-				<pt tm="2375" dist="0" hr="57" />
-				<pt tm="2380" dist="0" hr="57" />
-				<pt tm="2385" dist="0" hr="56" />
-				<pt tm="2390" dist="0" hr="55" />
-				<pt tm="2395" dist="0" hr="55" />
-				<pt tm="2400" dist="0" hr="55" />
-				<pt tm="2405" dist="0" hr="55" />
-				<pt tm="2410" dist="0" hr="56" />
-				<pt tm="2415" dist="0" hr="61" />
-				<pt tm="2420" dist="0" hr="64" />
-				<pt tm="2425" dist="0" hr="60" />
-				<pt tm="2430" dist="0" hr="58" />
-				<pt tm="2435" dist="0" hr="56" />
-				<pt tm="2440" dist="0" hr="56" />
-				<pt tm="2445" dist="0" hr="55" />
-				<pt tm="2450" dist="0" hr="55" />
-				<pt tm="2455" dist="0" hr="55" />
-				<pt tm="2460" dist="0" hr="55" />
-				<pt tm="2465" dist="0" hr="55" />
-				<pt tm="2470" dist="0" hr="56" />
-				<pt tm="2475" dist="0" hr="59" />
-				<pt tm="2480" dist="0" hr="60" />
-				<pt tm="2485" dist="0" hr="58" />
-				<pt tm="2490" dist="0" hr="57" />
-				<pt tm="2495" dist="0" hr="56" />
-				<pt tm="2500" dist="0" hr="55" />
-				<pt tm="2505" dist="0" hr="55" />
-				<pt tm="2510" dist="0" hr="57" />
-				<pt tm="2515" dist="0" hr="55" />
-				<pt tm="2520" dist="0" hr="55" />
-				<pt tm="2525" dist="0" hr="57" />
-				<pt tm="2530" dist="0" hr="56" />
-				<pt tm="2535" dist="0" hr="57" />
-				<pt tm="2540" dist="0" hr="58" />
-				<pt tm="2545" dist="0" hr="59" />
-				<pt tm="2550" dist="0" hr="62" />
-				<pt tm="2555" dist="0" hr="61" />
-				<pt tm="2560" dist="0" hr="59" />
-				<pt tm="2565" dist="0" hr="58" />
-				<pt tm="2570" dist="0" hr="57" />
-				<pt tm="2575" dist="0" hr="56" />
-				<pt tm="2580" dist="0" hr="55" />
-				<pt tm="2585" dist="0" hr="55" />
-				<pt tm="2590" dist="0" hr="56" />
-				<pt tm="2595" dist="0" hr="56" />
-				<pt tm="2600" dist="0" hr="57" />
-				<pt tm="2605" dist="0" hr="56" />
-				<pt tm="2610" dist="0" hr="58" />
-				<pt tm="2615" dist="0" hr="64" />
-				<pt tm="2620" dist="0" hr="66" />
-				<pt tm="2625" dist="0" hr="60" />
-				<pt tm="2630" dist="0" hr="58" />
-				<pt tm="2635" dist="0" hr="56" />
-				<pt tm="2640" dist="0" hr="55" />
-				<pt tm="2645" dist="0" hr="55" />
-				<pt tm="2650" dist="0" hr="56" />
-				<pt tm="2655" dist="0" hr="55" />
-				<pt tm="2660" dist="0" hr="55" />
-				<pt tm="2665" dist="0" hr="55" />
-				<pt tm="2670" dist="0" hr="56" />
-				<pt tm="2675" dist="0" hr="56" />
-				<pt tm="2680" dist="0" hr="56" />
-				<pt tm="2685" dist="0" hr="62" />
-				<pt tm="2690" dist="0" hr="60" />
-				<pt tm="2695" dist="0" hr="58" />
-				<pt tm="2700" dist="0" hr="57" />
-				<pt tm="2705" dist="0" hr="57" />
-				<pt tm="2710" dist="0" hr="56" />
-				<pt tm="2715" dist="0" hr="55" />
-				<pt tm="2720" dist="0" hr="54" />
-				<pt tm="2725" dist="0" hr="54" />
-				<pt tm="2730" dist="0" hr="55" />
-				<pt tm="2735" dist="0" hr="56" />
-				<pt tm="2740" dist="0" hr="59" />
-				<pt tm="2745" dist="0" hr="60" />
-				<pt tm="2750" dist="0" hr="65" />
-				<pt tm="2755" dist="0" hr="63" />
-				<pt tm="2760" dist="0" hr="60" />
-				<pt tm="2765" dist="0" hr="57" />
-				<pt tm="2770" dist="0" hr="56" />
-				<pt tm="2775" dist="0" hr="56" />
-				<pt tm="2780" dist="0" hr="55" />
-				<pt tm="2785" dist="0" hr="55" />
-				<pt tm="2790" dist="0" hr="56" />
-				<pt tm="2795" dist="0" hr="58" />
-				<pt tm="2800" dist="0" hr="63" />
-				<pt tm="2805" dist="0" hr="61" />
-				<pt tm="2810" dist="0" hr="59" />
-				<pt tm="2815" dist="0" hr="56" />
-				<pt tm="2820" dist="0" hr="55" />
-				<pt tm="2825" dist="0" hr="55" />
-				<pt tm="2830" dist="0" hr="55" />
-				<pt tm="2835" dist="0" hr="56" />
-				<pt tm="2840" dist="0" hr="55" />
-				<pt tm="2845" dist="0" hr="56" />
-				<pt tm="2850" dist="0" hr="59" />
-				<pt tm="2855" dist="0" hr="57" />
-				<pt tm="2860" dist="0" hr="56" />
-				<pt tm="2865" dist="0" hr="55" />
-				<pt tm="2870" dist="0" hr="54" />
-				<pt tm="2875" dist="0" hr="54" />
-				<pt tm="2880" dist="0" hr="56" />
-				<pt tm="2885" dist="0" hr="56" />
-				<pt tm="2890" dist="0" hr="56" />
-				<pt tm="2895" dist="0" hr="59" />
-				<pt tm="2900" dist="0" hr="58" />
-				<pt tm="2905" dist="0" hr="65" />
-				<pt tm="2910" dist="0" hr="67" />
-				<pt tm="2915" dist="0" hr="63" />
-				<pt tm="2920" dist="0" hr="60" />
-				<pt tm="2925" dist="0" hr="56" />
-				<pt tm="2930" dist="0" hr="55" />
-				<pt tm="2935" dist="0" hr="55" />
-				<pt tm="2940" dist="0" hr="54" />
-				<pt tm="2945" dist="0" hr="55" />
-				<pt tm="2950" dist="0" hr="54" />
-				<pt tm="2955" dist="0" hr="57" />
-				<pt tm="2960" dist="0" hr="57" />
-				<pt tm="2965" dist="0" hr="58" />
-				<pt tm="2970" dist="0" hr="58" />
-				<pt tm="2975" dist="0" hr="58" />
-				<pt tm="2980" dist="0" hr="61" />
-				<pt tm="2985" dist="0" hr="63" />
-				<pt tm="2990" dist="0" hr="60" />
-				<pt tm="2995" dist="0" hr="56" />
-				<pt tm="3000" dist="0" hr="56" />
-				<pt tm="3005" dist="0" hr="56" />
-				<pt tm="3010" dist="0" hr="55" />
-				<pt tm="3015" dist="0" hr="61" />
-				<pt tm="3020" dist="0" hr="61" />
-				<pt tm="3025" dist="0" hr="57" />
-				<pt tm="3030" dist="0" hr="56" />
-				<pt tm="3035" dist="0" hr="56" />
-				<pt tm="3040" dist="0" hr="56" />
-				<pt tm="3045" dist="0" hr="56" />
-				<pt tm="3050" dist="0" hr="56" />
-				<pt tm="3055" dist="0" hr="56" />
-				<pt tm="3060" dist="0" hr="60" />
-				<pt tm="3065" dist="0" hr="61" />
-				<pt tm="3070" dist="0" hr="61" />
-				<pt tm="3075" dist="0" hr="59" />
-				<pt tm="3080" dist="0" hr="57" />
-				<pt tm="3085" dist="0" hr="57" />
-				<pt tm="3090" dist="0" hr="55" />
-				<pt tm="3095" dist="0" hr="54" />
-				<pt tm="3100" dist="0" hr="55" />
-				<pt tm="3105" dist="0" hr="55" />
-				<pt tm="3110" dist="0" hr="55" />
-				<pt tm="3115" dist="0" hr="65" />
-				<pt tm="3120" dist="0" hr="63" />
-				<pt tm="3125" dist="0" hr="61" />
-				<pt tm="3130" dist="0" hr="60" />
-				<pt tm="3135" dist="0" hr="59" />
-				<pt tm="3140" dist="0" hr="57" />
-				<pt tm="3145" dist="0" hr="55" />
-				<pt tm="3150" dist="0" hr="55" />
-				<pt tm="3155" dist="0" hr="54" />
-				<pt tm="3160" dist="0" hr="54" />
-				<pt tm="3165" dist="0" hr="57" />
-				<pt tm="3170" dist="0" hr="62" />
-				<pt tm="3175" dist="0" hr="70" />
-				<pt tm="3180" dist="0" hr="73" />
-				<pt tm="3185" dist="0" hr="69" />
-				<pt tm="3190" dist="0" hr="66" />
-				<pt tm="3195" dist="0" hr="60" />
-				<pt tm="3200" dist="0" hr="56" />
-				<pt tm="3205" dist="0" hr="53" />
-				<pt tm="3210" dist="0" hr="52" />
-				<pt tm="3215" dist="0" hr="52" />
-				<pt tm="3220" dist="0" hr="52" />
-				<pt tm="3225" dist="0" hr="52" />
-				<pt tm="3230" dist="0" hr="54" />
-				<pt tm="3235" dist="0" hr="55" />
-				<pt tm="3240" dist="0" hr="55" />
-				<pt tm="3245" dist="0" hr="55" />
-				<pt tm="3250" dist="0" hr="56" />
-				<pt tm="3255" dist="0" hr="55" />
-				<pt tm="3260" dist="0" hr="55" />
-				<pt tm="3265" dist="0" hr="56" />
-				<pt tm="3270" dist="0" hr="55" />
-				<pt tm="3275" dist="0" hr="54" />
-				<pt tm="3280" dist="0" hr="54" />
-				<pt tm="3285" dist="0" hr="58" />
-				<pt tm="3290" dist="0" hr="65" />
-				<pt tm="3295" dist="0" hr="64" />
-				<pt tm="3300" dist="0" hr="61" />
-				<pt tm="3305" dist="0" hr="60" />
-				<pt tm="3310" dist="0" hr="58" />
-				<pt tm="3315" dist="0" hr="56" />
-				<pt tm="3320" dist="0" hr="55" />
-				<pt tm="3325" dist="0" hr="55" />
-				<pt tm="3330" dist="0" hr="55" />
-				<pt tm="3335" dist="0" hr="55" />
-				<pt tm="3340" dist="0" hr="58" />
-				<pt tm="3345" dist="0" hr="67" />
-				<pt tm="3350" dist="0" hr="62" />
-				<pt tm="3355" dist="0" hr="63" />
-				<pt tm="3360" dist="0" hr="67" />
-				<pt tm="3365" dist="0" hr="60" />
-				<pt tm="3370" dist="0" hr="57" />
-				<pt tm="3375" dist="0" hr="54" />
-				<pt tm="3380" dist="0" hr="54" />
-				<pt tm="3385" dist="0" hr="53" />
-				<pt tm="3390" dist="0" hr="57" />
-				<pt tm="3395" dist="0" hr="57" />
-				<pt tm="3400" dist="0" hr="57" />
-				<pt tm="3405" dist="0" hr="56" />
-				<pt tm="3410" dist="0" hr="54" />
-				<pt tm="3415" dist="0" hr="56" />
-				<pt tm="3420" dist="0" hr="54" />
-				<pt tm="3425" dist="0" hr="53" />
-				<pt tm="3430" dist="0" hr="55" />
-				<pt tm="3435" dist="0" hr="55" />
-				<pt tm="3440" dist="0" hr="55" />
-				<pt tm="3445" dist="0" hr="57" />
-				<pt tm="3450" dist="0" hr="67" />
-				<pt tm="3455" dist="0" hr="71" />
-				<pt tm="3460" dist="0" hr="71" />
-				<pt tm="3465" dist="0" hr="70" />
-				<pt tm="3470" dist="0" hr="65" />
-				<pt tm="3475" dist="0" hr="59" />
-				<pt tm="3480" dist="0" hr="58" />
-				<pt tm="3485" dist="0" hr="57" />
-				<pt tm="3490" dist="0" hr="55" />
-				<pt tm="3495" dist="0" hr="55" />
-				<pt tm="3500" dist="0" hr="56" />
-				<pt tm="3505" dist="0" hr="55" />
-				<pt tm="3510" dist="0" hr="55" />
-				<pt tm="3515" dist="0" hr="55" />
-				<pt tm="3520" dist="0" hr="55" />
-				<pt tm="3525" dist="0" hr="57" />
-				<pt tm="3530" dist="0" hr="58" />
-				<pt tm="3535" dist="0" hr="63" />
-				<pt tm="3540" dist="0" hr="61" />
-				<pt tm="3545" dist="0" hr="56" />
-				<pt tm="3550" dist="0" hr="55" />
-				<pt tm="3555" dist="0" hr="57" />
-				<pt tm="3560" dist="0" hr="54" />
-				<pt tm="3565" dist="0" hr="54" />
-				<pt tm="3570" dist="0" hr="55" />
-				<pt tm="3575" dist="0" hr="59" />
-				<pt tm="3580" dist="0" hr="58" />
-				<pt tm="3585" dist="0" hr="57" />
-				<pt tm="3590" dist="0" hr="56" />
-				<pt tm="3595" dist="0" hr="56" />
-				<pt tm="3600" dist="0" hr="56" />
-				<pt tm="3605" dist="0" hr="56" />
-				<pt tm="3610" dist="0" hr="56" />
-				<pt tm="3615" dist="0" hr="55" />
-				<pt tm="3620" dist="0" hr="55" />
-				<pt tm="3625" dist="0" hr="56" />
-				<pt tm="3630" dist="0" hr="59" />
-				<pt tm="3635" dist="0" hr="63" />
-				<pt tm="3640" dist="0" hr="60" />
-				<pt tm="3645" dist="0" hr="56" />
-				<pt tm="3650" dist="0" hr="56" />
-				<pt tm="3655" dist="0" hr="55" />
-				<pt tm="3660" dist="0" hr="55" />
-				<pt tm="3665" dist="0" hr="56" />
-				<pt tm="3670" dist="0" hr="56" />
-				<pt tm="3675" dist="0" hr="55" />
-				<pt tm="3680" dist="0" hr="55" />
-				<pt tm="3685" dist="0" hr="55" />
-				<pt tm="3690" dist="0" hr="56" />
-				<pt tm="3695" dist="0" hr="55" />
-				<pt tm="3700" dist="0" hr="56" />
-				<pt tm="3705" dist="0" hr="57" />
-				<pt tm="3710" dist="0" hr="55" />
-				<pt tm="3715" dist="0" hr="55" />
-				<pt tm="3720" dist="0" hr="55" />
-				<pt tm="3725" dist="0" hr="55" />
-				<pt tm="3730" dist="0" hr="54" />
-				<pt tm="3735" dist="0" hr="54" />
-				<pt tm="3740" dist="0" hr="55" />
-				<pt tm="3745" dist="0" hr="57" />
-				<pt tm="3750" dist="0" hr="57" />
-				<pt tm="3755" dist="0" hr="56" />
-				<pt tm="3760" dist="0" hr="57" />
-				<pt tm="3765" dist="0" hr="57" />
-				<pt tm="3770" dist="0" hr="59" />
-				<pt tm="3775" dist="0" hr="58" />
-				<pt tm="3780" dist="0" hr="57" />
-				<pt tm="3785" dist="0" hr="57" />
-				<pt tm="3790" dist="0" hr="59" />
-				<pt tm="3795" dist="0" hr="59" />
-				<pt tm="3800" dist="0" hr="58" />
-				<pt tm="3805" dist="0" hr="58" />
-				<pt tm="3810" dist="0" hr="58" />
-				<pt tm="3815" dist="0" hr="59" />
-				<pt tm="3820" dist="0" hr="59" />
-				<pt tm="3825" dist="0" hr="59" />
-				<pt tm="3830" dist="0" hr="60" />
-				<pt tm="3835" dist="0" hr="65" />
-				<pt tm="3840" dist="0" hr="64" />
-				<pt tm="3845" dist="0" hr="60" />
-				<pt tm="3850" dist="0" hr="59" />
-				<pt tm="3855" dist="0" hr="57" />
-				<pt tm="3860" dist="0" hr="56" />
-				<pt tm="3865" dist="0" hr="56" />
-				<pt tm="3870" dist="0" hr="56" />
-				<pt tm="3875" dist="0" hr="56" />
-				<pt tm="3880" dist="0" hr="56" />
-				<pt tm="3885" dist="0" hr="56" />
-				<pt tm="3890" dist="0" hr="54" />
-				<pt tm="3895" dist="0" hr="55" />
-				<pt tm="3900" dist="0" hr="56" />
-				<pt tm="3905" dist="0" hr="58" />
-				<pt tm="3910" dist="0" hr="57" />
-				<pt tm="3915" dist="0" hr="56" />
-				<pt tm="3920" dist="0" hr="57" />
-				<pt tm="3925" dist="0" hr="57" />
-				<pt tm="3930" dist="0" hr="57" />
-				<pt tm="3935" dist="0" hr="58" />
-				<pt tm="3940" dist="0" hr="57" />
-				<pt tm="3945" dist="0" hr="56" />
-				<pt tm="3950" dist="0" hr="56" />
-				<pt tm="3955" dist="0" hr="56" />
-				<pt tm="3960" dist="0" hr="56" />
-				<pt tm="3965" dist="0" hr="57" />
-				<pt tm="3970" dist="0" hr="57" />
-				<pt tm="3975" dist="0" hr="64" />
-				<pt tm="3980" dist="0" hr="65" />
-				<pt tm="3985" dist="0" hr="59" />
-				<pt tm="3990" dist="0" hr="57" />
-				<pt tm="3995" dist="0" hr="58" />
-				<pt tm="4000" dist="0" hr="59" />
-				<pt tm="4005" dist="0" hr="63" />
-				<pt tm="4010" dist="0" hr="70" />
-				<pt tm="4015" dist="0" hr="65" />
-				<pt tm="4020" dist="0" hr="64" />
-				<pt tm="4025" dist="0" hr="59" />
-				<pt tm="4030" dist="0" hr="57" />
-				<pt tm="4035" dist="0" hr="54" />
-				<pt tm="4040" dist="0" hr="54" />
-				<pt tm="4045" dist="0" hr="55" />
-				<pt tm="4050" dist="0" hr="54" />
-				<pt tm="4055" dist="0" hr="55" />
-				<pt tm="4060" dist="0" hr="57" />
-				<pt tm="4065" dist="0" hr="59" />
-				<pt tm="4070" dist="0" hr="61" />
-				<pt tm="4075" dist="0" hr="63" />
-				<pt tm="4080" dist="0" hr="60" />
-				<pt tm="4085" dist="0" hr="57" />
-				<pt tm="4090" dist="0" hr="57" />
-				<pt tm="4095" dist="0" hr="57" />
-				<pt tm="4100" dist="0" hr="56" />
-				<pt tm="4105" dist="0" hr="57" />
-				<pt tm="4110" dist="0" hr="58" />
-				<pt tm="4115" dist="0" hr="58" />
-				<pt tm="4120" dist="0" hr="58" />
-				<pt tm="4125" dist="0" hr="57" />
-				<pt tm="4130" dist="0" hr="57" />
-				<pt tm="4135" dist="0" hr="58" />
-				<pt tm="4140" dist="0" hr="56" />
-				<pt tm="4145" dist="0" hr="56" />
-				<pt tm="4150" dist="0" hr="56" />
-				<pt tm="4155" dist="0" hr="57" />
-				<pt tm="4160" dist="0" hr="58" />
-				<pt tm="4165" dist="0" hr="59" />
-				<pt tm="4170" dist="0" hr="58" />
-				<pt tm="4175" dist="0" hr="59" />
-				<pt tm="4180" dist="0" hr="57" />
-				<pt tm="4185" dist="0" hr="63" />
-				<pt tm="4190" dist="0" hr="65" />
-				<pt tm="4195" dist="0" hr="64" />
-				<pt tm="4200" dist="0" hr="61" />
-				<pt tm="4205" dist="0" hr="59" />
-				<pt tm="4210" dist="0" hr="57" />
-				<pt tm="4215" dist="0" hr="58" />
-				<pt tm="4220" dist="0" hr="57" />
-				<pt tm="4225" dist="0" hr="55" />
-				<pt tm="4230" dist="0" hr="57" />
-				<pt tm="4235" dist="0" hr="56" />
-				<pt tm="4240" dist="0" hr="56" />
-				<pt tm="4245" dist="0" hr="57" />
-				<pt tm="4250" dist="0" hr="59" />
-				<pt tm="4255" dist="0" hr="58" />
-				<pt tm="4260" dist="0" hr="57" />
-				<pt tm="4265" dist="0" hr="58" />
-				<pt tm="4270" dist="0" hr="58" />
-				<pt tm="4275" dist="0" hr="60" />
-				<pt tm="4280" dist="0" hr="59" />
-				<pt tm="4285" dist="0" hr="57" />
-				<pt tm="4290" dist="0" hr="57" />
-				<pt tm="4295" dist="0" hr="59" />
-				<pt tm="4300" dist="0" hr="60" />
-				<pt tm="4305" dist="0" hr="60" />
-				<pt tm="4310" dist="0" hr="60" />
-				<pt tm="4315" dist="0" hr="59" />
-				<pt tm="4320" dist="0" hr="58" />
-				<pt tm="4325" dist="0" hr="58" />
-				<pt tm="4330" dist="0" hr="59" />
-				<pt tm="4335" dist="0" hr="57" />
-				<pt tm="4340" dist="0" hr="57" />
-				<pt tm="4345" dist="0" hr="60" />
-				<pt tm="4350" dist="0" hr="60" />
-				<pt tm="4355" dist="0" hr="59" />
-				<pt tm="4360" dist="0" hr="58" />
-				<pt tm="4365" dist="0" hr="58" />
-				<pt tm="4370" dist="0" hr="58" />
-				<pt tm="4375" dist="0" hr="60" />
-				<pt tm="4380" dist="0" hr="62" />
-				<pt tm="4385" dist="0" hr="59" />
-				<pt tm="4390" dist="0" hr="58" />
-				<pt tm="4395" dist="0" hr="57" />
-				<pt tm="4400" dist="0" hr="60" />
-				<pt tm="4405" dist="0" hr="66" />
-				<pt tm="4410" dist="0" hr="63" />
-				<pt tm="4415" dist="0" hr="70" />
-				<pt tm="4420" dist="0" hr="69" />
-				<pt tm="4425" dist="0" hr="64" />
-				<pt tm="4430" dist="0" hr="61" />
-				<pt tm="4435" dist="0" hr="58" />
-				<pt tm="4440" dist="0" hr="56" />
-				<pt tm="4445" dist="0" hr="56" />
-				<pt tm="4450" dist="0" hr="55" />
-				<pt tm="4455" dist="0" hr="54" />
-				<pt tm="4460" dist="0" hr="55" />
-				<pt tm="4465" dist="0" hr="57" />
-				<pt tm="4470" dist="0" hr="56" />
-				<pt tm="4475" dist="0" hr="56" />
-				<pt tm="4480" dist="0" hr="56" />
-				<pt tm="4485" dist="0" hr="56" />
-				<pt tm="4490" dist="0" hr="55" />
-				<pt tm="4495" dist="0" hr="55" />
-				<pt tm="4500" dist="0" hr="56" />
-				<pt tm="4505" dist="0" hr="55" />
-				<pt tm="4510" dist="0" hr="55" />
-				<pt tm="4515" dist="0" hr="57" />
-				<pt tm="4520" dist="0" hr="56" />
-				<pt tm="4525" dist="0" hr="58" />
-				<pt tm="4530" dist="0" hr="58" />
-				<pt tm="4535" dist="0" hr="58" />
-				<pt tm="4540" dist="0" hr="57" />
-				<pt tm="4545" dist="0" hr="56" />
-				<pt tm="4550" dist="0" hr="55" />
-				<pt tm="4555" dist="0" hr="57" />
-				<pt tm="4560" dist="0" hr="57" />
-				<pt tm="4565" dist="0" hr="56" />
-				<pt tm="4570" dist="0" hr="58" />
-				<pt tm="4575" dist="0" hr="58" />
-				<pt tm="4580" dist="0" hr="56" />
-				<pt tm="4585" dist="0" hr="56" />
-				<pt tm="4590" dist="0" hr="56" />
-				<pt tm="4595" dist="0" hr="57" />
-				<pt tm="4600" dist="0" hr="57" />
-				<pt tm="4605" dist="0" hr="58" />
-				<pt tm="4610" dist="0" hr="57" />
-				<pt tm="4615" dist="0" hr="58" />
-				<pt tm="4620" dist="0" hr="58" />
-				<pt tm="4625" dist="0" hr="59" />
-				<pt tm="4630" dist="0" hr="61" />
-				<pt tm="4635" dist="0" hr="58" />
-				<pt tm="4640" dist="0" hr="57" />
-				<pt tm="4645" dist="0" hr="57" />
-				<pt tm="4650" dist="0" hr="57" />
-				<pt tm="4655" dist="0" hr="56" />
-				<pt tm="4660" dist="0" hr="57" />
-				<pt tm="4665" dist="0" hr="60" />
-				<pt tm="4670" dist="0" hr="60" />
-				<pt tm="4675" dist="0" hr="59" />
-				<pt tm="4680" dist="0" hr="60" />
-				<pt tm="4685" dist="0" hr="58" />
-				<pt tm="4690" dist="0" hr="58" />
-				<pt tm="4695" dist="0" hr="58" />
-				<pt tm="4700" dist="0" hr="59" />
-				<pt tm="4705" dist="0" hr="58" />
-				<pt tm="4710" dist="0" hr="58" />
-				<pt tm="4715" dist="0" hr="60" />
-				<pt tm="4720" dist="0" hr="60" />
-				<pt tm="4725" dist="0" hr="60" />
-				<pt tm="4730" dist="0" hr="59" />
-				<pt tm="4735" dist="0" hr="64" />
-				<pt tm="4740" dist="0" hr="63" />
-				<pt tm="4745" dist="0" hr="60" />
-				<pt tm="4750" dist="0" hr="59" />
-				<pt tm="4755" dist="0" hr="58" />
-				<pt tm="4760" dist="0" hr="58" />
-				<pt tm="4765" dist="0" hr="59" />
-				<pt tm="4770" dist="0" hr="59" />
-				<pt tm="4775" dist="0" hr="58" />
-				<pt tm="4780" dist="0" hr="58" />
-				<pt tm="4785" dist="0" hr="57" />
-				<pt tm="4790" dist="0" hr="56" />
-				<pt tm="4795" dist="0" hr="57" />
-				<pt tm="4800" dist="0" hr="56" />
-				<pt tm="4805" dist="0" hr="56" />
-				<pt tm="4810" dist="0" hr="56" />
-				<pt tm="4815" dist="0" hr="58" />
-				<pt tm="4820" dist="0" hr="60" />
-				<pt tm="4825" dist="0" hr="59" />
-				<pt tm="4830" dist="0" hr="61" />
-				<pt tm="4835" dist="0" hr="60" />
-				<pt tm="4840" dist="0" hr="59" />
-				<pt tm="4845" dist="0" hr="59" />
-				<pt tm="4850" dist="0" hr="59" />
-				<pt tm="4855" dist="0" hr="61" />
-				<pt tm="4860" dist="0" hr="61" />
-				<pt tm="4865" dist="0" hr="60" />
-				<pt tm="4870" dist="0" hr="59" />
-				<pt tm="4875" dist="0" hr="58" />
-				<pt tm="4880" dist="0" hr="58" />
-				<pt tm="4885" dist="0" hr="59" />
-				<pt tm="4890" dist="0" hr="59" />
-				<pt tm="4895" dist="0" hr="59" />
-				<pt tm="4900" dist="0" hr="60" />
-				<pt tm="4905" dist="0" hr="59" />
-				<pt tm="4910" dist="0" hr="59" />
-				<pt tm="4915" dist="0" hr="59" />
-				<pt tm="4920" dist="0" hr="58" />
-				<pt tm="4925" dist="0" hr="60" />
-				<pt tm="4930" dist="0" hr="59" />
-				<pt tm="4935" dist="0" hr="59" />
-				<pt tm="4940" dist="0" hr="59" />
-				<pt tm="4945" dist="0" hr="59" />
-				<pt tm="4950" dist="0" hr="59" />
-				<pt tm="4955" dist="0" hr="60" />
-				<pt tm="4960" dist="0" hr="60" />
-				<pt tm="4965" dist="0" hr="60" />
-				<pt tm="4970" dist="0" hr="59" />
-				<pt tm="4975" dist="0" hr="60" />
-				<pt tm="4980" dist="0" hr="60" />
-				<pt tm="4985" dist="0" hr="59" />
-				<pt tm="4990" dist="0" hr="60" />
-				<pt tm="4995" dist="0" hr="60" />
-				<pt tm="5000" dist="0" hr="58" />
-				<pt tm="5005" dist="0" hr="60" />
-				<pt tm="5010" dist="0" hr="58" />
-				<pt tm="5015" dist="0" hr="58" />
-				<pt tm="5020" dist="0" hr="59" />
-				<pt tm="5025" dist="0" hr="58" />
-				<pt tm="5030" dist="0" hr="59" />
-				<pt tm="5035" dist="0" hr="59" />
-				<pt tm="5040" dist="0" hr="59" />
-				<pt tm="5045" dist="0" hr="59" />
-				<pt tm="5050" dist="0" hr="61" />
-				<pt tm="5055" dist="0" hr="60" />
-				<pt tm="5060" dist="0" hr="60" />
-				<pt tm="5065" dist="0" hr="60" />
-				<pt tm="5070" dist="0" hr="60" />
-				<pt tm="5075" dist="0" hr="60" />
-				<pt tm="5080" dist="0" hr="62" />
-				<pt tm="5085" dist="0" hr="58" />
-				<pt tm="5090" dist="0" hr="59" />
-				<pt tm="5095" dist="0" hr="58" />
-				<pt tm="5100" dist="0" hr="59" />
-				<pt tm="5105" dist="0" hr="59" />
-				<pt tm="5110" dist="0" hr="59" />
-				<pt tm="5115" dist="0" hr="61" />
-				<pt tm="5120" dist="0" hr="60" />
-				<pt tm="5125" dist="0" hr="60" />
-				<pt tm="5130" dist="0" hr="61" />
-				<pt tm="5135" dist="0" hr="60" />
-				<pt tm="5140" dist="0" hr="60" />
-				<pt tm="5145" dist="0" hr="68" />
-				<pt tm="5150" dist="0" hr="71" />
-				<pt tm="5155" dist="0" hr="71" />
-				<pt tm="5160" dist="0" hr="75" />
-				<pt tm="5165" dist="0" hr="74" />
-				<pt tm="5170" dist="0" hr="71" />
-				<pt tm="5175" dist="0" hr="68" />
-				<pt tm="5180" dist="0" hr="65" />
-				<pt tm="5185" dist="0" hr="70" />
-				<pt tm="5190" dist="0" hr="65" />
-				<pt tm="5195" dist="0" hr="65" />
-				<pt tm="5200" dist="0" hr="61" />
-				<pt tm="5205" dist="0" hr="58" />
-				<pt tm="5210" dist="0" hr="59" />
-				<pt tm="5215" dist="0" hr="66" />
-				<pt tm="5220" dist="0" hr="61" />
-				<pt tm="5225" dist="0" hr="62" />
-				<pt tm="5230" dist="0" hr="68" />
-				<pt tm="5235" dist="0" hr="64" />
-				<pt tm="5240" dist="0" hr="67" />
-				<pt tm="5245" dist="0" hr="62" />
-				<pt tm="5250" dist="0" hr="58" />
-				<pt tm="5255" dist="0" hr="58" />
-				<pt tm="5260" dist="0" hr="60" />
-				<pt tm="5265" dist="0" hr="64" />
-				<pt tm="5270" dist="0" hr="70" />
-				<pt tm="5275" dist="0" hr="62" />
-				<pt tm="5280" dist="0" hr="61" />
-				<pt tm="5285" dist="0" hr="59" />
-				<pt tm="5290" dist="0" hr="59" />
-				<pt tm="5295" dist="0" hr="61" />
-				<pt tm="5300" dist="0" hr="61" />
-				<pt tm="5305" dist="0" hr="60" />
-				<pt tm="5310" dist="0" hr="64" />
+				<pt tm="1570" dist=t tm="5310" dist="0" hr="64" />
 				<pt tm="5315" dist="0" hr="60" />
-				<pt tm="5320" dist="0" hr="57" />
+				<pt tm="5320" dist="0 />
+				<pt tm="10880" dist="0" hr="58" />
+				<pt tm="10885" dist="0" hr="58" />
+				<pt tm="10890" dist="0" hr="58" />
+				<pt tm="10895" dist="0" hr="58" />
+				<pt tm="10900" dist="0" hr="58" />
+				<pt tm="10905" dist="0" hr="57" />
+				<pt tm="10910" dist="0" hr="58" />
+				<pt tm="10915" dist="0" hr="60" />
+				<pt tm="10920" dist="0" hr="59" />
+				<pt tm="10925" dist="0" hr="59" />
+				<pt tm="10930" dist="0" hr="@0" />
+				<pt tm="10935" dist="0" hr="61" />
+				<pt tm="10940" dist="0" hr="61" />
+				<pt tm="10945" dist="0" hr="60" />
+				<pt tm="10950" dist="0" hr="60" />
+				<pt tm="10955" dist="0" hr="61" /> 				<pt tm="10960" dist="0" hr="60" />
+				<pt tm="10965" dist="0" hr="61" />
+				<pt tm="10970" dist="0"
+				<pt tm="10975" dist="0" hr="61" />
+				<pt tm="10980" dist="0" hr="62" />
+				<pt tm="10985" dist="0" hr="61" />
+				<pt tm="10990" dist="0" hr="61" />
+				<pt tm="10995" dist="0" hr="59" />
+				<pt tm="11000" dist="0" hr="59" />
+				<pt tm="11005" dist="0" hr="59" />
+				<pt tm="11010" dist="0" hr="59" " hr="57" />
 				<pt tm="5325" dist="0" hr="59" />
 				<pt tm="5330" dist="0" hr="62" />
 				<pt tm="5335" dist="0" hr="63" />
@@ -1085,7 +363,7 @@
 				<pt tm="5375" dist="0" hr="61" />
 				<pt tm="5380" dist="0" hr="58" />
 				<pt tm="5385" dist="0" hr="57" />
-				<pt tm="5390" dist="0" hr="56" />
+				<pt tm="5390" dist="0" hr="56" />
 				<pt tm="5395" dist="0" hr="59" />
 				<pt tm="5400" dist="0" hr="60" />
 				<pt tm="5405" dist="0" hr="61" />
@@ -1098,7 +376,7 @@
 				<pt tm="5440" dist="0" hr="58" />
 				<pt tm="5445" dist="0" hr="59" />
 				<pt tm="5450" dist="0" hr="58" />
-				<pt tm="5455" dist="0" hr="58" />
+				<pt tm="5455" dst="0" hr="58" />
 				<pt tm="5460" dist="0" hr="58" />
 				<pt tm="5465" dist="0" hr="58" />
 				<pt tm="5470" dist="0" hr="57" />
@@ -1111,7 +389,7 @@
 				<pt tm="5505" dist="0" hr="58" />
 				<pt tm="5510" dist="0" hr="58" />
 				<pt tm="5515" dist="0" hr="57" />
-				<pt tm="5520" dist="0" hr="59" />
+				<pt tm="5520" dist=0" hr="59" />
 				<pt tm="5525" dist="0" hr="63" />
 				<pt tm="5530" dist="0" hr="62" />
 				<pt tm="5535" dist="0" hr="61" />
@@ -1157,7 +435,7 @@
 				<pt tm="5735" dist="0" hr="60" />
 				<pt tm="5740" dist="0" hr="60" />
 				<pt tm="5745" dist="0" hr="61" />
-				<pt tm="5750" dist="0" hr="61" />
+				<pt tm="5%50" dist="0" hr="61" />
 				<pt tm="5755" dist="0" hr="62" />
 				<pt tm="5760" dist="0" hr="65" />
 				<pt tm="5765" dist="0" hr="65" />
@@ -1216,7 +494,7 @@
 				<pt tm="6030" dist="0" hr="57" />
 				<pt tm="6035" dist="0" hr="57" />
 				<pt tm="6040" dist="0" hr="57" />
-				<pt tm="6045" dist="0" hr="59" />
+				<pt tm="6045" dist="0" hr=;59" />
 				<pt tm="6050" dist="0" hr="59" />
 				<pt tm="6055" dist="0" hr="59" />
 				<pt tm="6060" dist="0" hr="59" />
@@ -1248,7 +526,7 @@
 				<pt tm="6190" dist="0" hr="60" />
 				<pt tm="6195" dist="0" hr="62" />
 				<pt tm="6200" dist="0" hr="63" />
-				<pt tm="6205" dist="0" hr="61" />
+				<pt tm="6205" dist="0" hr="61" /><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 				<pt tm="6210" dist="0" hr="61" />
 				<pt tm="6215" dist="0" hr="59" />
 				<pt tm="6220" dist="0" hr="59" />
@@ -1264,7 +542,7 @@
 				<pt tm="6270" dist="0" hr="59" />
 				<pt tm="6275" dist="0" hr="58" />
 				<pt tm="6280" dist="0" hr="58" />
-				<pt tm="6285" dist="0" hr="59" />
+				<pt tm="6285" dist="0" hr="59"B/>
 				<pt tm="6290" dist="0" hr="60" />
 				<pt tm="6295" dist="0" hr="61" />
 				<pt tm="6300" dist="0" hr="61" />
@@ -1272,7 +550,7 @@
 				<pt tm="6310" dist="0" hr="58" />
 				<pt tm="6315" dist="0" hr="56" />
 				<pt tm="6320" dist="0" hr="55" />
-				<pt tm="6325" dist="0" hr="54" />
+				<pt tm="1325" dist="0" hr="54" />
 				<pt tm="6330" dist="0" hr="54" />
 				<pt tm="6335" dist="0" hr="55" />
 				<pt tm="6340" dist="0" hr="55" />
@@ -1288,51 +566,15 @@
 				<pt tm="6390" dist="0" hr="63" />
 				<pt tm="6395" dist="0" hr="60" />
 				<pt tm="6400" dist="0" hr="60" />
-				<pt tm="6405" dist="0" hr="63" />
+				<pt tm=0" hr="63" />
 				<pt tm="6410" dist="0" hr="64" />
 				<pt tm="6415" dist="0" hr="63" />
 				<pt tm="6420" dist="0" hr="64" />
 				<pt tm="6425" dist="0" hr="60" />
-				<pt tm="6430" dist="0" hr="61" />
-				<pt tm="6435" dist="0" hr="60" />
-				<pt tm="6440" dist="0" hr="59" />
-				<pt tm="6445" dist="0" hr="57" />
-				<pt tm="6450" dist="0" hr="58" />
-				<pt tm="6455" dist="0" hr="58" />
-				<pt tm="6460" dist="0" hr="57" />
-				<pt tm="6465" dist="0" hr="60" />
-				<pt tm="6470" dist="0" hr="61" />
-				<pt tm="6475" dist="0" hr="59" />
-				<pt tm="6480" dist="0" hr="58" />
-				<pt tm="6485" dist="0" hr="57" />
-				<pt tm="6490" dist="0" hr="56" />
-				<pt tm="6495" dist="0" hr="56" />
-				<pt tm="6500" dist="0" hr="56" />
-				<pt tm="6505" dist="0" hr="56" />
-				<pt tm="6510" dist="0" hr="56" />
-				<pt tm="6515" dist="0" hr="57" />
-				<pt tm="6520" dist="0" hr="58" />
-				<pt tm="6525" dist="0" hr="58" />
-				<pt tm="6530" dist="0" hr="59" />
-				<pt tm="6535" dist="0" hr="58" />
-				<pt tm="6540" dist="0" hr="58" />
-				<pt tm="6545" dist="0" hr="60" />
-				<pt tm="6550" dist="0" hr="60" />
-				<pt tm="6555" dist="0" hr="60" />
-				<pt tm="6560" dist="0" hr="60" />
-				<pt tm="6565" dist="0" hr="60" />
-				<pt tm="6570" dist="0" hr="59" />
-				<pt tm="6575" dist="0" hr="61" />
-				<pt tm="6580" dist="0" hr="63" />
-				<pt tm="6585" dist="0" hr="63" />
-				<pt tm="6590" dist="0" hr="62" />
-				<pt tm="6595" dist="0" hr="63" />
-				<pt tm="6600" dist="0" hr="64" />
-				<pt tm="6605" dist="0" hr="67" />
-				<pt tm="6610" dist="0" hr="64" />
-				<pt tm="6615" dist="0" hr="63" />
+				<pt tm="6430" dist="0" hr="64" />
+				<pt tm="6615" di]t="0" hr="63" />
 				<pt tm="6620" dist="0" hr="64" />
-				<pt tm="6625" dist="0" hr="63" />
+				<pt tm="6625" dist="0" hr="23" />
 				<pt tm="6630" dist="0" hr="60" />
 				<pt tm="6635" dist="0" hr="58" />
 				<pt tm="6640" dist="0" hr="57" />
@@ -1352,8 +594,7 @@
 				<pt tm="6710" dist="0" hr="55" />
 				<pt tm="6715" dist="0" hr="55" />
 				<pt tm="6720" dist="0" hr="58" />
-				<pt tm="6725" dist="0" hr="61" />
-				<pt tm="6730" dist="0" hr="62" />
+				<pt tm="6725" dist="dist="0" hr="62" />
 				<pt tm="6735" dist="0" hr="64" />
 				<pt tm="6740" dist="0" hr="65" />
 				<pt tm="6745" dist="0" hr="67" />
@@ -1375,21 +616,20 @@
 				<pt tm="6825" dist="0" hr="58" />
 				<pt tm="6830" dist="0" hr="60" />
 				<pt tm="6835" dist="0" hr="65" />
-				<pt tm="6840" dist="0" hr="64" />
+				<pt tm="6840" dist="0" hr="64" “>
 				<pt tm="6845" dist="0" hr="64" />
 				<pt tm="6850" dist="0" hr="63" />
 				<pt tm="6855" dist="0" hr="60" />
-				<pt tm="6860" dist="0" hr="58" />
-				<pt tm="6865" dist="0" hr="56" />
-				<pt tm="6870" dist="0" hr="56" />
-				<pt tm="6875" dist="0" hr="56" />
-				<pt tm="6880" dist="0" hr="56" />
-				<pt tm="6885" dist="0" hr="58" />
-				<pt tm="6890" dist="0" hr="61" />
-				<pt tm="6895" dist="0" hr="58" />
-				<pt tm="6900" dist="0" hr="60" />
-				<pt tm="6905" dist="0" hr="59" />
-				<pt tm="6910" dist="0" hr="60" />
+				<pt tm="6860" dist="0" hr="58" 17785" diYt="0" hr="79" />
+				<pt tm="17790" dist="0" hr="86" />
+				<pt tm="17795" dist="0" hr="85" />
+				<pt tm="17800" dist="0" hr="75" />
+				<pt tm="17805" dist="0" hr="65" />
+				<pt tm="17810" dist="0" hr="64" />
+				<pt tm="17815" dist="0" hr="64" />
+				<pt tm="17820" dist="0" hr="63" />
+				<pt tm="17825" dist="0" hr="60" />
+				<pt tm="17830" dist= dist="0" hr="60" />
 				<pt tm="6915" dist="0" hr="58" />
 				<pt tm="6920" dist="0" hr="57" />
 				<pt tm="6925" dist="0" hr="57" />
@@ -1425,7 +665,7 @@
 				<pt tm="7075" dist="0" hr="60" />
 				<pt tm="7080" dist="0" hr="59" />
 				<pt tm="7085" dist="0" hr="58" />
-				<pt tm="7090" dist="0" hr="59" />
+				<pt7"  tm="7090" dist="0" hr="59" />
 				<pt tm="7095" dist="0" hr="60" />
 				<pt tm="7100" dist="0" hr="59" />
 				<pt tm="7105" dist="0" hr="57" />
@@ -1434,7 +674,7 @@
 				<pt tm="7120" dist="0" hr="56" />
 				<pt tm="7125" dist="0" hr="58" />
 				<pt tm="7130" dist="0" hr="60" />
-				<pt tm="7135" dist="0" hr="64" />
+				<pt tm=" 135" dist="0" hr="64" />
 				<pt tm="7140" dist="0" hr="62" />
 				<pt tm="7145" dist="0" hr="60" />
 				<pt tm="7150" dist="0" hr="60" />
@@ -1449,7 +689,7 @@
 				<pt tm="7195" dist="0" hr="55" />
 				<pt tm="7200" dist="0" hr="56" />
 				<pt tm="7205" dist="0" hr="58" />
-				<pt tm="7210" dist="0" hr="58" />
+				<pt tm="7210" dist="0" hr="58" /n="1.0" encoding="utf>
 				<pt tm="7215" dist="0" hr="60" />
 				<pt tm="7220" dist="0" hr="60" />
 				<pt tm="7225" dist="0" hr="59" />
@@ -1461,36 +701,7 @@
 				<pt tm="7255" dist="0" hr="64" />
 				<pt tm="7260" dist="0" hr="70" />
 				<pt tm="7265" dist="0" hr="68" />
-				<pt tm="7270" dist="0" hr="68" />
-				<pt tm="7275" dist="0" hr="63" />
-				<pt tm="7280" dist="0" hr="61" />
-				<pt tm="7285" dist="0" hr="59" />
-				<pt tm="7290" dist="0" hr="58" />
-				<pt tm="7295" dist="0" hr="59" />
-				<pt tm="7300" dist="0" hr="59" />
-				<pt tm="7305" dist="0" hr="59" />
-				<pt tm="7310" dist="0" hr="60" />
-				<pt tm="7315" dist="0" hr="61" />
-				<pt tm="7320" dist="0" hr="61" />
-				<pt tm="7325" dist="0" hr="63" />
-				<pt tm="7330" dist="0" hr="58" />
-				<pt tm="7335" dist="0" hr="57" />
-				<pt tm="7340" dist="0" hr="57" />
-				<pt tm="7345" dist="0" hr="58" />
-				<pt tm="7350" dist="0" hr="58" />
-				<pt tm="7355" dist="0" hr="58" />
-				<pt tm="7360" dist="0" hr="58" />
-				<pt tm="7365" dist="0" hr="61" />
-				<pt tm="7370" dist="0" hr="59" />
-				<pt tm="7375" dist="0" hr="59" />
-				<pt tm="7380" dist="0" hr="60" />
-				<pt tm="7385" dist="0" hr="59" />
-				<pt tm="7390" dist="0" hr="59" />
-				<pt tm="7395" dist="0" hr="60" />
-				<pt tm="7400" dist="0" hr="60" />
-				<pt tm="7405" dist="0" hr="61" />
-				<pt tm="7410" dist="0" hr="60" />
-				<pt tm="7415" dist="0" hr="61" />
+				<pt tm="7270" dist="0" hr="" />
 				<pt tm="7420" dist="0" hr="65" />
 				<pt tm="7425" dist="0" hr="63" />
 				<pt tm="7430" dist="0" hr="61" />
@@ -1498,7 +709,8 @@
 				<pt tm="7440" dist="0" hr="61" />
 				<pt tm="7445" dist="0" hr="60" />
 				<pt tm="7450" dist="0" hr="60" />
-				<pt tm="7455" dist="0" hr="59" />
+				<pt tm="74
+	55" dist="0" hr="59" />
 				<pt tm="7460" dist="0" hr="60" />
 				<pt tm="7465" dist="0" hr="63" />
 				<pt tm="7470" dist="0" hr="62" />
@@ -1540,8 +752,7 @@
 				<pt tm="7650" dist="0" hr="68" />
 				<pt tm="7655" dist="0" hr="63" />
 				<pt tm="7660" dist="0" hr="60" />
-				<pt tm="7665" dist="0" hr="56" />
-				<pt tm="7670" dist="0" hr="56" />
+				<pt tm="7665" dist="0" hr="56" / dis			<pt tm="7670" dist="0" hr="56" />
 				<pt tm="7675" dist="0" hr="62" />
 				<pt tm="7680" dist="0" hr="62" />
 				<pt tm="7685" dist="0" hr="77" />
@@ -1558,13 +769,7 @@
 				<pt tm="7740" dist="0" hr="55" />
 				<pt tm="7745" dist="0" hr="57" />
 				<pt tm="7750" dist="0" hr="59" />
-				<pt tm="7755" dist="0" hr="60" />
-				<pt tm="7760" dist="0" hr="59" />
-				<pt tm="7765" dist="0" hr="59" />
-				<pt tm="7770" dist="0" hr="60" />
-				<pt tm="7775" dist="0" hr="57" />
-				<pt tm="7780" dist="0" hr="56" />
-				<pt tm="7785" dist="0" hr="55" />
+				<ptdist="0" hr="55" />
 				<pt tm="7790" dist="0" hr="56" />
 				<pt tm="7795" dist="0" hr="56" />
 				<pt tm="7800" dist="0" hr="55" />
@@ -1600,6 +805,7 @@
 				<pt tm="7950" dist="0" hr="58" />
 				<pt tm="7955" dist="0" hr="58" />
 				<pt tm="7960" dist="0" hr="60" />
+
 				<pt tm="7965" dist="0" hr="59" />
 				<pt tm="7970" dist="0" hr="59" />
 				<pt tm="7975" dist="0" hr="59" />
@@ -1608,7 +814,7 @@
 				<pt tm="7990" dist="0" hr="59" />
 				<pt tm="7995" dist="0" hr="58" />
 				<pt tm="8000" dist="0" hr="58" />
-				<pt tm="8005" dist="0" hr="58" />
+				<pt tm="8005" dist="0" hr=#58" />
 				<pt tm="8010" dist="0" hr="58" />
 				<pt tm="8015" dist="0" hr="58" />
 				<pt tm="8020" dist="0" hr="59" />
@@ -1632,8 +838,7 @@
 				<pt tm="8110" dist="0" hr="57" />
 				<pt tm="8115" dist="0" hr="58" />
 				<pt tm="8120" dist="0" hr="58" />
-				<pt tm="8125" dist="0" hr="59" />
-				<pt tm="8130" dist="0" hr="58" />
+				<pt tm="8125" dist="0" hr="59"/www.zonefit tm="8130" dist="0" hr="58" />
 				<pt tm="8135" dist="0" hr="59" />
 				<pt tm="8140" dist="0" hr="59" />
 				<pt tm="8145" dist="0" hr="60" />
@@ -1642,7 +847,7 @@
 				<pt tm="8160" dist="0" hr="59" />
 				<pt tm="8165" dist="0" hr="59" />
 				<pt tm="8170" dist="0" hr="59" />
-				<pt tm="8175" dist="0" hr="59" />
+			>>>>>tm="8175" dist="0" hr="59" />
 				<pt tm="8180" dist="0" hr="59" />
 				<pt tm="8185" dist="0" hr="58" />
 				<pt tm="8190" dist="0" hr="59" />
@@ -1679,10 +884,733 @@
 				<pt tm="8345" dist="0" hr="60" />
 				<pt tm="8350" dist="0" hr="61" />
 				<pt tm="8355" dist="0" hr="60" />
-				<pt tm="8360" dist="0" hr="60" />
-				<pt tm="8365" dist="0" hr="59" />
-				<pt tm="8370" dist="0" hr="60" />
-				<pt tm="8375" dist="0" hr="59" />
+				<pt tm="8360" dist="0"59" />
+				<pt tm="8425" dist="0" hr="61" />
+				<pt tm="8430" dist="0" hr="61" />
+				<pt tm="8435" dist="0" hr="60" />
+				<pt tm="8440" dist="0" hr="59" />
+				<pt tm="8445" dist="0" hr="61" />
+				<pt tm="8450" dist="0" hr="61" />
+				<pt tm="8455" dist="0" hr="60" />
+				<pt tm="8460" dist="0" hr="61" />
+				<pt tm="8465" dist="0" hr="60" />
+				<pt tm="8470" dist="0" hr="60" />
+				<pt tm="8475" dist="0" hr="60" />
+				<pt tm="8<80" dist="0" hr="59" />
+				<pt tm="8485" dist="0" hr="60" />
+				<pt tm="8490" dist="0" hr="60" />
+				<pt tm="8495" dist="0" hr="60" />
+				<pt tm="8500" dist="0" hr="60" /@
+				<pt tm="8505" dist="0" hr="60" />
+				<pt tm="8510" dist="0" hr="60" />
+				<pt tm="8515" dist="0" hr="59" />
+				<pt tm="8520" dist="0" hr="59" />
+				<pt tm="8525" dist="0" hr="60" />
+				<pt tm="8530" dist="0" hr="60" />
+				<pt tm="8535" dist="0" hr="60" />
+				<pt tm="8540" dist="0" hr="60" />
+				<pt tm="8545" dist="0" hr="59" />
+				<pt tm="8550" dist="0" hr="29" />
+				<pt tm="8555" dist="0" hr="59" />
+				<pt tm="8560" dist="0" hr="60" />
+				<pt tm="8565" dist="0" hr="60" />
+				pt tm="8570" dist="0" hr="59" />
+				<pt tm="8575" dist="0" hr="57" />
+				<pt tm="8580" dist="0" hr="54" />
+				<pt tm="8585" dist="0" hr="57" />
+				<pt tm="8590" dist="0" hr="58" />
+				<pt tm="8595" dist="0" hr="59" />
+				<pt tm="8600" dist="0" hr="60" />
+				<pt tm="8605" dist="0" hr="61" />
+				<pt tm="8610" dist="0" hr="62" />
+				<pt tm="8615" dist="0" hr="60" />
+				<pt tm="8620" dist="0" hr="60" />
+				<pt tm="8625" dist="0" hr="60" />
+				<pt tm="8630" dist="0" hr="60" />
+				<pt tm="8635" dist="0" hr="61" />
+				<pt tm="8640" dist="0" hr="62" />
+				<pt tm="8645" dist="0" hr="62" />
+				<pt tm="8650" dist="0" hr="61" />
+				<pt tm="8655" dist="0" hr="62" />
+				<pt tm="8660" dist="0" hr="61" />
+				<pt tm="8665" dist="0" hr="62" />
+				<pt tm="8670" dist="0" hr="62" />
+				<pt tm="8675" dist="0" hr="59" />
+				<pt tm="8680" dist="0" hr="60" />
+				<pt tm="8685" dist="0" hr="60" />
+				<pt tm="8690" dist="0" hr="60" />
+				<pt tm="8695" dist="0" hr="61" />
+				<pt tm="8700" dist="0" hr="60" />
+				<pt tm="8705" dist="0" hr="60" />
+				<pt tm="8710" dist="0" hr="61" />
+				<pt tm="8715" dist="0" hr="60" />
+				<pt tm="8720" dist="0" hr="60" />
+				<pt tm="8725" dist="0" hr="60" />
+				<pt tm="8730" dist="0" hr="61" />
+				<pt tm="8735" dist="0" hr="61" />
+				<pt tm="8740" dist="0" hr="61" />
+				<pt tm="8745" dist="0" hr="61" />
+				<pt tm="8750" dist="0" hr="60" />
+				<pt tm="8755" dist="0" hr="60" />
+				<pt tm="8760" dist="0" hr="60" />
+				<pt tm="8765" dist="0" hr="60" />
+		pt tm="8890" dist="0" hr="68" />
+				<pt tm="8895" dist="0" hr="65" />
+				<pt tm="8900" dist="0" hr="66" />
+				<pt tm="8905" dist="0" hr="65" />
+				<pt tm="8910" dist="0" hr="70" />
+				<pt tm="8915" dist="0" hr="75" />
+				<pt tm="8920" dist="0" hr="69" />
+				<pt tm="8925" dist="0" hr="73" />
+				<pt tm="8930" dist="0" hr="74" />
+				<pt tm="8935" dist="0" hr="74" />
+				<pt tm="8940" dist="0" hr="83" />
+				<pt tm="8945" dist="0" hr="85" />
+				<pt tm="8950" dist="0" hr="74" />
+				<pt tm="8955" dist="0" hr="77" />
+				<pt tm="8960" dist="0" hr="80" />
+				<pt tm="8965" dist="0" hr="83" />
+				<pt tm="8970" dist="0" hr="87" />
+				<pt tm="8975" dist="0" hr="88" />
+				<pt tm="8980" dist="0" hr="86" />
+				<pt tm="8985" dist="0" hr="74" />
+				<pt tm="8990" dist="0" hr="68" />
+				<pt tm="8995" dist="0" hr="62" />
+				<pt tm="9000" dist="0" hr="60" />
+				<pt tm="9005" dist="0" hr="60" />
+				<pt tm="9010" dist="0" hr="58" />
+				<pt tm="9015" dist="0" hr="59" />
+				<pt tm="9020" dist="0" hr="58" />
+				<pt tm="9025" dist="0" hr="65" />
+				<pt tm="9030" dist="0" hr="69" />
+				<pt tm="9035" dist="0" hr="64" />
+				<pt tm="9040" dist="0" hr="61" />
+				<pt tm="9045" di
+				<pt tm="9055" dist="0" hr="55" />
+				<pt tm="9060" dist="0" hr="53" />
+				<pt tm="9065" dist="0" hr="52" />
+				<pt tm="9070" dist="0" hr="54" />
+				<pt tm="9075" dist="0" hr="58" />
+				<pt tm="9080" dist="0" hr="58" />
+				<pt tm="9085" dist="0" hr="59" />
+				<pt tm="9090" dist="0" hr="57" />
+				<pt tm="9095" dist="0" hr="56" />
+				<pt tm="9100" dist="0" hr="56" />
+				<pt tm="9105" dist="0" hr="55" />
+				<pt tm="9110" dist="0" hr="55" />
+				<pt tm="9115" dist="0" hr="58" />
+				<pt tm="9120" dist="0" hr="65" />
+				<pt tm="9125" dist="0" hr="64" />
+				<pt tm="9130" dist="0" hr="61" />
+				<pt tm="9135" dist="0" hr="59" />
+				<pt tm="9140" dist="0" hr="59" />
+				<pt tm="9145" dist="0" hr="57" />
+				<pt tm="9150" dist="0" hr="55" />
+				<pt tm="9155" dist="0" hr="53" />
+				<pt tm="9160" dist="0" hr="54" />
+				<pt tm="9165" dist="0" hr="58" />
+				<pt tm="9170" dist="0" hr="59" />
+				<pt tm="9175" dist="0" hr="58" />
+				<pt tm="9180" dist="0" hr="58" />
+				<pt tm="9185" dist=@ " hr="62" />
+				<pt tm="9190" dist="0" hr="59" />
+				<pt tm="9195" dist="0" hr="56" />
+				<pt tm="9200" dist="0" hr="55" />
+				<pt tm="9205" dist="0" hr="55" />
+				<pt tm="9210" dist="0" hr="56" />
+				<pt tm="9215" dist="0" hr="58" />
+				<pt tm="9220" dist="0" hr="68" />
+				<pt tm="9225" dist="0" hr="74" />
+				<pt tm="9230" dist="0" hr="73" />
+				<pt tm="9235" dist="0" hr="62" />
+				<pt tm="9240" dist="0" hr="59"60" />
+				<pt tm="9260" dist="0" hr="56" />
+				<pt tm="9265" dist="0" hr="54" />
+				<pt tm="9270" dist="0" hr="54" />
+				<pt tm="9275" dist="0" hr="52" />
+				<pt tm="9280" dist="0" hr="52" />
+				<pt tm="9285" dist="0" hr="61" />
+				<pt tm="9290" dist=/>
+				<pt tm="9295" dist="0" hr="57" />
+				<pt tm="9300" dist="0" hr="55" />
+				<pt tm="9305" dist="0" hr="55" />
+				<pt tm="9310" dist="0" hr="55" />
+				<pt tm="9315" dist="0" hr="54" />
+				<pt tm="9320" dist="0" hr="57" />
+				<pt tm="9325" dist="0" hr="63" />
+				<pt tm="9330" dist="0" hr="61" />
+				<pt tm="9335" dist="0" hr="57" />
+				<pt tm="9340" dist="0" hr="55" />
+				<pt tm="9345" dist="0" hr="54" />
+				<pt tm="9350" dist="0" hr="54" />
+				<pt tm="9355" dist="0" hr="53" />
+				<pt tm="9<pt" dist="0" hr="53" />
+				<pt tm="9365" dist="0" hr="62" />
+				<pt tm="9370" dist="0" hr="62" />
+				<pt tm="9375" dist="0" hr="56" />
+				<pt tm="9380" dist="0" hr="54" />
+				<pt tm="9385" dist="0" hr="53" />
+				<pt tm="9390" dist="0" hr="54" />
+				<pt tm="9395" dist="0" hr="54" />
+				<pt tm="9400" dist="0" hr="55" />
+	l version="1.0" encodi			<pt tm="9405" dist="0" hr="63" />
+				<pt tm="9410" dist="0" hr="64" />
+				<pt tm="9415" dist="0" hr="60" />
+				<pt tm="9420" dist=0" hr="57" />
+				<pt tm="9425" d000000ist="0" hr="54" />
+				<pt tm="9430" dist="0" hr="52" />
+				<pt tm="9435" dist="0" hr="51" />
+				<pt tm="9440" dist="0" hr="51" />
+				<pt tm="9445" dist="0" hr="56" />
+				<pt tm="9450" dist="0" hr="64" />
+				<pt tm="9455" dist="0" hr="70" />
+				<pt tm="9460" dist="0" hr="72" />
+				<pt tm="9465" dist="0" hr="67" />
+				<pt tm="9470" dist="0" hr="61" />
+				<pt tm="9475" dist="0" hr="56" />
+				<pt tm="9480" dist="0" hr="54" />
+				<pt tm="9485" dist="0" hr="53" />
+				<pt tm="9490" dist="0" hr="54" />
+				<pt tm="9495" dist="0" hr="57" />
+				<pt tm="9500" dist="0" hr="59" />
+				<pt tm="9505" dist="0" hr="56" />
+				<pt tm="9510" dist="0" hr="55" />
+				<pt tm="9515" dist="0" hr="55" />
+				<pt tm="9520" dist="0" hr="54" />
+				<pt tm="9525" dist="0" hr="53" />
+				<pt tm="9530" dist="0" hr="56" />
+				<pt tm="9535" dist="0" hr="58" />
+				<pt tm="9540" dist="0" hr="55" />
+				<pt tm="9545" dist="0" hr="56" />
+				<pt tm="9550" dist="0" hr="54" />
+				<pt tm="9555" dist="0" ="58" />
+				<pt tm="9680" dist="0" hr="58" />
+				<pt tm="9685" dist="0" hr="55" />
+				<pt tm="9690" dist="0" hr="56" />
+				<pt tm="9695" dist="0" hr="60" />
+				<pt tm="9700" dist="0" hr="62" />
+				<pt tm="9705" dist="0" hr="56" />
+				<pt tm="9710" dist="0" hr="56" />
+				<pt tm="9715" dist="0" hr="56" />
+				<pt tm="9720" dist="0" hr="56" />
+				<pt tm="9725" dist="0" hr="56" />
+				<pt tm="9730" dist="0" hr="56" />
+				<pt tm="9735" dist="0" hr="56" />
+				<pt tm="9740" dist="0" hr="59& />
+				<pt tm="9745" dist="0" hr="57" />
+				<pt tm="9750" dist="0" hr="59" />
+				<pt tm="9755" dist="ÿ hr="58" />
+				<pt tm="9760" dist="0" hr="57" />
+				<pt tm="9765" dist="0" hr="59" />
+				ï»¿<?xml versio<pt tm="9770" dist="0" hr="59" />
+				<pt tm="9775" dist="0" hr="60" />
+				<pt tm="9780" dist="0" hr="61" />
+				<pt tm="9785" dist="0" hr="63" />
+				<pt tm="9790" dist="0" hr="67" />
+				<pt tm="9795" dist="0" hr="72" />
+				<pt tm="9800" dist="0" hr="68" />
+				<pt tm="9805" dist="0" hr="63" />
+				<pt tm="9810" dist="0" hr="60" />
+				<pt tm="9815" dist="0" hr="56" />
+				<pt tm="9820" dist="0" hr="55" />
+				<pt tm="9825" dist="0" hr="53" />
+				<pt tm="9830" dist="0" hr="53" />
+				<pt tm="9835" dist="0" hr="56" />
+		om/xmlsc="9840" dist="0" hr="64" />
+				<pt tm="9845" dist="0" hr="61" />
+				<pt tm="9850" dist="0" hr="58" />
+				<pt tm="9855" dist="0" hr="56" />
+				<pt tm="9860" dist="0" hr="55" />
+				<pt tm="9865" dist="0" hr="58" />
+				<pt tm="9870" dist="0" hr="58" />
+				<pt tm="9875" dist="0" hr="56" />
+				<pt tm="9880" dist="0" hr="56" />
+				<pt tm="9885" dist="0" hr="57" />
+				<pt tm="9890" dist="0" hr="58" />
+				<pt tm="9895" dist="0" hr="58" />
+				<pt tm="9900" dist="0" hr="58" />
+				<pt tm="9905" dist="0" hr="58" />
+				<pt tm="9910" dist="0" hr="57" />
+				<pt tm="9915" dist="0" hr="58" />
+				<pt tm="9920" dist="0" hr="60" />
+				<pt tm="9925" dist="0" hr="59" />
+				<pt tm="9930" dist="0" hr="57" />
+				<pt tm="9935" dist="0" hr="58" />
+				<pt tm="9940" dist="0" hr="59" />
+				<pt tm="9945" dist="0" hr="58" />
+				<pt tm="9950" dist="0" hr="57" />
+				<pt tm="9955" dist="0" hr="58" />
+				<pt tm="9960" dist="0" hr="58" />
+				<pt tm="9965" dist="0" hr="57" />
+				<pt tm="9970" dist="0" hr="58" />
+				<pt tm="9975" dist="0" hr="57" />
+				<pt tm="9980" dist="0" hr="57" />
+				<pt tm="9985" dist="0" hr="56" />
+				<pt tm="9990" dist="0" hr="57" />
+				<pt tm="9995" dist="0" hr="60" />
+				<pt tm="10000" dist="0" hr="61" />
+				<pt tm="10005" dist="0" hr="58" />
+				<pt tm="10010" dist="0" hr="56" />
+				<pt tm="10015" dist="0" hr="56" />
+				<pt tm="10020" dist="0" hr="56" />
+				<pt tm="10025" dist="0" hr="58" />
+				<pt tm="10030" dist="0" hr="63" />
+				<pt tm="10035" dist="0" hr="59" />
+				<pt tm="10040" dist="0" hr="56" />
+				<pt tm="10045" dist="0" hr="55" />
+				<pt tm="10050" dist="0" hr="56" />
+				<pt tm="10055" dist="0" hr="56" />
+				<pt tm="10060" dist="0" hr="56" />
+				<pt tm="10065" dist="0" hr="56" />
+				<pt tm="10070" dist="0" hr="56" />
+				<pt tm="10075" dist="0" hr="59" />
+				<pt tm="10080" dist="0" hr="57" />
+				<pt tm="10085" dist="0" hr="58" />
+				<pt tm="10090" dist="0" hr="58" />
+				<pt tm="10095" dist="0" hr="58" />
+				<pt tm="10100" dist="0" hr="59" />
+				<pt tm="10105" dist="0" hr="58" />
+				<pt tm="10110" dist="0" hr="59" />
+				<pt tm="10115" dist="0" hr="58" />
+				<pt tm="10120" dist="0" hr="58" />
+				<pt tm="10125" dist="0" hr="57" />
+				<pt tm="10130" dist=0" hr="57" />
+				<pt tm="10135" dist="0" hr="59" />
+				<pt tm="10140" dist="0" hr="59" />
+				<pt tm="10145" dist="0" hr="58" />
+				<pt tm="10150" dist="0" hr="60" />
+				<pt tm="10155" dist="0" hr="60" />
+				<pt tm="10160" dist="0" hr="56" />
+				<pt tm="10165" dist="0" hr="57" />
+				<pt tm="10170" dist="0" hr="57" />
+				<pt tm="10175" dist="0" hr="59" />
+				<pt tm="10180" dist="0" hr="57" />
+				<pt tm="10185" dist="0" hr="58" />
+				<pt tm="10190" dist="0" hr="58" />
+				<pt tm="10195" dist="0" hr="59" />
+				<pt tm="10200" dist="0" hr="58" />
+				<pt tm="10205" dist="0" hr="60" />
+				<pt tm="10210" dist="0" hr="60" />
+				<pt tm="10215" dist="0" hr="58" />
+				<pt tm="10220" dist="0" hr="59" />
+				<pt tm="10225" dist="0" hr="59" />
+				<pt tm="10230" dist="0" hr="60" />
+				<pt tm="10235" dist="0" hr="58" />
+				<pt tm="10240" dist="0" hr="58" />
+				<pt tm="10245" dist="0" hr="59" />
+				<pt tm="10250" dist="0" hr="59" />
+				<pt tm="10255" dist="0" hr="58" />
+				<pt tm="10260" dist="0" hr="59" />
+				<pt tm="10265" dist="0" hr="59" />
+				<pt tm="10270" dist="0" hr="59" />
+				<pt tm="10275" dist="0" hr="62" />
+				<pt tm="10280" dist="0" hr="60" />
+				<pt tm="10285" dist="0" hr="58" />
+				<pt tm="10290" dist="0" hr="59" />
+				<pt tm="10295" dist="0" hr="58" />
+				<pt tm="10300" dist="0" hr="58" />
+				<pt tm="10305" dist="0" hr="59" />
+				<pt tm="10310" dist="0" hr="57" />
+				<pt tm="10315" dist="0" hr="60" />
+				<pt tm="10320" dist="0" hr="59" />
+				<pt tm="10325" dist="0" hr="60" />
+				<pt tm="10330" di{t="0" hr="59" />
+				<pt tm="10335" dist="0" hr="59" />
+				<pt tm="10340" dist="0" hr="59" />
+				<pt tm="10345" dist="0" hr="60" />
+				<pt tm="10350" dist="0" hr="60" />
+				<pt tm="10355" dist="0" hr="61" />
+				<pt tm="10360" dist="0" hr="61" />
+				<pt tm="10365" dist="0" hr="62" />
+				<pt tm="10370" dist="0" hr="61" />
+				<pt tm="10375" dist="0" hr="61" />
+				<pt tm="10380" dist="0" hr="59" />
+				<pt tm="10385" dist="0" hr="58" />
+				<pt tm="10390" dist="0" hr="59" />
+				<pt tm="10395" dist="0" hr="59" />
+				<pt tm="10400" dist="0" hr="58" />
+				<pt tm="10405" dist="0" h "58" />
+				<pt tm="10410" dist="0" hr="59" />
+				<pt tm="10415" dist="0" hr="59" />
+				<pt tm="10420" dist="0" hr="59" />
+				<pt tm="10425" dist="0" hr="59" />
+				<pt tm="10430" dist="0" hr="60" />
+				<pt tm="10435" dist="0" hr="59" />
+				<pt tm="10440" dist="0" hr="60" />
+				<pt tm="10445" dist="0" hr="60" />
+				<pt tm="10450" dist="0" hr="59" />
+				<pt tm="10455" dist="0" hr="59" />
+				<pt tm="10460" dist="0" hr="61" />
+				<pt tm="10465ÿ dist="0" hr="66" />
+				<pt tm="10470" dist="0" hr="61" />
+				<pt tm="10475" dist="0" hr="57" />
+				<pt tm="10480" dist="0" hr="55" />
+				<pt tm="10485" dist="0" hr="56" />
+				<pt tm="10490" dist="0" hr="56" />
+				<pt tm="10495" dist="0" hr="58" />
+				<pt tm="10500" dist="0" hr="63" />
+				<pt tm="10505" dist="0" hr="69" />
+				<pt tm="10510" dist="0" hr="65" />
+				<pt tm="10515" dist="0" hr="60" />
+				<pt tm="10520" dist="0" hr="58" />
+				<pt tm="10525" dist="0" hr="57" />
+				<pt tm="10530" dist="0" hr="56" />
+				<pt tm="10535" dist="0" hr="57" />
+				<pt tm="10540" dist="0" hr="57" />
+				<pt tm="10545" dist="0" hr="57" />
+				<pt tm="10550" dist="0" hr="57" />
+				<pt tm="10555" dist="0" hr="57" />
+				<pt tm="10560" dist="0" hr="57" />nessWorkt tm="10565" dist="0" hr="57" />
+				<pt tm="10570" dist="0" hr="57" />
+				<pt tm="10575" dist="0" hr="57" />
+				<pt tm="10580" dist="0" hr="57" />
+				<pt tm="10585" dist="0" hr="58" />
+				<pt tm="1059ç" dist="0" hr="58" />
+				<pt tm="10595" dist="0" hr="59" />
+				<pt tm="10600" dist="0" hr="59" />
+				<pt tm="10605" dist="0" hr="57" />
+				<pt tm="10610" dist="0" hr="58" />
+				<ptÿÿÿ"10615" dist="0" hr="58" />
+				<pt tm="10620" dist="0" hr="58" />
+				<pt tm="10625" dist="0" hr="58" />
+				<pt tm="10630" dist="0" hr="58" />
+				<pt tm="10635" dist="0" hr="59" />
+				<pt tm="10640" dist="0" hr="61" />
+				<pt tm="10645" dist="0" hr="60" />
+				<pt tm="10650" dist="0" hr="61" />
+				<pt tm="10655" dist="0" hr="59" />
+				<pt tm="10660" dist="0" hr="58" />
+				<pt tm="10665" dist="0" hr="58" />
+				<pt tm="10670" dist="0" hr="59" />
+				<pt tm="10675" dist="0" hr="59" />
+				<pt tm="10680" dist="0" hr="60" />
+				<pt tm="10685" dist="0" hr="63" />
+				<pt tm="10690" dist="0" hr="60" />
+				<pt tm="10695" dist="0" hr="60" />
+				<pt tm="10700" dist="0" hr="59" />
+				<pt tm="10705" dist="0" hr="59" />
+				<pt tm="10710" dist="0" hr="59" />
+				<pt tm="10715" dist="0" hr="67" />
+				<pt tm="10720" dist="0" hr="68" />
+				<pt tm="10725" dist="0" hr="60" />
+				<pt tm="10730" dist="0" hr="57" />
+				<pt tm="10735" dist="0" hr="56" />
+				<pt tm="10740" dist="0" hr="57" />
+				<pt tm="10745" dist="0" hr="60" />
+				<pt tm="10750" dist="0" hr="61" />
+				<pt tm="10755" dist="0" hr="59" />
+				<pt tm="10760" dist="0" hr="59" />
+				<pt tm="10765" dist="0" hr="58" />
+				<pt tm="10770" dist="0" hr="57" />
+				<pt tm="10775" dist="0" hr="61" />
+				<pt tm="10780" dist="0" hr="60" />
+				<pt tm="10785" dist="0" hr="56" />
+				<pt tm="10790" dist="0" hr="56" />
+				<pt tm="10795" dist="0" hr="55" />
+				<pt tm="10800" dist="0" hr="55" />
+				<pt tm="10805" dist="0" hr="56" />
+				<pt tm="10810" dist="0" hr="58" />
+				<pt tm="10815" dist="0" hr="56" />
+				<pt tm="10820" dist="0" hr="56" />
+				<pt tm="10825" dist="0" hr="58" />
+				<pt tm="10830" dist="0" hr="58" />
+			 />
+				<pt tm="10840" dist="0" hr="58" />
+				<pt tm="10845" dist="0" hr="59" />
+				<pt tm="10850" dist="0" hr="59" />
+				<pt tm="10855" dist="0" hr="58" />
+				<pt tm="10860" dist="0" hr="60" />
+				<pt tm="10865" dist="0" hr="59" />
+				<pt tm="10870" dist="0" hr="59" />
+				<pt tm="10875" dist="0" hr="59" />
+				<pt tm="10880" dist="0" hr="58" />
+				<pt tm="10885" dist="0" hr="58" />
+				<pt tm="10890" dist="0" hr="58" />
+				<pt tm="10895" dist="0" hr="58" />
+				<pt tm="10900" dist="0" hr="58" />
+				<pt tm="10905" dist="0" hr="57" />
+				<pt tm="10910" dist="0" hr="58" />
+				<pt tm="10915" dist="0" hr="60" />
+				<pt tm="10920" dist="0" hr="59" />
+				<pt tm="10925" dist="0" hr="59" />
+				<pt tm="10930" dist="0" hr="60" />
+				<pt tm="10935" dist="0" hr="61" />
+				<pt tm="10940" dist="0" hr="61" />
+				<pt tm="10945" dist="0" hr="60" />
+				<pt tm="10950" dist="0" hr="60" />
+				<pt tm="10955" dist="0" hr="61" />
+				<pt tm="10960" dist="0" hr="60" />
+				<pt tm="10965" dist="0" hr="61" />
+				<pt tm="10970" dist="0"
+				<pt tm="10975" dist="0" hr="61" />
+				<pt tm="10980" dist="0" hr="6"" />
+				<pt tm="10985" dist="0" hr="61" />
+				<pt tm="10990" dist="0" hr="61" />
+				<pt tm="10995" dist="0" hr="59" />
+				<pt tm="11000" dist="0" hr="59" />
+				<pt tm="11005" dist="0" hr="59" />
+				<pt tm="11010" dist="0" hr="59" />
+				<pt tm="11015" dist="0" hr="60" />
+				<pt tm="11020" dist="0" hr="59" />
+				<pt tm="11025" dist="0" hr="59" />
+				<pt tm="11030" dist="0" hr="59"./>
+				<pt tm="11035" dist="0" hr="60" />
+				<pt tm="11040" dist="0" hr="61" />
+				<pt tm= dist="0" hr="58" />
+				<pt tm="11520" dist="0" hr="58" />
+				<pt tm="11525" dist="   hr="60" />
+				<pt tm="11530" dist="0"  @="67" />
+				<pt tm="11535" dist="0" hr="71" />
+				<pt tm="11540" dist="0" hr="68" />
+				<pt tm="11545" dist="0" hr="61" />
+				<pt tm="11550" dist="0" hr="58" />
+				<pt tm="11555" dist="0" hr="57" />
+				<pt tm="11560" dist="0" hr="57" />
+				<pt tm="11565" dist="0" hr="59" />
+				<pt tm="11570" dist="0" hr="59" />
+				<pt tm="11575" dist="0" hr="58" />
+				<pt tm="11580" dist="0" hr="58" />
+				<pt tm="11585" dist="0" hr="57" />
+				<pt tm="11590" dist="0" hr="58" />
+				<pt tm="11595" dist="0" hr="57" />
+				<pt tm="11600" dist="0" hr="64" />
+				<pt tm="11605" dist="0" hr="70" />
+				<pt tm="11610" dist="0" hr="66" />
+				<pt tm="11615" dist="0" hr="60" />
+				<pt tm="11620" dist="0" hr="60" />
+				<pt tm="11625" dist="0" hr="55" />
+				<pt tm="11630" dist="0" hr="60" />
+				<pt tm="11635" dist="0" hr="63" />
+				<pt tm="11640" dist="0" hr="58" />
+				"11045" dist="0" hr="60" />
+				<pt tm="11050" dist="0" hr="60" />
+				<pt tm="11055" dist="0" hr="59" />
+				<pt tm="11060" dist="0" hr="59" />
+				<pt tm="11065" dist="0" hr="55" />
+				<pt tm="11070" dist="0" hr="58" />
+				<pt tm="11075" dist="0" hr="59" />
+				<pt tm="11080" dist="0" hr="60" />
+				<pt tm="11085" dist="0" hr="60" />
+				<pt tm="11090" dist="0" hr="60" />
+				<pt tm="11095" dist="0" hr="59" />
+				<pt tm="11100" dist="0" hr="58" />
+				<pt tm="11105" dist="0" hr="58" />
+				<pt tm="11110" dist="0" hr="60" />
+				<pt tm="11115" dist="0" hr="58" />
+				<pt tm="11120" dist="0" hr="58" />
+				<pt tm="11125" dist="0" hr="58" />
+				<pt tm="11130" dist="0" hr="58" />
+				<pt tm="11135" dist="0" hr="58" />
+				<pt tm="11140" dist="0" hr="59" />
+				<pt tm="11145" dist="0" hr="60" />
+				<pt tm="11150" dist="0" hr="60" />
+				<pt tm="11155" dist="0" hr="59" />
+				<pt tm="111   dist="0" hr="59" />
+				<pt tm="11165" dist="0" hr="58" />
+				<pt tm="11170" dist="0" hr="58" />
+				<pt tm="11175" dist="0" hr="59" />
+				<pt tm="11180" dist="0ï»¿<?xml versio" hr="59" />
+				<pt tm="11185" dist="0" hr="60" />
+				<pt tm="11190" dist="0" hr="59" />
+				<pt tm="11195" dist="0" hr="59" />
+				<pt tm="11200" dist="0" hr="59" />
+				<pt tm="11205" dist="0" hr="58" />
+				<pt tm="11210" dist="0" hr="60" />
+				<pt tm="11215" dist="0" hr="60" />
+				<pt tm="11220" dist="0" hr="59" />
+				<pt tm="11225" dist="0" hr="61" />
+				<pt tm="11230" dist="0" hr="60" />
+				<pt tm="11235" dist="0" hr="59" />
+				<pt tm="11240" dist="0" hr="59" />
+				<pt tm="11245" dist="0" hr="59" />
+				<pt tm="11250" dist="0" hr="59" />
+				<pt tm="11255" dist="0" hr="61" />
+				<pt tm="11260" dist="0" hr="60" />
+				<pt tm="11265" dist="0" hr="60" />
+				<pt tm="11270" dist="0" hr="59" />
+				<pt tm="11271" dist="0" hr="60" />
+				<pt tm="11280" dist="0" hr="60" />
+				<pt tm="11285" dist="0" hr="66" />
+				<pt tm="11290" dist="0" hr="66" />
+				<pt tm="11295" dist="0" hr="61" />
+				<pt tm="11300" dist="0" hr="59" />
+				<pt tm="11305" dist="0" hr="58" />
+				<pt tm="11310" dist="0" hr="58" />
+				<pt tm="11315" dist="0" hr="58" />
+				<pt tm="11320" dist="0" hr="58" />
+				<pt tm="11325" dist="0" hr="58" />
+				<pt tm="11330" dist="0" hr="62" />
+				<pt tm="11335" dist="0" hr="69" />
+				<pt tm="11340" dist="0" hr="67" />
+				<pt tm="11345" dist="0" hr="68" />
+				<pt tm="11350" dist="0" hr="68" />
+				<pt tm="11355" dist="0" hr="65" />
+				<pt tm="11360" dist="0" hr="61" />
+				<pt tm="11365" dist="0" hr="58" />
+				<pt tm="11370" dist="0" hr="57" />
+				<pt tm="11375" dist="0" hr="58" />
+				<pt tm="11380" dist="0" hr="58" />
+				<pt tm="11385" dist="0" hr="5" />
+				<pt tm="11390" dist="0" hr="57" />
+				<pt tm="11395" dist="0" hr="53" />
+				<pt tm="11400" dist="0" hr="56" />
+				<pt tm="11405" dist="0" hr="58" />
+				<pt tm="11410" dist="0" hr="57" />
+				<pt tm="11415" dist="0" hr="57" />
+				<pt tm="11420" dist="0" hr="57" />
+				<pt tm="11425" dist="0" hr="59" />
+				<pt tm="11430" dist="0" hr="59" />
+				<pt tm="11435" dist="0" hr="60" />
+				<pt tm="11440" dist="0" hr="61" />
+				<pt tm="11445" dist="0" hr="63" />
+				<pt tm="11450" dist="0" hr="61" />
+				<pt tm="11455" dist="0" hr="59" />
+				<pt tm="11460" dist="0" hr="60" />
+				<pt tm="11465" dist="0" hr="59" />
+				<pt tm="11470" dist="0" hr="60" />
+				<pt tm=11475" dist="0" hr="68" />
+				<pt tm="11480" dist="0" hr="71" />
+				<pt tm="11485" dist="0" hr="66" />
+				<pt tm="11490" dist="0" hr="63" />
+				<pt tm="11495" dist="0" hr="61" />
+				<pt tm="11500" dist="0" hr="59" />
+				<pt tm="11505" dist="0" hr="57" />
+				<pt tm="11510" dist="0" hr="56" />
+				<pt tm="11515" dist="0" hr="58" />
+				<pt tm="11520" dist="0" hr="58" />
+				<pt tm="11525" dist="0" hr="60" />
+				<pt tm="11530" dist="0" hr="67" />
+				<pt tm="11535" dist="0" hr="71" />
+				<pt tm="11540" dist="0" hr="68" />
+				<pt tm="11545" dist="0" hr="61" />
+				<pt tm="11550" dist="0" hr="58" />
+				<pt tm="11555" dist="0" hr="57" />
+				<pt tm="11560" dist="0" hr="57" />
+				<pt tm="11565" dist="0" hr="59" />
+				<pt tm="11570" dist="0" hr="59" />
+				<pt tm="11575" dist="0" hr="58" />
+				<pt tm="11580" dist="0" hr="58" />
+				<pt tm="11585" dist="0" hr="57" />
+				<pt tm="11590" dist="0" hr="58" />
+				<pt tm="11595" dist="0" hr="57" />
+				<pt tm="11600" dist="0" hr="64" />
+				<pt tm="11605" dist="0" hr="70" />
+				<pt tm="11610" dist="0" hr="66" />
+				<pt tm="11615" dist="0" hr="60" />
+				<pt tm="11620" dist="0" hr="60" />
+				<pt tm="11625" dist="0" hr="55" />
+				<pt tm="11630" dist="0" hr="60" />
+				<pt tm="11635" dist="0" hr="63" />
+				<pt tm="11640" dist="0" hr="58" />
+				<pt tm="11645" dist="0" hr="58" />
+				<pt tm="11650" dist="0" hr="58" />
+				<pt tm="11655" dist="0" hr="61"/>
+				<pt tm="11660" dist="0" hr="61" />
+				<pt tm="11665" dist="0" hr="64" />
+				<pt tm="11670" dist="0" hr="60" />
+				<pt tm="11675" dist="0" hr="57" />
+				<pt tm="11680" dist="0" hr="56" />
+				<pt tm="11685" dist="0" hr="61" />
+				<pt tm="11690" dist="0" hr="57" />
+				<pt tm="11695" dist="0" hr="55" />
+				<pt tm="11700" dist="0" hr="57" />
+				<pt tm="11705" dist="0" hr="58"  €
+				<p@ tm="11710" dist="0" hr="58" />
+				<pt tm="11715" dist="0" hr="60" />
+				<pt tm="11720" dist="0" hr="62" />
+				<pt tm="11725" dist="0" hr="58" />
+				<pt tm="11730" dist="0" hr="59" />
+				<pt tm="11735" dist="0" hr="59" />
+				<pt tm="11740" dist="0" hr="59" />
+				<pt tm="11745" dist="0" hr="58" />
+				<pt tm="11750" dist="0" hr="58" />
+				<pt tm="11755" dist="0" hr="58" />
+				<pt tm="11760" dist="0" hr="59" />
+				<pt tm="11765" dist="0" hr="59" />
+				<pt tm="11770" dist="0" hr="58" />
+				<pt tm="11775" dist="0" hr="58" />
+				<pt tm="11780" dist="0" hr="56" />
+				<pt tm="11785" dist="0" hr="55" />
+				<pt tm="11790" dist="0" hr="55" />
+				<pt tm="11795" dist="0" hr="55" />
+				<pt tm="11800" dist="0" hr="56" />
+				<pt tm="11805" dist="0" hr="70" />
+				<pt tm="11810" dist="0" hr="83" />
+				<pt tm="11815" dist="0" hr="86" />
+				<pt tm="11820" dist="0" hr="87" />
+				<pt tm="11825" dist="0" hr="76" />
+				<pt tm="11830" dist="0" hr="66" />
+				<pt tm="11835" dist="0" hr="61" />
+				<pt tm="11840" dist="0" hr="59" />
+				<pt tm="11845" dist="0" hr="58" />
+				<pt tm="11850" dist="0" hr="57" />
+				<pt tm="11855" dist="0" hr="56" />
+				<pt tm="11860" dist="0" hr="57" />
+				<pt tm="11865" dist="0" hr="59" />
+				<pt tm="11870" dist="0" hr="58" />
+				<pt tm="11875" dist="0" hr="58" />
+				<pt tm="11880" dist="0" hr="58" />
+				<pt tm="11885" dist="0" hr="58" />
+				<pt tm="11890" dist="0" hr="59" />
+				<pt tm="11895" dist="0" hr="64" />
+				<pt tm="11900" dist="0" hr="62" />
+				<pt tm="11905" dist="0" hr="58" />
+				<pt tm="11910" dist="0" hr="58" />
+				<pt tm="11915" dist="0" hr="59" />
+				<pt tm="11920" dist="0" hr="59" />
+				<pt tm="11925" dist="0" hr="59" />
+				<pt tm="11930" dist="0" hr="60" />
+				<pt tm="11935" dist="0" hr="60" />
+				<pt tm="11940" dist="0" hr="61" />
+				<pt tm="11945" dist="0" hr="61" />
+				<pt tm="11950" dist="0" hr="61" />
+				<pt tm="11955" dist="0" hr="61" />
+				<pt tm="11960" dist="0" hr="62" />
+				<pt tm="11965" dist="0" hr="61" />
+				<pt tm="11970" dist="0" hr="62" />
+				<pt tm="11975" dist="0" hr="62" />
+				<pt tm="11980" dom/xmlschr="61" />
+				<pt tm="11985" dist="0" hr="61" />
+				<pt tm="11990" dist="0" hr="62" />
+				<pt tm="11995" dist="0" hr="63" />
+				<pt tm="12000" dist="0" hr="63" />
+				<pt tm="12005" dist="0" hr="63" />
+				<pt tm="12010" dist="0" hr="63" />
+				<pt tm="12015" dist="0" hr="62" />
+				<pt tm="12020" dist="0" hr="62" />
+				<pt tm="12025" dist="0" hr="61" />
+				<pt tm="12030" dist="0" hr="62" />
+				<pt tm="12035" dist="0" hr="61" />
+				<pt tm="12040" dist="0" hr="60" />
+				<pt tm="12045" dist="0" hr="61" />
+				<pt tm="12050" dist="0" hr="63" />
+				<pt tm="12055" dist="0" hr="63" />
+				<pt tm="12060" dist="0" hr="63" />
+				<pt tm="12065" dist="0" hr="62" />
+				<pt tm="12070" dist="0" hr="62" />
+				<pt tm="12075" dist="0" hr="64" />
+				<pt tm="12080" dist="0" hr="62" />
+				<pt tm="12085" dist="0" hr="63" />
+				<pt tm="12090" dist="0" hr="65" />
+				<pt tm="12095" dist="0" hr="63" />
+				<pt tm="12100" dist="0" hr="62" />
+				<pt tm="12105" dist="0" hr="61" />
+				<pt tm="12110" dist="0" hr="61" />
+				<pt tm="12115" dist="0" hr="62" />
+				<pt tm="12120" dist="0" hr="62" />
+				<pt tm="12125" dist="0" hr="64" />
+				<pt tm="12130" dist="0" hr="61" />
+				<pt tm="12135" dist="0" hr="60" />
+				<pt tm="12140" dist="0" hr="60" />
+				<pt tm="12145" dist="0" hr="59" />
+				<pt tm="12150" dist="0" hr="60" />
+				<pt tm="12155" dist="0" hr="59" />
+				<pt tm="12160" dist="0" hr="60" />
+				<pt tm="12165" dist="0" hr="61" />
+				<pt tm="12170" dist="0" hr="60" />
+				<pt tm="12175" dist="0" hr="62" />
+				<pt tm="12180" dist="0" hr="63" />
+				<pt tm="120" hr="59" />
 				<pt tm="8380" dist="0" hr="59" />
 				<pt tm="8385" dist="0" hr="59" />
 				<pt tm="8390" dist="0" hr="59" />
@@ -1697,7 +1625,7 @@
 				<pt tm="8435" dist="0" hr="60" />
 				<pt tm="8440" dist="0" hr="59" />
 				<pt tm="8445" dist="0" hr="61" />
-				<pt tm="8450" dist="0" hr="61" />
+				<pt tm="8L50" dist="0" hr="61" />
 				<pt tm="8455" dist="0" hr="60" />
 				<pt tm="8460" dist="0" hr="61" />
 				<pt tm="8465" dist="0" hr="60" />
@@ -1758,7 +1686,7 @@
 				<pt tm="8740" dist="0" hr="61" />
 				<pt tm="8745" dist="0" hr="61" />
 				<pt tm="8750" dist="0" hr="60" />
-				<pt tm="8755" dist="0" hr="60" />
+				<pt tm="87M5" dist="0" hr="60" />
 				<pt tm="8760" dist="0" hr="60" />
 				<pt tm="8765" dist="0" hr="60" />
 				<pt tm="8770" dist="0" hr="60" />
@@ -1797,706 +1725,11 @@
 				<pt tm="8935" dist="0" hr="74" />
 				<pt tm="8940" dist="0" hr="83" />
 				<pt tm="8945" dist="0" hr="85" />
-				<pt tm="8950" dist="0" hr="74" />
-				<pt tm="8955" dist="0" hr="77" />
-				<pt tm="8960" dist="0" hr="80" />
-				<pt tm="8965" dist="0" hr="83" />
-				<pt tm="8970" dist="0" hr="87" />
-				<pt tm="8975" dist="0" hr="88" />
-				<pt tm="8980" dist="0" hr="86" />
-				<pt tm="8985" dist="0" hr="74" />
-				<pt tm="8990" dist="0" hr="68" />
-				<pt tm="8995" dist="0" hr="62" />
-				<pt tm="9000" dist="0" hr="60" />
-				<pt tm="9005" dist="0" hr="60" />
-				<pt tm="9010" dist="0" hr="58" />
-				<pt tm="9015" dist="0" hr="59" />
-				<pt tm="9020" dist="0" hr="58" />
-				<pt tm="9025" dist="0" hr="65" />
-				<pt tm="9030" dist="0" hr="69" />
-				<pt tm="9035" dist="0" hr="64" />
-				<pt tm="9040" dist="0" hr="61" />
-				<pt tm="9045" dist="0" hr="57" />
-				<pt tm="9050" dist="0" hr="56" />
-				<pt tm="9055" dist="0" hr="55" />
-				<pt tm="9060" dist="0" hr="53" />
-				<pt tm="9065" dist="0" hr="52" />
-				<pt tm="9070" dist="0" hr="54" />
-				<pt tm="9075" dist="0" hr="58" />
-				<pt tm="9080" dist="0" hr="58" />
-				<pt tm="9085" dist="0" hr="59" />
-				<pt tm="9090" dist="0" hr="57" />
-				<pt tm="9095" dist="0" hr="56" />
-				<pt tm="9100" dist="0" hr="56" />
-				<pt tm="9105" dist="0" hr="55" />
-				<pt tm="9110" dist="0" hr="55" />
-				<pt tm="9115" dist="0" hr="58" />
-				<pt tm="9120" dist="0" hr="65" />
-				<pt tm="9125" dist="0" hr="64" />
-				<pt tm="9130" dist="0" hr="61" />
-				<pt tm="9135" dist="0" hr="59" />
-				<pt tm="9140" dist="0" hr="59" />
-				<pt tm="9145" dist="0" hr="57" />
-				<pt tm="9150" dist="0" hr="55" />
-				<pt tm="9155" dist="0" hr="53" />
-				<pt tm="9160" dist="0" hr="54" />
-				<pt tm="9165" dist="0" hr="58" />
-				<pt tm="9170" dist="0" hr="59" />
-				<pt tm="9175" dist="0" hr="58" />
-				<pt tm="9180" dist="0" hr="58" />
-				<pt tm="9185" dist="0" hr="62" />
-				<pt tm="9190" dist="0" hr="59" />
-				<pt tm="9195" dist="0" hr="56" />
-				<pt tm="9200" dist="0" hr="55" />
-				<pt tm="9205" dist="0" hr="55" />
-				<pt tm="9210" dist="0" hr="56" />
-				<pt tm="9215" dist="0" hr="58" />
-				<pt tm="9220" dist="0" hr="68" />
-				<pt tm="9225" dist="0" hr="74" />
-				<pt tm="9230" dist="0" hr="73" />
-				<pt tm="9235" dist="0" hr="62" />
-				<pt tm="9240" dist="0" hr="59" />
-				<pt tm="9245" dist="0" hr="57" />
-				<pt tm="9250" dist="0" hr="58" />
-				<pt tm="9255" dist="0" hr="60" />
-				<pt tm="9260" dist="0" hr="56" />
-				<pt tm="9265" dist="0" hr="54" />
-				<pt tm="9270" dist="0" hr="54" />
-				<pt tm="9275" dist="0" hr="52" />
-				<pt tm="9280" dist="0" hr="52" />
-				<pt tm="9285" dist="0" hr="61" />
-				<pt tm="9290" dist="0" hr="62" />
-				<pt tm="9295" dist="0" hr="57" />
-				<pt tm="9300" dist="0" hr="55" />
-				<pt tm="9305" dist="0" hr="55" />
-				<pt tm="9310" dist="0" hr="55" />
-				<pt tm="9315" dist="0" hr="54" />
-				<pt tm="9320" dist="0" hr="57" />
-				<pt tm="9325" dist="0" hr="63" />
-				<pt tm="9330" dist="0" hr="61" />
-				<pt tm="9335" dist="0" hr="57" />
-				<pt tm="9340" dist="0" hr="55" />
-				<pt tm="9345" dist="0" hr="54" />
-				<pt tm="9350" dist="0" hr="54" />
-				<pt tm="9355" dist="0" hr="53" />
-				<pt tm="9360" dist="0" hr="53" />
-				<pt tm="9365" dist="0" hr="62" />
-				<pt tm="9370" dist="0" hr="62" />
-				<pt tm="9375" dist="0" hr="56" />
-				<pt tm="9380" dist="0" hr="54" />
-				<pt tm="9385" dist="0" hr="53" />
-				<pt tm="9390" dist="0" hr="54" />
-				<pt tm="9395" dist="0" hr="54" />
-				<pt tm="9400" dist="0" hr="55" />
-				<pt tm="9405" dist="0" hr="63" />
-				<pt tm="9410" dist="0" hr="64" />
-				<pt tm="9415" dist="0" hr="60" />
-				<pt tm="9420" dist="0" hr="57" />
-				<pt tm="9425" dist="0" hr="54" />
-				<pt tm="9430" dist="0" hr="52" />
-				<pt tm="9435" dist="0" hr="51" />
-				<pt tm="9440" dist="0" hr="51" />
-				<pt tm="9445" dist="0" hr="56" />
-				<pt tm="9450" dist="0" hr="64" />
-				<pt tm="9455" dist="0" hr="70" />
-				<pt tm="9460" dist="0" hr="72" />
-				<pt tm="9465" dist="0" hr="67" />
-				<pt tm="9470" dist="0" hr="61" />
-				<pt tm="9475" dist="0" hr="56" />
-				<pt tm="9480" dist="0" hr="54" />
-				<pt tm="9485" dist="0" hr="53" />
-				<pt tm="9490" dist="0" hr="54" />
-				<pt tm="9495" dist="0" hr="57" />
-				<pt tm="9500" dist="0" hr="59" />
-				<pt tm="9505" dist="0" hr="56" />
-				<pt tm="9510" dist="0" hr="55" />
-				<pt tm="9515" dist="0" hr="55" />
-				<pt tm="9520" dist="0" hr="54" />
-				<pt tm="9525" dist="0" hr="53" />
-				<pt tm="9530" dist="0" hr="56" />
-				<pt tm="9535" dist="0" hr="58" />
-				<pt tm="9540" dist="0" hr="55" />
-				<pt tm="9545" dist="0" hr="56" />
-				<pt tm="9550" dist="0" hr="54" />
-				<pt tm="9555" dist="0" hr="55" />
-				<pt tm="9560" dist="0" hr="54" />
-				<pt tm="9565" dist="0" hr="55" />
-				<pt tm="9570" dist="0" hr="55" />
-				<pt tm="9575" dist="0" hr="55" />
-				<pt tm="9580" dist="0" hr="58" />
-				<pt tm="9585" dist="0" hr="60" />
-				<pt tm="9590" dist="0" hr="56" />
-				<pt tm="9595" dist="0" hr="54" />
-				<pt tm="9600" dist="0" hr="53" />
-				<pt tm="9605" dist="0" hr="54" />
-				<pt tm="9610" dist="0" hr="54" />
-				<pt tm="9615" dist="0" hr="53" />
-				<pt tm="9620" dist="0" hr="54" />
-				<pt tm="9625" dist="0" hr="54" />
-				<pt tm="9630" dist="0" hr="55" />
-				<pt tm="9635" dist="0" hr="58" />
-				<pt tm="9640" dist="0" hr="60" />
-				<pt tm="9645" dist="0" hr="60" />
-				<pt tm="9650" dist="0" hr="59" />
-				<pt tm="9655" dist="0" hr="59" />
-				<pt tm="9660" dist="0" hr="59" />
-				<pt tm="9665" dist="0" hr="56" />
-				<pt tm="9670" dist="0" hr="56" />
-				<pt tm="9675" dist="0" hr="58" />
-				<pt tm="9680" dist="0" hr="58" />
-				<pt tm="9685" dist="0" hr="55" />
-				<pt tm="9690" dist="0" hr="56" />
-				<pt tm="9695" dist="0" hr="60" />
-				<pt tm="9700" dist="0" hr="62" />
-				<pt tm="9705" dist="0" hr="56" />
-				<pt tm="9710" dist="0" hr="56" />
-				<pt tm="9715" dist="0" hr="56" />
-				<pt tm="9720" dist="0" hr="56" />
-				<pt tm="9725" dist="0" hr="56" />
-				<pt tm="9730" dist="0" hr="56" />
-				<pt tm="9735" dist="0" hr="56" />
-				<pt tm="9740" dist="0" hr="59" />
-				<pt tm="9745" dist="0" hr="57" />
-				<pt tm="9750" dist="0" hr="59" />
-				<pt tm="9755" dist="0" hr="58" />
-				<pt tm="9760" dist="0" hr="57" />
-				<pt tm="9765" dist="0" hr="59" />
-				<pt tm="9770" dist="0" hr="59" />
-				<pt tm="9775" dist="0" hr="60" />
-				<pt tm="9780" dist="0" hr="61" />
-				<pt tm="9785" dist="0" hr="63" />
-				<pt tm="9790" dist="0" hr="67" />
-				<pt tm="9795" dist="0" hr="72" />
-				<pt tm="9800" dist="0" hr="68" />
-				<pt tm="9805" dist="0" hr="63" />
-				<pt tm="9810" dist="0" hr="60" />
-				<pt tm="9815" dist="0" hr="56" />
-				<pt tm="9820" dist="0" hr="55" />
-				<pt tm="9825" dist="0" hr="53" />
-				<pt tm="9830" dist="0" hr="53" />
-				<pt tm="9835" dist="0" hr="56" />
-				<pt tm="9840" dist="0" hr="64" />
-				<pt tm="9845" dist="0" hr="61" />
-				<pt tm="9850" dist="0" hr="58" />
-				<pt tm="9855" dist="0" hr="56" />
-				<pt tm="9860" dist="0" hr="55" />
-				<pt tm="9865" dist="0" hr="58" />
-				<pt tm="9870" dist="0" hr="58" />
-				<pt tm="9875" dist="0" hr="56" />
-				<pt tm="9880" dist="0" hr="56" />
-				<pt tm="9885" dist="0" hr="57" />
-				<pt tm="9890" dist="0" hr="58" />
-				<pt tm="9895" dist="0" hr="58" />
-				<pt tm="9900" dist="0" hr="58" />
-				<pt tm="9905" dist="0" hr="58" />
-				<pt tm="9910" dist="0" hr="57" />
-				<pt tm="9915" dist="0" hr="58" />
-				<pt tm="9920" dist="0" hr="60" />
-				<pt tm="9925" dist="0" hr="59" />
-				<pt tm="9930" dist="0" hr="57" />
-				<pt tm="9935" dist="0" hr="58" />
-				<pt tm="9940" dist="0" hr="59" />
-				<pt tm="9945" dist="0" hr="58" />
-				<pt tm="9950" dist="0" hr="57" />
-				<pt tm="9955" dist="0" hr="58" />
-				<pt tm="9960" dist="0" hr="58" />
-				<pt tm="9965" dist="0" hr="57" />
-				<pt tm="9970" dist="0" hr="58" />
-				<pt tm="9975" dist="0" hr="57" />
-				<pt tm="9980" dist="0" hr="57" />
-				<pt tm="9985" dist="0" hr="56" />
-				<pt tm="9990" dist="0" hr="57" />
-				<pt tm="9995" dist="0" hr="60" />
-				<pt tm="10000" dist="0" hr="61" />
-				<pt tm="10005" dist="0" hr="58" />
-				<pt tm="10010" dist="0" hr="56" />
-				<pt tm="10015" dist="0" hr="56" />
-				<pt tm="10020" dist="0" hr="56" />
-				<pt tm="10025" dist="0" hr="58" />
-				<pt tm="10030" dist="0" hr="63" />
-				<pt tm="10035" dist="0" hr="59" />
-				<pt tm="10040" dist="0" hr="56" />
-				<pt tm="10045" dist="0" hr="55" />
-				<pt tm="10050" dist="0" hr="56" />
-				<pt tm="10055" dist="0" hr="56" />
-				<pt tm="10060" dist="0" hr="56" />
-				<pt tm="10065" dist="0" hr="56" />
-				<pt tm="10070" dist="0" hr="56" />
-				<pt tm="10075" dist="0" hr="59" />
-				<pt tm="10080" dist="0" hr="57" />
-				<pt tm="10085" dist="0" hr="58" />
-				<pt tm="10090" dist="0" hr="58" />
-				<pt tm="10095" dist="0" hr="58" />
-				<pt tm="10100" dist="0" hr="59" />
-				<pt tm="10105" dist="0" hr="58" />
-				<pt tm="10110" dist="0" hr="59" />
-				<pt tm="10115" dist="0" hr="58" />
-				<pt tm="10120" dist="0" hr="58" />
-				<pt tm="10125" dist="0" hr="57" />
-				<pt tm="10130" dist="0" hr="57" />
-				<pt tm="10135" dist="0" hr="59" />
-				<pt tm="10140" dist="0" hr="59" />
-				<pt tm="10145" dist="0" hr="58" />
-				<pt tm="10150" dist="0" hr="60" />
-				<pt tm="10155" dist="0" hr="60" />
-				<pt tm="10160" dist="0" hr="56" />
-				<pt tm="10165" dist="0" hr="57" />
-				<pt tm="10170" dist="0" hr="57" />
-				<pt tm="10175" dist="0" hr="59" />
-				<pt tm="10180" dist="0" hr="57" />
-				<pt tm="10185" dist="0" hr="58" />
-				<pt tm="10190" dist="0" hr="58" />
-				<pt tm="10195" dist="0" hr="59" />
-				<pt tm="10200" dist="0" hr="58" />
-				<pt tm="10205" dist="0" hr="60" />
-				<pt tm="10210" dist="0" hr="60" />
-				<pt tm="10215" dist="0" hr="58" />
-				<pt tm="10220" dist="0" hr="59" />
-				<pt tm="10225" dist="0" hr="59" />
-				<pt tm="10230" dist="0" hr="60" />
-				<pt tm="10235" dist="0" hr="58" />
-				<pt tm="10240" dist="0" hr="58" />
-				<pt tm="10245" dist="0" hr="59" />
-				<pt tm="10250" dist="0" hr="59" />
-				<pt tm="10255" dist="0" hr="58" />
-				<pt tm="10260" dist="0" hr="59" />
-				<pt tm="10265" dist="0" hr="59" />
-				<pt tm="10270" dist="0" hr="59" />
-				<pt tm="10275" dist="0" hr="62" />
-				<pt tm="10280" dist="0" hr="60" />
-				<pt tm="10285" dist="0" hr="58" />
-				<pt tm="10290" dist="0" hr="59" />
-				<pt tm="10295" dist="0" hr="58" />
-				<pt tm="10300" dist="0" hr="58" />
-				<pt tm="10305" dist="0" hr="59" />
-				<pt tm="10310" dist="0" hr="57" />
-				<pt tm="10315" dist="0" hr="60" />
-				<pt tm="10320" dist="0" hr="59" />
-				<pt tm="10325" dist="0" hr="60" />
-				<pt tm="10330" dist="0" hr="59" />
-				<pt tm="10335" dist="0" hr="59" />
-				<pt tm="10340" dist="0" hr="59" />
-				<pt tm="10345" dist="0" hr="60" />
-				<pt tm="10350" dist="0" hr="60" />
-				<pt tm="10355" dist="0" hr="61" />
-				<pt tm="10360" dist="0" hr="61" />
-				<pt tm="10365" dist="0" hr="62" />
-				<pt tm="10370" dist="0" hr="61" />
-				<pt tm="10375" dist="0" hr="61" />
-				<pt tm="10380" dist="0" hr="59" />
-				<pt tm="10385" dist="0" hr="58" />
-				<pt tm="10390" dist="0" hr="59" />
-				<pt tm="10395" dist="0" hr="59" />
-				<pt tm="10400" dist="0" hr="58" />
-				<pt tm="10405" dist="0" hr="58" />
-				<pt tm="10410" dist="0" hr="59" />
-				<pt tm="10415" dist="0" hr="59" />
-				<pt tm="10420" dist="0" hr="59" />
-				<pt tm="10425" dist="0" hr="59" />
-				<pt tm="10430" dist="0" hr="60" />
-				<pt tm="10435" dist="0" hr="59" />
-				<pt tm="10440" dist="0" hr="60" />
-				<pt tm="10445" dist="0" hr="60" />
-				<pt tm="10450" dist="0" hr="59" />
-				<pt tm="10455" dist="0" hr="59" />
-				<pt tm="10460" dist="0" hr="61" />
-				<pt tm="10465" dist="0" hr="66" />
-				<pt tm="10470" dist="0" hr="61" />
-				<pt tm="10475" dist="0" hr="57" />
-				<pt tm="10480" dist="0" hr="55" />
-				<pt tm="10485" dist="0" hr="56" />
-				<pt tm="10490" dist="0" hr="56" />
-				<pt tm="10495" dist="0" hr="58" />
-				<pt tm="10500" dist="0" hr="63" />
-				<pt tm="10505" dist="0" hr="69" />
-				<pt tm="10510" dist="0" hr="65" />
-				<pt tm="10515" dist="0" hr="60" />
-				<pt tm="10520" dist="0" hr="58" />
-				<pt tm="10525" dist="0" hr="57" />
-				<pt tm="10530" dist="0" hr="56" />
-				<pt tm="10535" dist="0" hr="57" />
-				<pt tm="10540" dist="0" hr="57" />
-				<pt tm="10545" dist="0" hr="57" />
-				<pt tm="10550" dist="0" hr="57" />
-				<pt tm="10555" dist="0" hr="57" />
-				<pt tm="10560" dist="0" hr="57" />
-				<pt tm="10565" dist="0" hr="57" />
-				<pt tm="10570" dist="0" hr="57" />
-				<pt tm="10575" dist="0" hr="57" />
-				<pt tm="10580" dist="0" hr="57" />
-				<pt tm="10585" dist="0" hr="58" />
-				<pt tm="10590" dist="0" hr="58" />
-				<pt tm="10595" dist="0" hr="59" />
-				<pt tm="10600" dist="0" hr="59" />
-				<pt tm="10605" dist="0" hr="57" />
-				<pt tm="10610" dist="0" hr="58" />
-				<pt tm="10615" dist="0" hr="58" />
-				<pt tm="10620" dist="0" hr="58" />
-				<pt tm="10625" dist="0" hr="58" />
-				<pt tm="10630" dist="0" hr="58" />
-				<pt tm="10635" dist="0" hr="59" />
-				<pt tm="10640" dist="0" hr="61" />
-				<pt tm="10645" dist="0" hr="60" />
-				<pt tm="10650" dist="0" hr="61" />
-				<pt tm="10655" dist="0" hr="59" />
-				<pt tm="10660" dist="0" hr="58" />
-				<pt tm="10665" dist="0" hr="58" />
-				<pt tm="10670" dist="0" hr="59" />
-				<pt tm="10675" dist="0" hr="59" />
-				<pt tm="10680" dist="0" hr="60" />
-				<pt tm="10685" dist="0" hr="63" />
-				<pt tm="10690" dist="0" hr="60" />
-				<pt tm="10695" dist="0" hr="60" />
-				<pt tm="10700" dist="0" hr="59" />
-				<pt tm="10705" dist="0" hr="59" />
-				<pt tm="10710" dist="0" hr="59" />
-				<pt tm="10715" dist="0" hr="67" />
-				<pt tm="10720" dist="0" hr="68" />
-				<pt tm="10725" dist="0" hr="60" />
-				<pt tm="10730" dist="0" hr="57" />
-				<pt tm="10735" dist="0" hr="56" />
-				<pt tm="10740" dist="0" hr="57" />
-				<pt tm="10745" dist="0" hr="60" />
-				<pt tm="10750" dist="0" hr="61" />
-				<pt tm="10755" dist="0" hr="59" />
-				<pt tm="10760" dist="0" hr="59" />
-				<pt tm="10765" dist="0" hr="58" />
-				<pt tm="10770" dist="0" hr="57" />
-				<pt tm="10775" dist="0" hr="61" />
-				<pt tm="10780" dist="0" hr="60" />
-				<pt tm="10785" dist="0" hr="56" />
-				<pt tm="10790" dist="0" hr="56" />
-				<pt tm="10795" dist="0" hr="55" />
-				<pt tm="10800" dist="0" hr="55" />
-				<pt tm="10805" dist="0" hr="56" />
-				<pt tm="10810" dist="0" hr="58" />
-				<pt tm="10815" dist="0" hr="56" />
-				<pt tm="10820" dist="0" hr="56" />
-				<pt tm="10825" dist="0" hr="58" />
-				<pt tm="10830" dist="0" hr="58" />
-				<pt tm="10835" dist="0" hr="57" />
-				<pt tm="10840" dist="0" hr="58" />
-				<pt tm="10845" dist="0" hr="59" />
-				<pt tm="10850" dist="0" hr="59" />
-				<pt tm="10855" dist="0" hr="58" />
-				<pt tm="10860" dist="0" hr="60" />
-				<pt tm="10865" dist="0" hr="59" />
-				<pt tm="10870" dist="0" hr="59" />
-				<pt tm="10875" dist="0" hr="59" />
-				<pt tm="10880" dist="0" hr="58" />
-				<pt tm="10885" dist="0" hr="58" />
-				<pt tm="10890" dist="0" hr="58" />
-				<pt tm="10895" dist="0" hr="58" />
-				<pt tm="10900" dist="0" hr="58" />
-				<pt tm="10905" dist="0" hr="57" />
-				<pt tm="10910" dist="0" hr="58" />
-				<pt tm="10915" dist="0" hr="60" />
-				<pt tm="10920" dist="0" hr="59" />
-				<pt tm="10925" dist="0" hr="59" />
-				<pt tm="10930" dist="0" hr="60" />
-				<pt tm="10935" dist="0" hr="61" />
-				<pt tm="10940" dist="0" hr="61" />
-				<pt tm="10945" dist="0" hr="60" />
-				<pt tm="10950" dist="0" hr="60" />
-				<pt tm="10955" dist="0" hr="61" />
-				<pt tm="10960" dist="0" hr="60" />
-				<pt tm="10965" dist="0" hr="61" />
-				<pt tm="10970" dist="0" hr="62" />
-				<pt tm="10975" dist="0" hr="61" />
-				<pt tm="10980" dist="0" hr="62" />
-				<pt tm="10985" dist="0" hr="61" />
-				<pt tm="10990" dist="0" hr="61" />
-				<pt tm="10995" dist="0" hr="59" />
-				<pt tm="11000" dist="0" hr="59" />
-				<pt tm="11005" dist="0" hr="59" />
-				<pt tm="11010" dist="0" hr="59" />
-				<pt tm="11015" dist="0" hr="60" />
-				<pt tm="11020" dist="0" hr="59" />
-				<pt tm="11025" dist="0" hr="59" />
-				<pt tm="11030" dist="0" hr="59" />
-				<pt tm="11035" dist="0" hr="60" />
-				<pt tm="11040" dist="0" hr="61" />
-				<pt tm="11045" dist="0" hr="60" />
-				<pt tm="11050" dist="0" hr="60" />
-				<pt tm="11055" dist="0" hr="59" />
-				<pt tm="11060" dist="0" hr="59" />
-				<pt tm="11065" dist="0" hr="55" />
-				<pt tm="11070" dist="0" hr="58" />
-				<pt tm="11075" dist="0" hr="59" />
-				<pt tm="11080" dist="0" hr="60" />
-				<pt tm="11085" dist="0" hr="60" />
-				<pt tm="11090" dist="0" hr="60" />
-				<pt tm="11095" dist="0" hr="59" />
-				<pt tm="11100" dist="0" hr="58" />
-				<pt tm="11105" dist="0" hr="58" />
-				<pt tm="11110" dist="0" hr="60" />
-				<pt tm="11115" dist="0" hr="58" />
-				<pt tm="11120" dist="0" hr="58" />
-				<pt tm="11125" dist="0" hr="58" />
-				<pt tm="11130" dist="0" hr="58" />
-				<pt tm="11135" dist="0" hr="58" />
-				<pt tm="11140" dist="0" hr="59" />
-				<pt tm="11145" dist="0" hr="60" />
-				<pt tm="11150" dist="0" hr="60" />
-				<pt tm="11155" dist="0" hr="59" />
-				<pt tm="11160" dist="0" hr="59" />
-				<pt tm="11165" dist="0" hr="58" />
-				<pt tm="11170" dist="0" hr="58" />
-				<pt tm="11175" dist="0" hr="59" />
-				<pt tm="11180" dist="0" hr="59" />
-				<pt tm="11185" dist="0" hr="60" />
-				<pt tm="11190" dist="0" hr="59" />
-				<pt tm="11195" dist="0" hr="59" />
-				<pt tm="11200" dist="0" hr="59" />
-				<pt tm="11205" dist="0" hr="58" />
-				<pt tm="11210" dist="0" hr="60" />
-				<pt tm="11215" dist="0" hr="60" />
-				<pt tm="11220" dist="0" hr="59" />
-				<pt tm="11225" dist="0" hr="61" />
-				<pt tm="11230" dist="0" hr="60" />
-				<pt tm="11235" dist="0" hr="59" />
-				<pt tm="11240" dist="0" hr="59" />
-				<pt tm="11245" dist="0" hr="59" />
-				<pt tm="11250" dist="0" hr="59" />
-				<pt tm="11255" dist="0" hr="61" />
-				<pt tm="11260" dist="0" hr="60" />
-				<pt tm="11265" dist="0" hr="60" />
-				<pt tm="11270" dist="0" hr="59" />
-				<pt tm="11275" dist="0" hr="60" />
-				<pt tm="11280" dist="0" hr="60" />
-				<pt tm="11285" dist="0" hr="66" />
-				<pt tm="11290" dist="0" hr="66" />
-				<pt tm="11295" dist="0" hr="61" />
-				<pt tm="11300" dist="0" hr="59" />
-				<pt tm="11305" dist="0" hr="58" />
-				<pt tm="11310" dist="0" hr="58" />
-				<pt tm="11315" dist="0" hr="58" />
-				<pt tm="11320" dist="0" hr="58" />
-				<pt tm="11325" dist="0" hr="58" />
-				<pt tm="11330" dist="0" hr="62" />
-				<pt tm="11335" dist="0" hr="69" />
-				<pt tm="11340" dist="0" hr="67" />
-				<pt tm="11345" dist="0" hr="68" />
-				<pt tm="11350" dist="0" hr="68" />
-				<pt tm="11355" dist="0" hr="65" />
-				<pt tm="11360" dist="0" hr="61" />
-				<pt tm="11365" dist="0" hr="58" />
-				<pt tm="11370" dist="0" hr="57" />
-				<pt tm="11375" dist="0" hr="58" />
-				<pt tm="11380" dist="0" hr="58" />
-				<pt tm="11385" dist="0" hr="56" />
-				<pt tm="11390" dist="0" hr="57" />
-				<pt tm="11395" dist="0" hr="53" />
-				<pt tm="11400" dist="0" hr="56" />
-				<pt tm="11405" dist="0" hr="58" />
-				<pt tm="11410" dist="0" hr="57" />
-				<pt tm="11415" dist="0" hr="57" />
-				<pt tm="11420" dist="0" hr="57" />
-				<pt tm="11425" dist="0" hr="59" />
-				<pt tm="11430" dist="0" hr="59" />
-				<pt tm="11435" dist="0" hr="60" />
-				<pt tm="11440" dist="0" hr="61" />
-				<pt tm="11445" dist="0" hr="63" />
-				<pt tm="11450" dist="0" hr="61" />
-				<pt tm="11455" dist="0" hr="59" />
-				<pt tm="11460" dist="0" hr="60" />
-				<pt tm="11465" dist="0" hr="59" />
-				<pt tm="11470" dist="0" hr="60" />
-				<pt tm="11475" dist="0" hr="68" />
-				<pt tm="11480" dist="0" hr="71" />
-				<pt tm="11485" dist="0" hr="66" />
-				<pt tm="11490" dist="0" hr="63" />
-				<pt tm="11495" dist="0" hr="61" />
-				<pt tm="11500" dist="0" hr="59" />
-				<pt tm="11505" dist="0" hr="57" />
-				<pt tm="11510" dist="0" hr="56" />
-				<pt tm="11515" dist="0" hr="58" />
-				<pt tm="11520" dist="0" hr="58" />
-				<pt tm="11525" dist="0" hr="60" />
-				<pt tm="11530" dist="0" hr="67" />
-				<pt tm="11535" dist="0" hr="71" />
-				<pt tm="11540" dist="0" hr="68" />
-				<pt tm="11545" dist="0" hr="61" />
-				<pt tm="11550" dist="0" hr="58" />
-				<pt tm="11555" dist="0" hr="57" />
-				<pt tm="11560" dist="0" hr="57" />
-				<pt tm="11565" dist="0" hr="59" />
-				<pt tm="11570" dist="0" hr="59" />
-				<pt tm="11575" dist="0" hr="58" />
-				<pt tm="11580" dist="0" hr="58" />
-				<pt tm="11585" dist="0" hr="57" />
-				<pt tm="11590" dist="0" hr="58" />
-				<pt tm="11595" dist="0" hr="57" />
-				<pt tm="11600" dist="0" hr="64" />
-				<pt tm="11605" dist="0" hr="70" />
-				<pt tm="11610" dist="0" hr="66" />
-				<pt tm="11615" dist="0" hr="60" />
-				<pt tm="11620" dist="0" hr="60" />
-				<pt tm="11625" dist="0" hr="55" />
-				<pt tm="11630" dist="0" hr="60" />
-				<pt tm="11635" dist="0" hr="63" />
-				<pt tm="11640" dist="0" hr="58" />
-				<pt tm="11645" dist="0" hr="58" />
-				<pt tm="11650" dist="0" hr="58" />
-				<pt tm="11655" dist="0" hr="61" />
-				<pt tm="11660" dist="0" hr="61" />
-				<pt tm="11665" dist="0" hr="64" />
-				<pt tm="11670" dist="0" hr="60" />
-				<pt tm="11675" dist="0" hr="57" />
-				<pt tm="11680" dist="0" hr="56" />
-				<pt tm="11685" dist="0" hr="61" />
-				<pt tm="11690" dist="0" hr="57" />
-				<pt tm="11695" dist="0" hr="55" />
-				<pt tm="11700" dist="0" hr="57" />
-				<pt tm="11705" dist="0" hr="58" />
-				<pt tm="11710" dist="0" hr="58" />
-				<pt tm="11715" dist="0" hr="60" />
-				<pt tm="11720" dist="0" hr="62" />
-				<pt tm="11725" dist="0" hr="58" />
-				<pt tm="11730" dist="0" hr="59" />
-				<pt tm="11735" dist="0" hr="59" />
-				<pt tm="11740" dist="0" hr="59" />
-				<pt tm="11745" dist="0" hr="58" />
-				<pt tm="11750" dist="0" hr="58" />
-				<pt tm="11755" dist="0" hr="58" />
-				<pt tm="11760" dist="0" hr="59" />
-				<pt tm="11765" dist="0" hr="59" />
-				<pt tm="11770" dist="0" hr="58" />
-				<pt tm="11775" dist="0" hr="58" />
-				<pt tm="11780" dist="0" hr="56" />
-				<pt tm="11785" dist="0" hr="55" />
-				<pt tm="11790" dist="0" hr="55" />
-				<pt tm="11795" dist="0" hr="55" />
-				<pt tm="11800" dist="0" hr="56" />
-				<pt tm="11805" dist="0" hr="70" />
-				<pt tm="11810" dist="0" hr="83" />
-				<pt tm="11815" dist="0" hr="86" />
-				<pt tm="11820" dist="0" hr="87" />
-				<pt tm="11825" dist="0" hr="76" />
-				<pt tm="11830" dist="0" hr="66" />
-				<pt tm="11835" dist="0" hr="61" />
-				<pt tm="11840" dist="0" hr="59" />
-				<pt tm="11845" dist="0" hr="58" />
-				<pt tm="11850" dist="0" hr="57" />
-				<pt tm="11855" dist="0" hr="56" />
-				<pt tm="11860" dist="0" hr="57" />
-				<pt tm="11865" dist="0" hr="59" />
-				<pt tm="11870" dist="0" hr="58" />
-				<pt tm="11875" dist="0" hr="58" />
-				<pt tm="11880" dist="0" hr="58" />
-				<pt tm="11885" dist="0" hr="58" />
-				<pt tm="11890" dist="0" hr="59" />
-				<pt tm="11895" dist="0" hr="64" />
-				<pt tm="11900" dist="0" hr="62" />
-				<pt tm="11905" dist="0" hr="58" />
-				<pt tm="11910" dist="0" hr="58" />
-				<pt tm="11915" dist="0" hr="59" />
-				<pt tm="11920" dist="0" hr="59" />
-				<pt tm="11925" dist="0" hr="59" />
-				<pt tm="11930" dist="0" hr="60" />
-				<pt tm="11935" dist="0" hr="60" />
-				<pt tm="11940" dist="0" hr="61" />
-				<pt tm="11945" dist="0" hr="61" />
-				<pt tm="11950" dist="0" hr="61" />
-				<pt tm="11955" dist="0" hr="61" />
-				<pt tm="11960" dist="0" hr="62" />
-				<pt tm="11965" dist="0" hr="61" />
-				<pt tm="11970" dist="0" hr="62" />
-				<pt tm="11975" dist="0" hr="62" />
-				<pt tm="11980" dist="0" hr="61" />
-				<pt tm="11985" dist="0" hr="61" />
-				<pt tm="11990" dist="0" hr="62" />
-				<pt tm="11995" dist="0" hr="63" />
-				<pt tm="12000" dist="0" hr="63" />
-				<pt tm="12005" dist="0" hr="63" />
-				<pt tm="12010" dist="0" hr="63" />
-				<pt tm="12015" dist="0" hr="62" />
-				<pt tm="12020" dist="0" hr="62" />
-				<pt tm="12025" dist="0" hr="61" />
-				<pt tm="12030" dist="0" hr="62" />
-				<pt tm="12035" dist="0" hr="61" />
-				<pt tm="12040" dist="0" hr="60" />
-				<pt tm="12045" dist="0" hr="61" />
-				<pt tm="12050" dist="0" hr="63" />
-				<pt tm="12055" dist="0" hr="63" />
-				<pt tm="12060" dist="0" hr="63" />
-				<pt tm="12065" dist="0" hr="62" />
-				<pt tm="12070" dist="0" hr="62" />
-				<pt tm="12075" dist="0" hr="64" />
-				<pt tm="12080" dist="0" hr="62" />
-				<pt tm="12085" dist="0" hr="63" />
-				<pt tm="12090" dist="0" hr="65" />
-				<pt tm="12095" dist="0" hr="63" />
-				<pt tm="12100" dist="0" hr="62" />
-				<pt tm="12105" dist="0" hr="61" />
-				<pt tm="12110" dist="0" hr="61" />
-				<pt tm="12115" dist="0" hr="62" />
-				<pt tm="12120" dist="0" hr="62" />
-				<pt tm="12125" dist="0" hr="64" />
-				<pt tm="12130" dist="0" hr="61" />
-				<pt tm="12135" dist="0" hr="60" />
-				<pt tm="12140" dist="0" hr="60" />
-				<pt tm="12145" dist="0" hr="59" />
-				<pt tm="12150" dist="0" hr="60" />
-				<pt tm="12155" dist="0" hr="59" />
-				<pt tm="12160" dist="0" hr="60" />
-				<pt tm="12165" dist="0" hr="61" />
-				<pt tm="12170" dist="0" hr="60" />
-				<pt tm="12175" dist="0" hr="62" />
-				<pt tm="12180" dist="0" hr="63" />
-				<pt tm="12185" dist="0" hr="61" />
-				<pt tm="12190" dist="0" hr="60" />
-				<pt tm="12195" dist="0" hr="59" />
-				<pt tm="12200" dist="0" hr="60" />
-				<pt tm="12205" dist="0" hr="62" />
-				<pt tm="12210" dist="0" hr="62" />
-				<pt tm="12215" dist="0" hr="64" />
-				<pt tm="12220" dist="0" hr="63" />
-				<pt tm="12225" dist="0" hr="63" />
-				<pt tm="12230" dist="0" hr="62" />
-				<pt tm="12235" dist="0" hr="59" />
-				<pt tm="12240" dist="0" hr="59" />
-				<pt tm="12245" dist="0" hr="58" />
-				<pt tm="12250" dist="0" hr="59" />
-				<pt tm="12255" dist="0" hr="64" />
-				<pt tm="12260" dist="0" hr="64" />
-				<pt tm="12265" dist="0" hr="65" />
-				<pt tm="12270" dist="0" hr="64" />
-				<pt tm="12275" dist="0" hr="68" />
-				<pt tm="12280" dist="0" hr="71" />
-				<pt tm="12285" dist="0" hr="73" />
-				<pt tm="12290" dist="0" hr="83" />
-				<pt tm="12295" dist="0" hr="77" />
-				<pt tm="12300" dist="0" hr="70" />
-				<pt tm="12305" dist="0" hr="63" />
-				<pt tm="12310" dist="0" hr="60" />
-				<pt tm="12315" dist="0" hr="59" />
-				<pt tm="12320" dist="0" hr="61" />
-				<pt tm="12325" dist="0" hr="61" />
-				<pt tm="12330" dist="0" hr="60" />
-				<pt tm="12335" dist="0" hr="61" />
-				<pt tm="12340" dist="0" hr="61" />
-				<pt tm="12345" dist="0" hr="61" />
-				<pt tm="12350" dist="0" hr="60" />
-				<pt tm="12355" dist="0" hr="57" />
-				<pt tm="12360" dist="0" hr="57" />
-				<pt tm="12365" dist="0" hr="59" />
-				<pt tm="12370" dist="0" hr="60" />
-				<pt tm="12375" dist="0" hr="60" />
-				<pt tm="12380" dist="0" hr="59" />
-				<pt tm="12385" dist="0" hr="57" />
-				<pt tm="12390" dist="0" hr="57" />
-				<pt tm="12395" dist="0" hr="60" />
-				<pt tm="12400" dist="0" hr="61" />
-				<pt tm="12405" dist="0" hr="60" />
-				<pt tm="12410" dist="0" hr="60" />
-				<pt tm="12415" dist="0" hr="63" />
-				<pt tm="12420" dist="0" hr="60" />
-				<pt tm="12425" dist="0" hr="61" />
+				<pt tm="8950" di"0" hr="61" />
 				<pt tm="12430" dist="0" hr="62" />
-				<pt tm="12435" dist="0" hr="62" />
+				<pt tm="12435" dist="0" hr="62" / 
 				<pt tm="12440" dist="0" hr="61" />
-				<pt tm="12445" dist="0" hr="67" />
+				<pt tm="12445" distÿ0" hr="67" />
 				<pt tm="12450" dist="0" hr="65" />
 				<pt tm="12455" dist="0" hr="59" />
 				<pt tm="12460" dist="0" hr="60" />
@@ -2555,7 +1788,7 @@
 				<pt tm="12725" dist="0" hr="80" />
 				<pt tm="12730" dist="0" hr="70" />
 				<pt tm="12735" dist="0" hr="64" />
-				<pt tm="12740" dist="0" hr="59" />
+				<pt tm="12740" dit="0" hr="59" />
 				<pt tm="12745" dist="0" hr="59" />
 				<pt tm="12750" dist="0" hr="60" />
 				<pt tm="12755" dist="0" hr="60" />
@@ -2564,7 +1797,8 @@
 				<pt tm="12770" dist="0" hr="59" />
 				<pt tm="12775" dist="0" hr="60" />
 				<pt tm="12780" dist="0" hr="63" />
-				<pt tm="12785" dist="0" hr="58" />
+				<pm="11200" dist="0" hr="59" />
+>
 				<pt tm="12790" dist="0" hr="59" />
 				<pt tm="12795" dist="0" hr="71" />
 				<pt tm="12800" dist="0" hr="74" />
@@ -2663,232 +1897,14 @@
 				<pt tm="13265" dist="0" hr="58" />
 				<pt tm="13270" dist="0" hr="57" />
 				<pt tm="13275" dist="0" hr="58" />
-				<pt tm="13280" dist="0" hr="59" />
-				<pt tm="13285" dist="0" hr="59" />
-				<pt tm="13290" dist="0" hr="59" />
-				<pt tm="13295" dist="0" hr="58" />
-				<pt tm="13300" dist="0" hr="58" />
-				<pt tm="13305" dist="0" hr="57" />
-				<pt tm="13310" dist="0" hr="58" />
-				<pt tm="13315" dist="0" hr="60" />
-				<pt tm="13320" dist="0" hr="59" />
-				<pt tm="13325" dist="0" hr="59" />
-				<pt tm="13330" dist="0" hr="58" />
-				<pt tm="13335" dist="0" hr="57" />
-				<pt tm="13340" dist="0" hr="57" />
-				<pt tm="13345" dist="0" hr="58" />
-				<pt tm="13350" dist="0" hr="55" />
-				<pt tm="13355" dist="0" hr="56" />
-				<pt tm="13360" dist="0" hr="58" />
-				<pt tm="13365" dist="0" hr="58" />
-				<pt tm="13370" dist="0" hr="58" />
-				<pt tm="13375" dist="0" hr="59" />
-				<pt tm="13380" dist="0" hr="59" />
-				<pt tm="13385" dist="0" hr="60" />
-				<pt tm="13390" dist="0" hr="59" />
-				<pt tm="13395" dist="0" hr="58" />
-				<pt tm="13400" dist="0" hr="57" />
-				<pt tm="13405" dist="0" hr="55" />
-				<pt tm="13410" dist="0" hr="56" />
-				<pt tm="13415" dist="0" hr="58" />
-				<pt tm="13420" dist="0" hr="58" />
-				<pt tm="13425" dist="0" hr="62" />
-				<pt tm="13430" dist="0" hr="62" />
-				<pt tm="13435" dist="0" hr="58" />
-				<pt tm="13440" dist="0" hr="60" />
-				<pt tm="13445" dist="0" hr="61" />
-				<pt tm="13450" dist="0" hr="61" />
-				<pt tm="13455" dist="0" hr="59" />
-				<pt tm="13460" dist="0" hr="58" />
-				<pt tm="13465" dist="0" hr="57" />
-				<pt tm="13470" dist="0" hr="56" />
-				<pt tm="13475" dist="0" hr="56" />
-				<pt tm="13480" dist="0" hr="58" />
-				<pt tm="13485" dist="0" hr="58" />
-				<pt tm="13490" dist="0" hr="58" />
-				<pt tm="13495" dist="0" hr="58" />
-				<pt tm="13500" dist="0" hr="59" />
-				<pt tm="13505" dist="0" hr="60" />
-				<pt tm="13510" dist="0" hr="57" />
-				<pt tm="13515" dist="0" hr="63" />
-				<pt tm="13520" dist="0" hr="63" />
-				<pt tm="13525" dist="0" hr="64" />
-				<pt tm="13530" dist="0" hr="65" />
-				<pt tm="13535" dist="0" hr="65" />
-				<pt tm="13540" dist="0" hr="64" />
-				<pt tm="13545" dist="0" hr="64" />
-				<pt tm="13550" dist="0" hr="65" />
-				<pt tm="13555" dist="0" hr="64" />
-				<pt tm="13560" dist="0" hr="63" />
-				<pt tm="13565" dist="0" hr="62" />
-				<pt tm="13570" dist="0" hr="61" />
-				<pt tm="13575" dist="0" hr="62" />
-				<pt tm="13580" dist="0" hr="61" />
-				<pt tm="13585" dist="0" hr="62" />
-				<pt tm="13590" dist="0" hr="60" />
-				<pt tm="13595" dist="0" hr="60" />
-				<pt tm="13600" dist="0" hr="62" />
-				<pt tm="13605" dist="0" hr="61" />
-				<pt tm="13610" dist="0" hr="63" />
-				<pt tm="13615" dist="0" hr="63" />
-				<pt tm="13620" dist="0" hr="63" />
-				<pt tm="13625" dist="0" hr="63" />
-				<pt tm="13630" dist="0" hr="62" />
-				<pt tm="13635" dist="0" hr="63" />
-				<pt tm="13640" dist="0" hr="60" />
-				<pt tm="13645" dist="0" hr="59" />
-				<pt tm="13650" dist="0" hr="60" />
-				<pt tm="13655" dist="0" hr="60" />
-				<pt tm="13660" dist="0" hr="61" />
-				<pt tm="13665" dist="0" hr="60" />
-				<pt tm="13670" dist="0" hr="60" />
-				<pt tm="13675" dist="0" hr="59" />
-				<pt tm="13680" dist="0" hr="60" />
-				<pt tm="13685" dist="0" hr="60" />
-				<pt tm="13690" dist="0" hr="60" />
-				<pt tm="13695" dist="0" hr="60" />
-				<pt tm="13700" dist="0" hr="60" />
-				<pt tm="13705" dist="0" hr="58" />
-				<pt tm="13710" dist="0" hr="59" />
-				<pt tm="13715" dist="0" hr="62" />
-				<pt tm="13720" dist="0" hr="62" />
-				<pt tm="13725" dist="0" hr="63" />
-				<pt tm="13730" dist="0" hr="67" />
-				<pt tm="13735" dist="0" hr="74" />
-				<pt tm="13740" dist="0" hr="79" />
-				<pt tm="13745" dist="0" hr="87" />
-				<pt tm="13750" dist="0" hr="81" />
-				<pt tm="13755" dist="0" hr="68" />
-				<pt tm="13760" dist="0" hr="64" />
-				<pt tm="13765" dist="0" hr="58" />
-				<pt tm="13770" dist="0" hr="56" />
-				<pt tm="13775" dist="0" hr="55" />
-				<pt tm="13780" dist="0" hr="57" />
-				<pt tm="13785" dist="0" hr="59" />
-				<pt tm="13790" dist="0" hr="53" />
-				<pt tm="13795" dist="0" hr="55" />
-				<pt tm="13800" dist="0" hr="56" />
-				<pt tm="13805" dist="0" hr="58" />
-				<pt tm="13810" dist="0" hr="59" />
-				<pt tm="13815" dist="0" hr="59" />
-				<pt tm="13820" dist="0" hr="59" />
-				<pt tm="13825" dist="0" hr="60" />
-				<pt tm="13830" dist="0" hr="63" />
-				<pt tm="13835" dist="0" hr="58" />
-				<pt tm="13840" dist="0" hr="58" />
-				<pt tm="13845" dist="0" hr="61" />
-				<pt tm="13850" dist="0" hr="62" />
-				<pt tm="13855" dist="0" hr="58" />
-				<pt tm="13860" dist="0" hr="59" />
-				<pt tm="13865" dist="0" hr="59" />
-				<pt tm="13870" dist="0" hr="60" />
-				<pt tm="13875" dist="0" hr="67" />
-				<pt tm="13880" dist="0" hr="66" />
-				<pt tm="13885" dist="0" hr="64" />
-				<pt tm="13890" dist="0" hr="63" />
-				<pt tm="13895" dist="0" hr="62" />
-				<pt tm="13900" dist="0" hr="63" />
-				<pt tm="13905" dist="0" hr="62" />
-				<pt tm="13910" dist="0" hr="61" />
-				<pt tm="13915" dist="0" hr="60" />
-				<pt tm="13920" dist="0" hr="60" />
-				<pt tm="13925" dist="0" hr="60" />
-				<pt tm="13930" dist="0" hr="58" />
-				<pt tm="13935" dist="0" hr="58" />
-				<pt tm="13940" dist="0" hr="57" />
-				<pt tm="13945" dist="0" hr="58" />
-				<pt tm="13950" dist="0" hr="58" />
-				<pt tm="13955" dist="0" hr="58" />
-				<pt tm="13960" dist="0" hr="59" />
-				<pt tm="13965" dist="0" hr="65" />
-				<pt tm="13970" dist="0" hr="61" />
-				<pt tm="13975" dist="0" hr="57" />
-				<pt tm="13980" dist="0" hr="59" />
-				<pt tm="13985" dist="0" hr="60" />
-				<pt tm="13990" dist="0" hr="61" />
-				<pt tm="13995" dist="0" hr="63" />
-				<pt tm="14000" dist="0" hr="63" />
-				<pt tm="14005" dist="0" hr="63" />
-				<pt tm="14010" dist="0" hr="62" />
-				<pt tm="14015" dist="0" hr="61" />
-				<pt tm="14020" dist="0" hr="62" />
-				<pt tm="14025" dist="0" hr="62" />
-				<pt tm="14030" dist="0" hr="63" />
-				<pt tm="14035" dist="0" hr="61" />
-				<pt tm="14040" dist="0" hr="63" />
-				<pt tm="14045" dist="0" hr="60" />
-				<pt tm="14050" dist="0" hr="60" />
-				<pt tm="14055" dist="0" hr="60" />
-				<pt tm="14060" dist="0" hr="59" />
-				<pt tm="14065" dist="0" hr="62" />
-				<pt tm="14070" dist="0" hr="61" />
-				<pt tm="14075" dist="0" hr="59" />
-				<pt tm="14080" dist="0" hr="59" />
-				<pt tm="14085" dist="0" hr="59" />
-				<pt tm="14090" dist="0" hr="59" />
-				<pt tm="14095" dist="0" hr="64" />
-				<pt tm="14100" dist="0" hr="63" />
-				<pt tm="14105" dist="0" hr="60" />
-				<pt tm="14110" dist="0" hr="61" />
-				<pt tm="14115" dist="0" hr="63" />
-				<pt tm="14120" dist="0" hr="63" />
-				<pt tm="14125" dist="0" hr="63" />
-				<pt tm="14130" dist="0" hr="63" />
-				<pt tm="14135" dist="0" hr="63" />
-				<pt tm="14140" dist="0" hr="62" />
-				<pt tm="14145" dist="0" hr="61" />
-				<pt tm="14150" dist="0" hr="61" />
-				<pt tm="14155" dist="0" hr="61" />
-				<pt tm="14160" dist="0" hr="60" />
-				<pt tm="14165" dist="0" hr="60" />
-				<pt tm="14170" dist="0" hr="60" />
-				<pt tm="14175" dist="0" hr="60" />
-				<pt tm="14180" dist="0" hr="60" />
-				<pt tm="14185" dist="0" hr="60" />
-				<pt tm="14190" dist="0" hr="62" />
-				<pt tm="14195" dist="0" hr="63" />
-				<pt tm="14200" dist="0" hr="61" />
-				<pt tm="14205" dist="0" hr="60" />
-				<pt tm="14210" dist="0" hr="60" />
-				<pt tm="14215" dist="0" hr="62" />
-				<pt tm="14220" dist="0" hr="64" />
-				<pt tm="14225" dist="0" hr="59" />
-				<pt tm="14230" dist="0" hr="59" />
-				<pt tm="14235" dist="0" hr="62" />
-				<pt tm="14240" dist="0" hr="60" />
-				<pt tm="14245" dist="0" hr="59" />
-				<pt tm="14250" dist="0" hr="59" />
-				<pt tm="14255" dist="0" hr="60" />
-				<pt tm="14260" dist="0" hr="61" />
-				<pt tm="14265" dist="0" hr="60" />
-				<pt tm="14270" dist="0" hr="59" />
-				<pt tm="14275" dist="0" hr="61" />
-				<pt tm="14280" dist="0" hr="61" />
-				<pt tm="14285" dist="0" hr="62" />
-				<pt tm="14290" dist="0" hr="62" />
-				<pt tm="14295" dist="0" hr="63" />
-				<pt tm="14300" dist="0" hr="63" />
-				<pt tm="14305" dist="0" hr="63" />
-				<pt tm="14310" dist="0" hr="63" />
-				<pt tm="14315" dist="0" hr="61" />
-				<pt tm="14320" dist="0" hr="62" />
-				<pt tm="14325" dist="0" hr="63" />
-				<pt tm="14330" dist="0" hr="65" />
-				<pt tm="14335" dist="0" hr="64" />
-				<pt tm="14340" dist="0" hr="63" />
-				<pt tm="14345" dist="0" hr="62" />
-				<pt tm="14350" dist="0" hr="61" />
-				<pt tm="14355" dist="0" hr="61" />
-				<pt tm="14360" dist="0" hr="62" />
-				<pt tm="14365" dist="0" hr="61" />
-				<pt tm="14370" dist="0" hr="62" />
-				<pt tm="14375" dist="0" hr="61" />
+				<pt tm="13280" dist="0" hr="59pt tm="14375" dist="0" hr="61" />
 				<pt tm="14380" dist="0" hr="61" />
 				<pt tm="14385" dist="0" hr="60" />
 				<pt tm="14390" dist="0" hr="59" />
 				<pt tm="14395" dist="0" hr="60" />
 				<pt tm="14400" dist="0" hr="61" />
-				<pt tm="14405" dist="0" hr="61" />
+				<pt tm="14405" dist="0" hr="61"
+		
 				<pt tm="14410" dist="0" hr="61" />
 				<pt tm="14415" dist="0" hr="61" />
 				<pt tm="14420" dist="0" hr="62" />
@@ -2909,7 +1925,7 @@
 				<pt tm="14495" dist="0" hr="62" />
 				<pt tm="14500" dist="0" hr="63" />
 				<pt tm="14505" dist="0" hr="62" />
-				<pt tm="14510" dist="0" hr="61" />
+				<pt	<pt tm="19430" dist="0" hr="10
 				<pt tm="14515" dist="0" hr="60" />
 				<pt tm="14520" dist="0" hr="61" />
 				<pt tm="14525" dist="0" hr="61" />
@@ -2942,350 +1958,8 @@
 				<pt tm="14660" dist="0" hr="60" />
 				<pt tm="14665" dist="0" hr="60" />
 				<pt tm="14670" dist="0" hr="61" />
-				<pt tm="14675" dist="0" hr="62" />
-				<pt tm="14680" dist="0" hr="61" />
-				<pt tm="14685" dist="0" hr="61" />
-				<pt tm="14690" dist="0" hr="59" />
-				<pt tm="14695" dist="0" hr="59" />
-				<pt tm="14700" dist="0" hr="60" />
-				<pt tm="14705" dist="0" hr="62" />
-				<pt tm="14710" dist="0" hr="62" />
-				<pt tm="14715" dist="0" hr="62" />
-				<pt tm="14720" dist="0" hr="62" />
-				<pt tm="14725" dist="0" hr="62" />
-				<pt tm="14730" dist="0" hr="62" />
-				<pt tm="14735" dist="0" hr="62" />
-				<pt tm="14740" dist="0" hr="61" />
-				<pt tm="14745" dist="0" hr="63" />
-				<pt tm="14750" dist="0" hr="66" />
-				<pt tm="14755" dist="0" hr="66" />
-				<pt tm="14760" dist="0" hr="66" />
-				<pt tm="14765" dist="0" hr="67" />
-				<pt tm="14770" dist="0" hr="65" />
-				<pt tm="14775" dist="0" hr="63" />
-				<pt tm="14780" dist="0" hr="62" />
-				<pt tm="14785" dist="0" hr="62" />
-				<pt tm="14790" dist="0" hr="62" />
-				<pt tm="14795" dist="0" hr="62" />
-				<pt tm="14800" dist="0" hr="62" />
-				<pt tm="14805" dist="0" hr="60" />
-				<pt tm="14810" dist="0" hr="60" />
-				<pt tm="14815" dist="0" hr="58" />
-				<pt tm="14820" dist="0" hr="59" />
-				<pt tm="14825" dist="0" hr="61" />
-				<pt tm="14830" dist="0" hr="61" />
-				<pt tm="14835" dist="0" hr="60" />
-				<pt tm="14840" dist="0" hr="60" />
-				<pt tm="14845" dist="0" hr="60" />
-				<pt tm="14850" dist="0" hr="61" />
-				<pt tm="14855" dist="0" hr="63" />
-				<pt tm="14860" dist="0" hr="61" />
-				<pt tm="14865" dist="0" hr="60" />
-				<pt tm="14870" dist="0" hr="60" />
-				<pt tm="14875" dist="0" hr="60" />
-				<pt tm="14880" dist="0" hr="62" />
-				<pt tm="14885" dist="0" hr="62" />
-				<pt tm="14890" dist="0" hr="60" />
-				<pt tm="14895" dist="0" hr="61" />
-				<pt tm="14900" dist="0" hr="61" />
-				<pt tm="14905" dist="0" hr="60" />
-				<pt tm="14910" dist="0" hr="62" />
-				<pt tm="14915" dist="0" hr="61" />
-				<pt tm="14920" dist="0" hr="62" />
-				<pt tm="14925" dist="0" hr="63" />
-				<pt tm="14930" dist="0" hr="65" />
-				<pt tm="14935" dist="0" hr="63" />
-				<pt tm="14940" dist="0" hr="62" />
-				<pt tm="14945" dist="0" hr="63" />
-				<pt tm="14950" dist="0" hr="68" />
-				<pt tm="14955" dist="0" hr="79" />
-				<pt tm="14960" dist="0" hr="82" />
-				<pt tm="14965" dist="0" hr="87" />
-				<pt tm="14970" dist="0" hr="82" />
-				<pt tm="14975" dist="0" hr="67" />
-				<pt tm="14980" dist="0" hr="62" />
-				<pt tm="14985" dist="0" hr="61" />
-				<pt tm="14990" dist="0" hr="61" />
-				<pt tm="14995" dist="0" hr="57" />
-				<pt tm="15000" dist="0" hr="58" />
-				<pt tm="15005" dist="0" hr="57" />
-				<pt tm="15010" dist="0" hr="59" />
-				<pt tm="15015" dist="0" hr="61" />
-				<pt tm="15020" dist="0" hr="63" />
-				<pt tm="15025" dist="0" hr="62" />
-				<pt tm="15030" dist="0" hr="60" />
-				<pt tm="15035" dist="0" hr="59" />
-				<pt tm="15040" dist="0" hr="58" />
-				<pt tm="15045" dist="0" hr="60" />
-				<pt tm="15050" dist="0" hr="60" />
-				<pt tm="15055" dist="0" hr="63" />
-				<pt tm="15060" dist="0" hr="60" />
-				<pt tm="15065" dist="0" hr="59" />
-				<pt tm="15070" dist="0" hr="58" />
-				<pt tm="15075" dist="0" hr="58" />
-				<pt tm="15080" dist="0" hr="59" />
-				<pt tm="15085" dist="0" hr="59" />
-				<pt tm="15090" dist="0" hr="59" />
-				<pt tm="15095" dist="0" hr="60" />
-				<pt tm="15100" dist="0" hr="59" />
-				<pt tm="15105" dist="0" hr="59" />
-				<pt tm="15110" dist="0" hr="58" />
-				<pt tm="15115" dist="0" hr="59" />
-				<pt tm="15120" dist="0" hr="60" />
-				<pt tm="15125" dist="0" hr="61" />
-				<pt tm="15130" dist="0" hr="61" />
-				<pt tm="15135" dist="0" hr="60" />
-				<pt tm="15140" dist="0" hr="60" />
-				<pt tm="15145" dist="0" hr="59" />
-				<pt tm="15150" dist="0" hr="60" />
-				<pt tm="15155" dist="0" hr="59" />
-				<pt tm="15160" dist="0" hr="58" />
-				<pt tm="15165" dist="0" hr="59" />
-				<pt tm="15170" dist="0" hr="61" />
-				<pt tm="15175" dist="0" hr="59" />
-				<pt tm="15180" dist="0" hr="60" />
-				<pt tm="15185" dist="0" hr="61" />
-				<pt tm="15190" dist="0" hr="60" />
-				<pt tm="15195" dist="0" hr="61" />
-				<pt tm="15200" dist="0" hr="60" />
-				<pt tm="15205" dist="0" hr="59" />
-				<pt tm="15210" dist="0" hr="60" />
-				<pt tm="15215" dist="0" hr="60" />
-				<pt tm="15220" dist="0" hr="60" />
-				<pt tm="15225" dist="0" hr="58" />
-				<pt tm="15230" dist="0" hr="59" />
-				<pt tm="15235" dist="0" hr="60" />
-				<pt tm="15240" dist="0" hr="58" />
-				<pt tm="15245" dist="0" hr="59" />
-				<pt tm="15250" dist="0" hr="58" />
-				<pt tm="15255" dist="0" hr="58" />
-				<pt tm="15260" dist="0" hr="59" />
-				<pt tm="15265" dist="0" hr="60" />
-				<pt tm="15270" dist="0" hr="61" />
-				<pt tm="15275" dist="0" hr="60" />
-				<pt tm="15280" dist="0" hr="61" />
-				<pt tm="15285" dist="0" hr="59" />
-				<pt tm="15290" dist="0" hr="59" />
-				<pt tm="15295" dist="0" hr="59" />
-				<pt tm="15300" dist="0" hr="58" />
-				<pt tm="15305" dist="0" hr="59" />
-				<pt tm="15310" dist="0" hr="59" />
-				<pt tm="15315" dist="0" hr="59" />
-				<pt tm="15320" dist="0" hr="60" />
-				<pt tm="15325" dist="0" hr="60" />
-				<pt tm="15330" dist="0" hr="61" />
-				<pt tm="15335" dist="0" hr="62" />
-				<pt tm="15340" dist="0" hr="60" />
-				<pt tm="15345" dist="0" hr="60" />
-				<pt tm="15350" dist="0" hr="59" />
-				<pt tm="15355" dist="0" hr="58" />
-				<pt tm="15360" dist="0" hr="59" />
-				<pt tm="15365" dist="0" hr="57" />
-				<pt tm="15370" dist="0" hr="57" />
-				<pt tm="15375" dist="0" hr="59" />
-				<pt tm="15380" dist="0" hr="60" />
-				<pt tm="15385" dist="0" hr="59" />
-				<pt tm="15390" dist="0" hr="59" />
-				<pt tm="15395" dist="0" hr="59" />
-				<pt tm="15400" dist="0" hr="59" />
-				<pt tm="15405" dist="0" hr="58" />
-				<pt tm="15410" dist="0" hr="59" />
-				<pt tm="15415" dist="0" hr="59" />
-				<pt tm="15420" dist="0" hr="59" />
-				<pt tm="15425" dist="0" hr="59" />
-				<pt tm="15430" dist="0" hr="59" />
-				<pt tm="15435" dist="0" hr="59" />
-				<pt tm="15440" dist="0" hr="60" />
-				<pt tm="15445" dist="0" hr="60" />
-				<pt tm="15450" dist="0" hr="60" />
-				<pt tm="15455" dist="0" hr="58" />
-				<pt tm="15460" dist="0" hr="58" />
-				<pt tm="15465" dist="0" hr="59" />
-				<pt tm="15470" dist="0" hr="59" />
-				<pt tm="15475" dist="0" hr="58" />
-				<pt tm="15480" dist="0" hr="59" />
-				<pt tm="15485" dist="0" hr="60" />
-				<pt tm="15490" dist="0" hr="60" />
-				<pt tm="15495" dist="0" hr="59" />
-				<pt tm="15500" dist="0" hr="60" />
-				<pt tm="15505" dist="0" hr="59" />
-				<pt tm="15510" dist="0" hr="59" />
-				<pt tm="15515" dist="0" hr="59" />
-				<pt tm="15520" dist="0" hr="60" />
-				<pt tm="15525" dist="0" hr="59" />
-				<pt tm="15530" dist="0" hr="59" />
-				<pt tm="15535" dist="0" hr="58" />
-				<pt tm="15540" dist="0" hr="58" />
-				<pt tm="15545" dist="0" hr="59" />
-				<pt tm="15550" dist="0" hr="58" />
-				<pt tm="15555" dist="0" hr="59" />
-				<pt tm="15560" dist="0" hr="59" />
-				<pt tm="15565" dist="0" hr="59" />
-				<pt tm="15570" dist="0" hr="59" />
-				<pt tm="15575" dist="0" hr="60" />
-				<pt tm="15580" dist="0" hr="60" />
-				<pt tm="15585" dist="0" hr="60" />
-				<pt tm="15590" dist="0" hr="59" />
-				<pt tm="15595" dist="0" hr="60" />
-				<pt tm="15600" dist="0" hr="60" />
-				<pt tm="15605" dist="0" hr="60" />
-				<pt tm="15610" dist="0" hr="61" />
-				<pt tm="15615" dist="0" hr="59" />
-				<pt tm="15620" dist="0" hr="59" />
-				<pt tm="15625" dist="0" hr="59" />
-				<pt tm="15630" dist="0" hr="60" />
-				<pt tm="15635" dist="0" hr="60" />
-				<pt tm="15640" dist="0" hr="60" />
-				<pt tm="15645" dist="0" hr="61" />
-				<pt tm="15650" dist="0" hr="61" />
-				<pt tm="15655" dist="0" hr="59" />
-				<pt tm="15660" dist="0" hr="59" />
-				<pt tm="15665" dist="0" hr="59" />
-				<pt tm="15670" dist="0" hr="58" />
-				<pt tm="15675" dist="0" hr="58" />
-				<pt tm="15680" dist="0" hr="59" />
-				<pt tm="15685" dist="0" hr="60" />
-				<pt tm="15690" dist="0" hr="60" />
-				<pt tm="15695" dist="0" hr="61" />
-				<pt tm="15700" dist="0" hr="60" />
-				<pt tm="15705" dist="0" hr="60" />
-				<pt tm="15710" dist="0" hr="60" />
-				<pt tm="15715" dist="0" hr="60" />
-				<pt tm="15720" dist="0" hr="59" />
-				<pt tm="15725" dist="0" hr="60" />
-				<pt tm="15730" dist="0" hr="60" />
-				<pt tm="15735" dist="0" hr="60" />
-				<pt tm="15740" dist="0" hr="60" />
-				<pt tm="15745" dist="0" hr="60" />
-				<pt tm="15750" dist="0" hr="59" />
-				<pt tm="15755" dist="0" hr="60" />
-				<pt tm="15760" dist="0" hr="60" />
-				<pt tm="15765" dist="0" hr="60" />
-				<pt tm="15770" dist="0" hr="60" />
-				<pt tm="15775" dist="0" hr="59" />
-				<pt tm="15780" dist="0" hr="60" />
-				<pt tm="15785" dist="0" hr="59" />
-				<pt tm="15790" dist="0" hr="59" />
-				<pt tm="15795" dist="0" hr="60" />
-				<pt tm="15800" dist="0" hr="59" />
-				<pt tm="15805" dist="0" hr="60" />
-				<pt tm="15810" dist="0" hr="60" />
-				<pt tm="15815" dist="0" hr="60" />
-				<pt tm="15820" dist="0" hr="60" />
-				<pt tm="15825" dist="0" hr="60" />
-				<pt tm="15830" dist="0" hr="61" />
-				<pt tm="15835" dist="0" hr="60" />
-				<pt tm="15840" dist="0" hr="60" />
-				<pt tm="15845" dist="0" hr="61" />
-				<pt tm="15850" dist="0" hr="61" />
-				<pt tm="15855" dist="0" hr="60" />
-				<pt tm="15860" dist="0" hr="60" />
-				<pt tm="15865" dist="0" hr="60" />
-				<pt tm="15870" dist="0" hr="59" />
-				<pt tm="15875" dist="0" hr="64" />
-				<pt tm="15880" dist="0" hr="62" />
-				<pt tm="15885" dist="0" hr="61" />
-				<pt tm="15890" dist="0" hr="60" />
-				<pt tm="15895" dist="0" hr="59" />
-				<pt tm="15900" dist="0" hr="60" />
-				<pt tm="15905" dist="0" hr="60" />
-				<pt tm="15910" dist="0" hr="60" />
-				<pt tm="15915" dist="0" hr="62" />
-				<pt tm="15920" dist="0" hr="62" />
-				<pt tm="15925" dist="0" hr="63" />
-				<pt tm="15930" dist="0" hr="63" />
-				<pt tm="15935" dist="0" hr="61" />
-				<pt tm="15940" dist="0" hr="61" />
-				<pt tm="15945" dist="0" hr="61" />
-				<pt tm="15950" dist="0" hr="61" />
-				<pt tm="15955" dist="0" hr="61" />
-				<pt tm="15960" dist="0" hr="62" />
-				<pt tm="15965" dist="0" hr="61" />
-				<pt tm="15970" dist="0" hr="60" />
-				<pt tm="15975" dist="0" hr="61" />
-				<pt tm="15980" dist="0" hr="60" />
-				<pt tm="15985" dist="0" hr="61" />
-				<pt tm="15990" dist="0" hr="60" />
-				<pt tm="15995" dist="0" hr="60" />
-				<pt tm="16000" dist="0" hr="61" />
-				<pt tm="16005" dist="0" hr="61" />
-				<pt tm="16010" dist="0" hr="61" />
-				<pt tm="16015" dist="0" hr="61" />
-				<pt tm="16020" dist="0" hr="60" />
-				<pt tm="16025" dist="0" hr="59" />
-				<pt tm="16030" dist="0" hr="59" />
-				<pt tm="16035" dist="0" hr="59" />
-				<pt tm="16040" dist="0" hr="60" />
-				<pt tm="16045" dist="0" hr="59" />
-				<pt tm="16050" dist="0" hr="59" />
-				<pt tm="16055" dist="0" hr="61" />
-				<pt tm="16060" dist="0" hr="60" />
-				<pt tm="16065" dist="0" hr="61" />
-				<pt tm="16070" dist="0" hr="61" />
-				<pt tm="16075" dist="0" hr="59" />
-				<pt tm="16080" dist="0" hr="60" />
-				<pt tm="16085" dist="0" hr="60" />
-				<pt tm="16090" dist="0" hr="60" />
-				<pt tm="16095" dist="0" hr="60" />
-				<pt tm="16100" dist="0" hr="59" />
-				<pt tm="16105" dist="0" hr="57" />
-				<pt tm="16110" dist="0" hr="59" />
-				<pt tm="16115" dist="0" hr="60" />
-				<pt tm="16120" dist="0" hr="61" />
-				<pt tm="16125" dist="0" hr="63" />
-				<pt tm="16130" dist="0" hr="60" />
-				<pt tm="16135" dist="0" hr="59" />
-				<pt tm="16140" dist="0" hr="62" />
-				<pt tm="16145" dist="0" hr="60" />
-				<pt tm="16150" dist="0" hr="60" />
-				<pt tm="16155" dist="0" hr="62" />
-				<pt tm="16160" dist="0" hr="63" />
-				<pt tm="16165" dist="0" hr="61" />
-				<pt tm="16170" dist="0" hr="61" />
-				<pt tm="16175" dist="0" hr="62" />
-				<pt tm="16180" dist="0" hr="61" />
-				<pt tm="16185" dist="0" hr="61" />
-				<pt tm="16190" dist="0" hr="61" />
-				<pt tm="16195" dist="0" hr="61" />
-				<pt tm="16200" dist="0" hr="61" />
-				<pt tm="16205" dist="0" hr="61" />
-				<pt tm="16210" dist="0" hr="61" />
-				<pt tm="16215" dist="0" hr="60" />
-				<pt tm="16220" dist="0" hr="61" />
-				<pt tm="16225" dist="0" hr="59" />
-				<pt tm="16230" dist="0" hr="60" />
-				<pt tm="16235" dist="0" hr="61" />
-				<pt tm="16240" dist="0" hr="60" />
-				<pt tm="16245" dist="0" hr="60" />
-				<pt tm="16250" dist="0" hr="62" />
-				<pt tm="16255" dist="0" hr="61" />
-				<pt tm="16260" dist="0" hr="60" />
-				<pt tm="16265" dist="0" hr="60" />
-				<pt tm="16270" dist="0" hr="60" />
-				<pt tm="16275" dist="0" hr="60" />
-				<pt tm="16280" dist="0" hr="61" />
-				<pt tm="16285" dist="0" hr="61" />
-				<pt tm="16290" dist="0" hr="61" />
-				<pt tm="16295" dist="0" hr="61" />
-				<pt tm="16300" dist="0" hr="60" />
-				<pt tm="16305" dist="0" hr="60" />
-				<pt tm="16310" dist="0" hr="60" />
-				<pt tm="16315" dist="0" hr="59" />
-				<pt tm="16320" dist="0" hr="60" />
-				<pt tm="16325" dist="0" hr="61" />
-				<pt tm="16330" dist="0" hr="60" />
-				<pt tm="16335" dist="0" hr="61" />
-				<pt tm="16340" dist="0" hr="62" />
-				<pt tm="16345" dist="0" hr="62" />
-				<pt tm="16350" dist="0" hr="61" />
-				<pt tm="16355" dist="0" hr="61" />
-				<pt tm="16360" dist="0" hr="61" />
-				<pt tm="16365" dist="0" hr="62" />
-				<pt tm="16370" dist="0" hr="64" />
-				<pt tm="16375" dist="0" hr="60" />
-				<pt tm="16380" dist="0" hr="60" />
-				<pt tm="16385" dist="0" hr="63" />
-				<pt tm="16390" dist="0" hr="63" />
+				<pist="0" dist="0" hr="63" />
+				<pt tm="16390" dist="0" hr="63 />
 				<pt tm="16395" dist="0" hr="65" />
 				<pt tm="16400" dist="0" hr="64" />
 				<pt tm="16405" dist="0" hr="63" />
@@ -3311,10 +1985,7 @@
 				<pt tm="16505" dist="0" hr="62" />
 				<pt tm="16510" dist="0" hr="62" />
 				<pt tm="16515" dist="0" hr="61" />
-				<pt tm="16520" dist="0" hr="61" />
-				<pt tm="16525" dist="0" hr="62" />
-				<pt tm="16530" dist="0" hr="62" />
-				<pt tm="16535" dist="0" hr="62" />
+				<pt tB="16535" dist="0" hr="62" />
 				<pt tm="16540" dist="0" hr="62" />
 				<pt tm="16545" dist="0" hr="62" />
 				<pt tm="16550" dist="0" hr="62" />
@@ -3342,11 +2013,11 @@
 				<pt tm="16660" dist="0" hr="61" />
 				<pt tm="16665" dist="0" hr="62" />
 				<pt tm="16670" dist="0" hr="62" />
-				<pt tm="16675" dist="0" hr="62" />
+				<pt tm="16675" dist="0" hr=»62" />
 				<pt tm="16680" dist="0" hr="63" />
 				<pt tm="16685" dist="0" hr="63" />
 				<pt tm="16690" dist="0" hr="62" />
-				<pt tm="16695" dist="0" hr="63" />
+				<pt tm="16695" dist="0" hrY"63" />
 				<pt tm="16700" dist="0" hr="62" />
 				<pt tm="16705" dist="0" hr="63" />
 				<pt tm="16710" dist="0" hr="63" />
@@ -3396,7 +2067,7 @@
 				<pt tm="16930" dist="0" hr="64" />
 				<pt tm="16935" dist="0" hr="64" />
 				<pt tm="16940" dist="0" hr="64" />
-				<pt tm="16945" dist="0" hr="64" />
+				<pt tm="16945$ dist="0" hr="64" />
 				<pt tm="16950" dist="0" hr="64" />
 				<pt tm="16955" dist="0" hr="64" />
 				<pt tm="16960" dist="0" hr="64" />
@@ -3420,7 +2091,7 @@
 				<pt tm="17050" dist="0" hr="62" />
 				<pt tm="17055" dist="0" hr="63" />
 				<pt tm="17060" dist="0" hr="63" />
-				<pt tm="17065" dist="0" hr="63" />
+				<pt tm="17065" di]t="0" hr="63" />
 				<pt tm="17070" dist="0" hr="63" />
 				<pt tm="17075" dist="0" hr="63" />
 				<pt tm="17080" dist="0" hr="63" />
@@ -3504,13 +2175,13 @@
 				<pt tm="17470" dist="0" hr="61" />
 				<pt tm="17475" dist="0" hr="61" />
 				<pt tm="17480" dist="0" hr="62" />
-				<pt tm="17485" dist="0" hr="66" />
+				<pt tm="17485" dist="0" hr="66"-/>
 				<pt tm="17490" dist="0" hr="64" />
 				<pt tm="17495" dist="0" hr="63" />
 				<pt tm="17500" dist="0" hr="63" />
 				<pt tm="17505" dist="0" hr="62" />
 				<pt tm="17510" dist="0" hr="63" />
-				<pt tm="17515" dist="0" hr="67" />
+				<pt tm="17515" €ist="0" hr="67" />
 				<pt tm="17520" dist="0" hr="67" />
 				<pt tm="17525" dist="0" hr="67" />
 				<pt tm="17530" dist="0" hr="65" />
@@ -3521,19 +2192,20 @@
 				<pt tm="17555" dist="0" hr="64" />
 				<pt tm="17560" dist="0" hr="63" />
 				<pt tm="17565" dist="0" hr="65" />
-				<pt tm="17570" dist="0" hr="64" />
+				<pt tm="17570" dist="0" tm=" hr="64" />
 				<pt tm="17575" dist="0" hr="67" />
 				<pt tm="17580" dist="0" hr="66" />
 				<pt tm="17585" dist="0" hr="63" />
 				<pt tm="17590" dist="0" hr="64" />
 				<pt tm="17595" dist="0" hr="64" />
-				<pt tm="17600" dist="0" hr="64" />
+				<pt t>
+m="17600" dist="0" hr="64" />
 				<pt tm="17605" dist="0" hr="62" />
 				<pt tm="17610" dist="0" hr="62" />
 				<pt tm="17615" dist="0" hr="62" />
 				<pt tm="17620" dist="0" hr="62" />
 				<pt tm="17625" dist="0" hr="65" />
-				<pt tm="17630" dist="0" hr="72" />
+				<pt tm="17K30" dist="0" hr="72" />
 				<pt tm="17635" dist="0" hr="78" />
 				<pt tm="17640" dist="0" hr="83" />
 				<pt tm="17645" dist="0" hr="80" />
@@ -3551,7 +2223,7 @@
 				<pt tm="17705" dist="0" hr="59" />
 				<pt tm="17710" dist="0" hr="59" />
 				<pt tm="17715" dist="0" hr="59" />
-				<pt tm="17720" dist="0" hr="60" />
+				<pt tm="17720" dist="0" hr 60" />
 				<pt tm="17725" dist="0" hr="60" />
 				<pt tm="17730" dist="0" hr="60" />
 				<pt tm="17735" dist="0" hr="61" />
@@ -3560,14 +2232,14 @@
 				<pt tm="17750" dist="0" hr="64" />
 				<pt tm="17755" dist="0" hr="67" />
 				<pt tm="17760" dist="0" hr="67" />
-				<pt tm="17765" dist="0" hr="63" />
+				<pt tm="17>65" dist="0" hr="63" />
 				<pt tm="17770" dist="0" hr="65" />
 				<pt tm="17775" dist="0" hr="65" />
 				<pt tm="17780" dist="0" hr="70" />
 				<pt tm="17785" dist="0" hr="79" />
 				<pt tm="17790" dist="0" hr="86" />
 				<pt tm="17795" dist="0" hr="85" />
-				<pt tm="17800" dist="0" hr="75" />
+				<pt tm="17800" dist="0" hr="75" />
 				<pt tm="17805" dist="0" hr="65" />
 				<pt tm="17810" dist="0" hr="64" />
 				<pt tm="17815" dist="0" hr="64" />
@@ -3592,7 +2264,7 @@
 				<pt tm="17910" dist="0" hr="59" />
 				<pt tm="17915" dist="0" hr="60" />
 				<pt tm="17920" dist="0" hr="59" />
-				<pt tm="17925" dist="0" hr="57" />
+				<pt tm="7925" dist="0" hr="57" />
 				<pt tm="17930" dist="0" hr="57" />
 				<pt tm="17935" dist="0" hr="56" />
 				<pt tm="17940" dist="0" hr="59" />
@@ -3658,9 +2330,9 @@
 				<pt tm="18240" dist="0" hr="65" />
 				<pt tm="18245" dist="0" hr="66" />
 				<pt tm="18250" dist="0" hr="62" />
-				<pt tm="18255" dist="0" hr="61" />
+				<pt tm="18255" dist="0" hr=ÿÿ />
 				<pt tm="18260" dist="0" hr="61" />
-				<pt tm="18265" dist="0" hr="62" />
+				<pt tm="18265" dist="0			<="62" />
 				<pt tm="18270" dist="0" hr="60" />
 				<pt tm="18275" dist="0" hr="62" />
 				<pt tm="18280" dist="0" hr="63" />
@@ -3675,8 +2347,7 @@
 				<pt tm="18325" dist="0" hr="62" />
 				<pt tm="18330" dist="0" hr="61" />
 				<pt tm="18335" dist="0" hr="61" />
-				<pt tm="18340" dist="0" hr="60" />
-				<pt tm="18345" dist="0" hr="59" />
+				<pt tm="18340" dist="0" hr="60" />				<pt tm="18345" dist="0" hr="59" />
 				<pt tm="18350" dist="0" hr="59" />
 				<pt tm="18355" dist="0" hr="59" />
 				<pt tm="18360" dist="0" hr="59" />
@@ -3690,7 +2361,7 @@
 				<pt tm="18400" dist="0" hr="65" />
 				<pt tm="18405" dist="0" hr="62" />
 				<pt tm="18410" dist="0" hr="61" />
-				<pt tm="18415" dist="0" hr="63" />
+				<pt   "18415" dist="0" hr="63" />
 				<pt tm="18420" dist="0" hr="62" />
 				<pt tm="18425" dist="0" hr="59" />
 				<pt tm="18430" dist="0" hr="59" />
@@ -3706,7 +2377,7 @@
 				<pt tm="18480" dist="0" hr="62" />
 				<pt tm="18485" dist="0" hr="63" />
 				<pt tm="18490" dist="0" hr="63" />
-				<pt tm="18495" dist="0" hr="63" />
+			<pt tm="18495" dist="0" hr="63" />
 				<pt tm="18500" dist="0" hr="64" />
 				<pt tm="18505" dist="0" hr="62" />
 				<pt tm="18510" dist="0" hr="61" />
@@ -3745,7 +2416,7 @@
 				<pt tm="18675" dist="0" hr="62" />
 				<pt tm="18680" dist="0" hr="61" />
 				<pt tm="18685" dist="0" hr="61" />
-				<pt tm="18690" dist="0" hr="62" />
+				<pt tm="18690" {ist="0" hr="62" />
 				<pt tm="18695" dist="0" hr="63" />
 				<pt tm="18700" dist="0" hr="64" />
 				<pt tm="18705" dist="0" hr="67" />
@@ -3776,7 +2447,12 @@
 				<pt tm="18830" dist="0" hr="63" />
 				<pt tm="18835" dist="0" hr="61" />
 				<pt tm="18840" dist="0" hr="60" />
-				<pt tm="18845" dist="0" hr="61" />
+				<pt tm="18845" "0" hr="66" />
+				<pt tm="400" dist="0" hr="66" />
+				<pt tm="405" dist="0" hr="65" />
+				<pt tm="410" dist="0" hr="64" />
+				<pt tm="415" dist="0" hr="64" />
+				<pt tm="420" dist="0" hr="61" />
 				<pt tm="18850" dist="0" hr="62" />
 				<pt tm="18855" dist="0" hr="62" />
 				<pt tm="18860" dist="0" hr="63" />
@@ -3801,7 +2477,7 @@
 				<pt tm="18955" dist="0" hr="59" />
 				<pt tm="18960" dist="0" hr="58" />
 				<pt tm="18965" dist="0" hr="57" />
-				<pt tm="18970" dist="0" hr="57" />
+				<pt tm="18970" dist="0" hr=957" />
 				<pt tm="18975" dist="0" hr="59" />
 				<pt tm="18980" dist="0" hr="62" />
 				<pt tm="18985" dist="0" hr="62" />
@@ -3830,7 +2506,7 @@
 				<pt tm="19100" dist="0" hr="67" />
 				<pt tm="19105" dist="0" hr="66" />
 				<pt tm="19110" dist="0" hr="66" />
-				<pt tm="19115" dist="0" hr="65" />
+				<pt tm="19115" ƒist="0" hr="65" />
 				<pt tm="19120" dist="0" hr="66" />
 				<pt tm="19125" dist="0" hr="68" />
 				<pt tm="19130" dist="0" hr="69" />
@@ -3857,7 +2533,7 @@
 				<pt tm="19235" dist="0" hr="83" />
 				<pt tm="19240" dist="0" hr="77" />
 				<pt tm="19245" dist="0" hr="73" />
-				<pt tm="19250" dist="0" hr="71" />
+				<pt tm="1$250" dist="0" hr="71" />
 				<pt tm="19255" dist="0" hr="69" />
 				<pt tm="19260" dist="0" hr="67" />
 				<pt tm="19265" dist="0" hr="66" />

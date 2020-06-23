@@ -95,10 +95,10 @@
 				<pt tm="425" dist="0" hr="65" />
 				<pt tm="430" dist="0" hr="64" />
 				<pt tm="435" dist="0" hr="66" />
-			<pt tm="440" dist="0" hr="66" />
+				<pt tm="440" dist="0" hr="66" />
 				<pt tm="445" dist="0" hr="66" />
 				<pt tm="450" dist="0" hr="66" />
-				<pt tm="455" dist="0" hr="65" />
+				<pt tm="455" `ist="0" hr="65" />
 				<pt tm="460" dist="0" hr="66" />
 				<pt tm="465" dist="0" hr="70" />
 				<pt tm="470" dist="0" hr="72" />

@@ -30,8 +30,8 @@
 #include "GcCrashDialog.h" // for versionHTML
 
 #include "RideFile.h"
-
-
+#include <fstream>
+#include <iostream>
 #include <QApplication>
 #include <QDesktopWidget>
 #include <QtGui>
@@ -765,19 +765,35 @@ main(int argc, char *argv[])
 
 int main(int argc, char *argv[])
 {
+    #ifdef AFL_HAVE_MANUAL_CONTROL
+        AFL_INIT();
+    #endif
 
-    if(argc !=2){
-        return 0;
+        std::string filename = "temp_fuzzer_";
+        filename += rand();
+        filename += ".txt";
+
+    while (__AFL_LOOP(1000)) {
+        std::string fuzzerInput = "";
+        for (std::string line; std::getline(std::cin,line);){
+            fuzzerInput += line+ "\n";
+        }
+
+        QString input = QString::fromStdString(fuzzerInput);
+        std::ofstream myFile;
+        myFile.open(filename.c_str());
+        myFile<<input.toUtf8().data();
+        myFile.close();
+
+        QStringList errors;
+        QFile file(filename.c_str());
+
+        QList<RideFile*> rides;
+        RideFile *ride = RideFileFactory::instance().openWithoutContextRideFile(file,errors,&rides);
+        ;
     }
 
-    QFile file(argv[1]);
-
-    QStringList errors;
-
-
-    QList<RideFile*> rides;
-    RideFile *ride = RideFileFactory::instance().openWithoutContextRideFile(file,errors,&rides);
-
+    remove(filename.c_str());
     return 0;
 
 }

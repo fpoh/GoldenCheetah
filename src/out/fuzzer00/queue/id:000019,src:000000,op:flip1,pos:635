@@ -11,7 +11,7 @@
 				<pt tm="5" dist="0" hr="83" />
 				<pt tm="10" dist="0" hr="83" />
 				<pt tm="15" dist="0" hr="85" />
-				<pt tm="20" dist="0" hr="80" />
+				<pt tm="20" dist="0" hr="80" /.
 				<pt tm="25" dist="0" hr="81" />
 				<pt tm="30" dist="0" hr="82" />
 				<pt tm="35" dist="0" hr="81" />
@@ -95,7 +95,7 @@
 				<pt tm="425" dist="0" hr="65" />
 				<pt tm="430" dist="0" hr="64" />
 				<pt tm="435" dist="0" hr="66" />
-			<pt tm="440" dist="0" hr="66" />
+				<pt tm="440" dist="0" hr="66" />
 				<pt tm="445" dist="0" hr="66" />
 				<pt tm="450" dist="0" hr="66" />
 				<pt tm="455" dist="0" hr="65" />
