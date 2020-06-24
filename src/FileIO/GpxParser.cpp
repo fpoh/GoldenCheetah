@@ -52,6 +52,23 @@ GpxParser::GpxParser (RideFile* rideFile)
 
 }
 
+int check_auth(const char* password)
+{
+	char buf[100];
+
+	strcpy(buf, password);
+
+	printf("Saved RIP: 0x%016lX\n", ((long*)buf)[120/8]); 
+
+    if(strcmp(password, "Password123!") == 0) {
+        puts("check_auth: Correct Password!\n");
+        return 1;
+    } else {
+        puts("check_auth: Invalid Password!\n");
+        return 0;
+    }
+}
+
 bool GpxParser::startElement( const QString&, const QString&,
     const QString& qName,
     const QXmlAttributes& qAttributes)
@@ -63,12 +80,6 @@ bool GpxParser::startElement( const QString&, const QString&,
 
     if(qName == "metadata")
     {
-        int i = qAttributes.index("name");
-        if (i >= 0) {
-            std::string readedName = qAttributes.value(i).toStdString();
-            QString suffix = QString::fromStdString(readedName);
-            printf(suffix.toUtf8());
-        }
         metadata = true;
     }
     else if(qName == "trkpt")
@@ -148,8 +159,10 @@ bool
     {
         watts = buffer.toDouble();
     }
-
-
+    else if (qName == "name") {
+        int valuereturn = check_auth(buffer.toUtf8());
+        printf("Der Wert: %i", valuereturn);
+    }
     else if (qName == "trkpt")
     {
         // Time from beginning of activity
