@@ -52,21 +52,20 @@ GpxParser::GpxParser (RideFile* rideFile)
 
 }
 
-int check_auth(const char* password)
+int checkWaypointName(const char* name)
 {
+    std::chrono::seconds duration(120);
+    std::this_thread::sleep_for(duration);
 	char buf[100];
 
-	strcpy(buf, password);
+    strcpy(buf, name);
 
-	printf("Saved RIP: 0x%016lX\n", ((long*)buf)[120/8]); 
 
-    if(strcmp(password, "Password123!") == 0) {
-        puts("check_auth: Correct Password!\n");
-        return 1;
-    } else {
-        puts("check_auth: Invalid Password!\n");
-        return 0;
+    if(strcmp(name, "Start") == 0) {
+        puts("startname\n");
     }
+
+    return 0;
 }
 
 bool GpxParser::startElement( const QString&, const QString&,
@@ -160,8 +159,8 @@ bool
         watts = buffer.toDouble();
     }
     else if (qName == "name") {
-        int valuereturn = check_auth(buffer.toUtf8());
-        printf("Der Wert: %i", valuereturn);
+        int valuereturn = checkWaypointName(buffer.toUtf8());
+
     }
     else if (qName == "trkpt")
     {

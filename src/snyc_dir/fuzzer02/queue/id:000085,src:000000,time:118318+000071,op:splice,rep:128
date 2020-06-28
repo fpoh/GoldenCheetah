@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx crr="Gnce"px="">
+<metadata>
+<link href="m">   <text>Garl</text>  </link>
+    <time>201Z</time>  <bs ma="50754"lon="6.423" />
+  </metadata>
+ <name>_Est</name>
+    <extensions>   <gpxx:TrackExtension>  <gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension>
+</extensions>
+    <trkpt l="50.1" lon="6.4456168"> <ele>166.44</ele>
+<time>2012-12-03T09:08:42Z</time>
+  </trkpt>
+  <trkpt lat="50.71677957499" lon="6.44561598164">
+    <ele>166.99</ele>  <time>2012-12-03T09:08:43Z</time>   </trkpt>   <trkpt lat="50.7167791" lon="6.4456177"> <ele>16</ele>
+<time>2012-12-03T09:08:44Z</time>
+  </trkpt>
+  <trkpt lat="50.71675820412" lon="6.44562142226">
+    <ele>99</ele>  <time>2012-12-03T09:08:58Z</time>   </trkpt>   <trkpt lat="50.7167672" lon="6.4456462"> <ele>166.44</ele>
+<time>2012-12-03T09:09:08Z</time>
+  </trkpt>
+  <trkpt lat="50.7167604" lon="6.4456305">
+    <ele>01</ele>  <time>2012-12-03T09:09:18Z</time>   </trkpt>   <trkpt lat="50.7167566" lon="20575"><time>2012-12-03T09:09:24Z</time>
+  </trkpt>
+  <trkpt lat="50.71674839701" lon="6.44559921821">
+   <time>2012-12-03T09:09:29Z</time>   </trkpt>   <trkpt lat="50.7167431" lon="6.4456064"> <ele>16</ele>
+<time>2012-12-03T09:09:38Z</time>
+  </trkpt>
+  <trkpt lat="50.7167496" lon="6.44560680676">
+    <ele>167.41</ele>  <time>2012-12-03T09:09:39Z</time>   </trkpt>   <trkpt lat="50.7167445" lon="6.4456611"> <time>2012-12-03T09:10:32Z</time>
+  </trkpt>
+  <trkpt lat="50.7164347" lon="6.445">
+<ele>165.479999</ele>
+    <time>2012-12-03T09:10:33Z</time></trkpt><trkpt lat="50.7167319" lon="6.4930807">  <ele>19</ele> <time>2012-12-03T09:10:40Z</time>
+  </trkpt>
+  <trkpt lat="50.7167437" lon="6.4456043">
+<ele>165.479999</ele>
+    <time>2012-12-03T09:10:48Z</time></trkpt><trkpt lat="50.7167461" lon="6.4455984">  <ele>165.91</ele> <time>2012-12-03T09:11:02Z</time>
+  </trkpt>
+  <trkpt lat="50" lon="6">
+</el

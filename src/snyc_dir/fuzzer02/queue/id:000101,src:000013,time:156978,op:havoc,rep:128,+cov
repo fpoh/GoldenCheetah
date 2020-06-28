@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx crr="Gnce"px="">
+<metadata>
+<link href="m">   <text>Garl</text>  </link>
+    <time>201Z</time>  <bs ma="50754"lon="6.423" />
+  </metadata>
+ <name>_Est</name>
+    <extensions>   <gpxx:TrackExtension>  <gpxx:DisplayColor>Red</gpxx:DisplayColor></gpxx:TrackExtension>
+</extensions>
+    <eg>   <t lat="51" lon="8"> <ele>16</ele>
+<time>2012-12-03T09:08:42Z</time>
+    <ele>99</ele>  <time> <trkpt lat="50.7519341" lon="6.042577">
+    <ele>166.449999</ele>  <time>2012-12-03T09:08:44Z</time>   </trkpt>   <trkpt lat="50.712" lon="6"> <ele>16</ele>
+<time>2012-12-03T09:08:58Z</time>
+  </trkpt>
+  <trkpt lat="50.582">
+    <ele>99</ele>  <time>2012-12-03T09:09:08Z</time>   </trkpt>   <trkpt lat="50.714" lon="60305"> <ele>166.93</ele>
+<time>2012-12-03T09:09:18Z</time>
+  </trkpt>
+  <trkpt lat="50.936" lon="6.575">
+ R01<

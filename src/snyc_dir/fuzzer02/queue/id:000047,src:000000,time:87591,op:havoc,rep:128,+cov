@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx crr="Gnce"px="">
+<metadata>
+<link href="m">   <text>Garl</text>  </link>
+    <time>201Z</time>  <bs ma="503" />
+  </metadata>   <name>_EVt</name>  <extensions>
+  <gpxx:TrackExtension> <gpxx:DisplayColor>Red</gpxx:DisplayColor>   </gpxx:TrackExtension>
+    </extensions>  <tg>
+  <trkpt lat="50" lon="6">
+<ele>166999</ele>
+    <time>201Z</time>
